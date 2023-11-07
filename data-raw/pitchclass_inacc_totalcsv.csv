@@ -1,0 +1,2048 @@
+,Unnamed: 0,Unnamed: 0.1,song id,instrument category,region category,pitch class inaccuracy
+0,0,pitchclass1,Benin/Flagellation Song,Vocal,Africa,23.4205093616983
+1,1,pitchclass5,Benin/Flagellation Song,Vocal,Africa,46.4463300034076
+2,2,pitchclass6,Benin/Flagellation Song,Vocal,Africa,11.6291761166649
+3,3,pitchclass7,Benin/Flagellation Song,Vocal,Africa,1.10999387183074
+4,4,pitchclass8,Benin/Flagellation Song,Vocal,Africa,4.49571067317629
+5,0,pitchclass1,Central African Republic/Lullaby (Nzakara),Vocal,Africa,34.5434763565863
+6,1,pitchclass3,Central African Republic/Lullaby (Nzakara),Vocal,Africa,29.9182956060322
+7,2,pitchclass5,Central African Republic/Lullaby (Nzakara),Vocal,Africa,12.5239155270974
+8,3,pitchclass7,Central African Republic/Lullaby (Nzakara),Vocal,Africa,44.3484127202228
+9,0,pitchclass1,Congo/09 E Muanamu Nki Didilanga,Vocal,Africa,14.9105065217391
+10,1,pitchclass4,Congo/09 E Muanamu Nki Didilanga,Vocal,Africa,49.8911607770588
+11,2,pitchclass6,Congo/09 E Muanamu Nki Didilanga,Vocal,Africa,32.1967037439608
+12,0,pitchclass1,Ethiopia/02 Lembola (Hanafa Tribe),Vocal,Africa,46.9099113445373
+13,1,pitchclass3,Ethiopia/02 Lembola (Hanafa Tribe),Vocal,Africa,15.9461903767951
+14,2,pitchclass4,Ethiopia/02 Lembola (Hanafa Tribe),Vocal,Africa,32.5153950654694
+15,3,pitchclass6,Ethiopia/02 Lembola (Hanafa Tribe),Vocal,Africa,1.9730274159665
+16,0,pitchclass3,Ethiopia/02 Zegevre,Vocal,Africa,14.8396289876018
+17,1,pitchclass4,Ethiopia/02 Zegevre,Vocal,Africa,41.2163369572154
+18,2,pitchclass5,Ethiopia/02 Zegevre,Vocal,Africa,37.7374242811602
+19,0,pitchclass1,"Ethiopia/03 Borquekka, Ox Song _ Ox Song and Chant (Gernu Tribe)",Vocal,Africa,33.5274705882348
+20,1,pitchclass3,"Ethiopia/03 Borquekka, Ox Song _ Ox Song and Chant (Gernu Tribe)",Vocal,Africa,36.5576681872772
+21,2,pitchclass5,"Ethiopia/03 Borquekka, Ox Song _ Ox Song and Chant (Gernu Tribe)",Vocal,Africa,36.9368108932485
+22,3,pitchclass6,"Ethiopia/03 Borquekka, Ox Song _ Ox Song and Chant (Gernu Tribe)",Vocal,Africa,33.495717647058
+23,0,pitchclass1,Ethiopia/03 Prieres Pour La Cloture De Kippour,Vocal,Africa,17.8648199999971
+24,1,pitchclass2,Ethiopia/03 Prieres Pour La Cloture De Kippour,Vocal,Africa,7.51110065099601
+25,2,pitchclass4,Ethiopia/03 Prieres Pour La Cloture De Kippour,Vocal,Africa,22.8441613871037
+26,3,pitchclass6,Ethiopia/03 Prieres Pour La Cloture De Kippour,Vocal,Africa,43.7009511688302
+27,0,pitchclass2,Ethiopia/05 Qil'E Tsilat,Vocal,Africa,2.5606847222225
+28,1,pitchclass4,Ethiopia/05 Qil'E Tsilat,Vocal,Africa,33.4374013888882
+29,2,pitchclass5,Ethiopia/05 Qil'E Tsilat,Vocal,Africa,34.5489986111115
+30,3,pitchclass7,Ethiopia/05 Qil'E Tsilat,Vocal,Africa,32.5415806571818
+31,4,pitchclass9,Ethiopia/05 Qil'E Tsilat,Vocal,Africa,12.7401436111086
+32,5,pitchclass10,Ethiopia/05 Qil'E Tsilat,Vocal,Africa,5.96171138888894
+33,0,pitchclass2,Ethiopia/06 Wanevivo Egzee'Aviher Limusye,Vocal,Africa,13.3932859999986
+34,1,pitchclass3,Ethiopia/06 Wanevivo Egzee'Aviher Limusye,Vocal,Africa,41.8765142857119
+35,2,pitchclass5,Ethiopia/06 Wanevivo Egzee'Aviher Limusye,Vocal,Africa,26.8047427272686
+36,0,pitchclass2,Ethiopia/08 Yitbarek,Vocal,Africa,18.0301709677387
+37,1,pitchclass4,Ethiopia/08 Yitbarek,Vocal,Africa,16.0998577993832
+38,2,pitchclass6,Ethiopia/08 Yitbarek,Vocal,Africa,12.6516800960908
+39,3,pitchclass7,Ethiopia/08 Yitbarek,Vocal,Africa,21.6808234767013
+40,4,pitchclass9,Ethiopia/08 Yitbarek,Vocal,Africa,44.1329956989266
+41,0,pitchclass1,Ghana/01 Afa,Vocal,Africa,12.8417934453773
+42,1,pitchclass2,Ghana/01 Afa,Vocal,Africa,44.312174411767
+43,2,pitchclass6,Ghana/01 Afa,Vocal,Africa,36.153575588236
+44,0,pitchclass1,Ghana/02 Akpoka,Vocal,Africa,30.9845981425933
+45,1,pitchclass2,Ghana/02 Akpoka,Vocal,Africa,32.3958180787304
+46,2,pitchclass4,Ghana/02 Akpoka,Vocal,Africa,22.3533748044174
+47,3,pitchclass5,Ghana/02 Akpoka,Vocal,Africa,12.5373142195149
+48,0,pitchclass1,Ghana/03 Ageshe,Vocal,Africa,11.3425379774762
+49,1,pitchclass2,Ghana/03 Ageshe,Vocal,Africa,47.6899970098966
+50,2,pitchclass6,Ghana/03 Ageshe,Vocal,Africa,19.7274796296279
+51,3,pitchclass7,Ghana/03 Ageshe,Vocal,Africa,1.05711521885496
+52,4,pitchclass8,Ghana/03 Ageshe,Vocal,Africa,14.7673197811455
+53,0,pitchclass1,Ghana/04 Kinka,Vocal,Africa,32.3874208147536
+54,1,pitchclass3,Ghana/04 Kinka,Vocal,Africa,8.70438087604816
+55,2,pitchclass6,Ghana/04 Kinka,Vocal,Africa,16.3833917051834
+56,3,pitchclass7,Ghana/04 Kinka,Vocal,Africa,10.2284159476094
+57,4,pitchclass8,Ghana/04 Kinka,Vocal,Africa,32.0297726526751
+58,0,pitchclass1,Ghana/05 Agogbagba,Vocal,Africa,18.7602322077892
+59,1,pitchclass3,Ghana/05 Agogbagba,Vocal,Africa,15.3951441269819
+60,2,pitchclass4,Ghana/05 Agogbagba,Vocal,Africa,47.3500814285708
+61,3,pitchclass5,Ghana/05 Agogbagba,Vocal,Africa,18.8670875510197
+62,4,pitchclass6,Ghana/05 Agogbagba,Vocal,Africa,32.794518571427
+63,5,pitchclass7,Ghana/05 Agogbagba,Vocal,Africa,42.9825041269814
+64,6,pitchclass8,Ghana/05 Agogbagba,Vocal,Africa,6.03270857142707
+65,0,pitchclass1,Ghana/06 Dakoli N-Nye Bia,Vocal,Africa,19.5522373737404
+66,1,pitchclass5,Ghana/06 Dakoli N-Nye Bia,Vocal,Africa,38.6647856818145
+67,2,pitchclass6,Ghana/06 Dakoli N-Nye Bia,Vocal,Africa,25.0723818181796
+68,0,pitchclass1,Ghana/07 Dzigbordi Dance Drumming (Pt. 1),Vocal,Africa,16.6747980279724
+69,1,pitchclass2,Ghana/07 Dzigbordi Dance Drumming (Pt. 1),Vocal,Africa,25.1625493877509
+70,2,pitchclass5,Ghana/07 Dzigbordi Dance Drumming (Pt. 1),Vocal,Africa,5.02042728249398
+71,3,pitchclass6,Ghana/07 Dzigbordi Dance Drumming (Pt. 1),Vocal,Africa,32.1561472789126
+72,0,pitchclass1,Ghana/08 Dzigbordi Dance Drumming (Pt. 2),Vocal,Africa,39.9423159909911
+73,1,pitchclass2,Ghana/08 Dzigbordi Dance Drumming (Pt. 2),Vocal,Africa,44.7077622275519
+74,2,pitchclass4,Ghana/08 Dzigbordi Dance Drumming (Pt. 2),Vocal,Africa,31.8983902334148
+75,3,pitchclass6,Ghana/08 Dzigbordi Dance Drumming (Pt. 2),Vocal,Africa,11.0758915847655
+76,4,pitchclass7,Ghana/08 Dzigbordi Dance Drumming (Pt. 2),Vocal,Africa,0.79578973817479
+77,5,pitchclass8,Ghana/08 Dzigbordi Dance Drumming (Pt. 2),Vocal,Africa,48.0667175061444
+78,6,pitchclass9,Ghana/08 Dzigbordi Dance Drumming (Pt. 2),Vocal,Africa,36.9689594992051
+79,0,pitchclass1,Ghana/09 Marilli (Yeji),Vocal,Africa,5.02055151689456
+80,1,pitchclass3,Ghana/09 Marilli (Yeji),Vocal,Africa,13.7819122651545
+81,2,pitchclass4,Ghana/09 Marilli (Yeji),Vocal,Africa,21.2309890168963
+82,3,pitchclass6,Ghana/09 Marilli (Yeji),Vocal,Africa,16.9805576497693
+83,4,pitchclass7,Ghana/09 Marilli (Yeji),Vocal,Africa,12.9075069601167
+84,0,pitchclass2,Ghana/10 Dzigbordi Dance Drumming (Pt. 4),Vocal,Africa,0.56682163743244
+85,1,pitchclass3,Ghana/10 Dzigbordi Dance Drumming (Pt. 4),Vocal,Africa,33.1820916958932
+86,2,pitchclass4,Ghana/10 Dzigbordi Dance Drumming (Pt. 4),Vocal,Africa,11.6197490696341
+87,3,pitchclass5,Ghana/10 Dzigbordi Dance Drumming (Pt. 4),Vocal,Africa,43.6925408566531
+88,4,pitchclass6,Ghana/10 Dzigbordi Dance Drumming (Pt. 4),Vocal,Africa,12.7475494152095
+89,0,pitchclass1,Kalahari/04 Xeree (Maturity for Girls),Vocal,Africa,0.061277432716452
+90,1,pitchclass4,Kalahari/04 Xeree (Maturity for Girls),Vocal,Africa,45.0923217189265
+91,2,pitchclass5,Kalahari/04 Xeree (Maturity for Girls),Vocal,Africa,48.9023981685041
+92,3,pitchclass6,Kalahari/04 Xeree (Maturity for Girls),Vocal,Africa,8.0992542692984
+93,4,pitchclass8,Kalahari/04 Xeree (Maturity for Girls),Vocal,Africa,33.4865369878207
+94,5,pitchclass10,Kalahari/04 Xeree (Maturity for Girls),Vocal,Africa,19.7024989974907
+95,0,pitchclass3,Kalahari/17 Nare (Buffalo),Vocal,Africa,5.52359917597096
+96,1,pitchclass5,Kalahari/17 Nare (Buffalo),Vocal,Africa,39.342645959603
+97,2,pitchclass7,Kalahari/17 Nare (Buffalo),Vocal,Africa,36.5144762626242
+98,3,pitchclass9,Kalahari/17 Nare (Buffalo),Vocal,Africa,23.3414700788398
+99,4,pitchclass11,Kalahari/17 Nare (Buffalo),Vocal,Africa,3.62144205209916
+100,0,pitchclass1,Kalahari/18 Kukama,Vocal,Africa,14.5799007692331
+101,1,pitchclass2,Kalahari/18 Kukama,Vocal,Africa,29.9585625874133
+102,2,pitchclass4,Kalahari/18 Kukama,Vocal,Africa,14.0983233974348
+103,3,pitchclass6,Kalahari/18 Kukama,Vocal,Africa,17.6411692307702
+104,4,pitchclass7,Kalahari/18 Kukama,Vocal,Africa,29.979868269229
+105,5,pitchclass9,Kalahari/18 Kukama,Vocal,Africa,43.5116868778277
+106,6,pitchclass11,Kalahari/18 Kukama,Vocal,Africa,37.5219307692314
+107,0,pitchclass1,Kalahari/28 Eaga Call,Vocal,Africa,28.6991679215153
+108,1,pitchclass3,Kalahari/28 Eaga Call,Vocal,Africa,33.4394929365371
+109,2,pitchclass4,Kalahari/28 Eaga Call,Vocal,Africa,20.357101572532
+110,3,pitchclass5,Kalahari/28 Eaga Call,Vocal,Africa,16.413891501059
+111,4,pitchclass6,Kalahari/28 Eaga Call,Vocal,Africa,30.5930881517761
+112,5,pitchclass8,Kalahari/28 Eaga Call,Vocal,Africa,22.4699239534875
+113,0,pitchclass1,Kalahari/34 Ngwana,Vocal,Africa,47.7096247692298
+114,1,pitchclass3,Kalahari/34 Ngwana,Vocal,Africa,44.4581718233621
+115,2,pitchclass5,Kalahari/34 Ngwana,Vocal,Africa,30.1768289659503
+116,3,pitchclass9,Kalahari/34 Ngwana,Vocal,Africa,42.0376073076932
+117,0,pitchclass1,Kenya/10 Akamba Witch Doctor (Kenya),Vocal,Africa,7.66616835637615
+118,1,pitchclass2,Kenya/10 Akamba Witch Doctor (Kenya),Vocal,Africa,14.7051791788854
+119,2,pitchclass6,Kenya/10 Akamba Witch Doctor (Kenya),Vocal,Africa,30.495022076615
+120,3,pitchclass7,Kenya/10 Akamba Witch Doctor (Kenya),Vocal,Africa,31.9089402178452
+121,4,pitchclass9,Kenya/10 Akamba Witch Doctor (Kenya),Vocal,Africa,14.8604612135223
+122,5,pitchclass11,Kenya/10 Akamba Witch Doctor (Kenya),Vocal,Africa,12.0242102150551
+123,0,pitchclass3,Mali/Herding Song Marriage Song Lullaby,Vocal,Africa,38.8969201346827
+124,1,pitchclass5,Mali/Herding Song Marriage Song Lullaby,Vocal,Africa,48.1958403485805
+125,2,pitchclass6,Mali/Herding Song Marriage Song Lullaby,Vocal,Africa,45.01483597884
+126,3,pitchclass7,Mali/Herding Song Marriage Song Lullaby,Vocal,Africa,43.7438824074088
+127,0,pitchclass1,Senegal/Individual Praise Singing,Vocal,Africa,46.4735268518507
+128,1,pitchclass3,Senegal/Individual Praise Singing,Vocal,Africa,16.4682371091876
+129,2,pitchclass4,Senegal/Individual Praise Singing,Vocal,Africa,32.1586856018512
+130,3,pitchclass5,Senegal/Individual Praise Singing,Vocal,Africa,26.7994341099147
+131,4,pitchclass6,Senegal/Individual Praise Singing,Vocal,Africa,17.6474281481514
+132,5,pitchclass7,Senegal/Individual Praise Singing,Vocal,Africa,16.3120848148155
+133,6,pitchclass8,Senegal/Individual Praise Singing,Vocal,Africa,2.95508367003276
+134,7,pitchclass10,Senegal/Individual Praise Singing,Vocal,Africa,47.8018058518519
+135,8,pitchclass11,Senegal/Individual Praise Singing,Vocal,Africa,21.8902092592598
+136,9,pitchclass12,Senegal/Individual Praise Singing,Vocal,Africa,19.7355218518514
+137,0,pitchclass1,Tanzania/01 Kulumbu,Vocal,Africa,40.5241229166677
+138,1,pitchclass4,Tanzania/01 Kulumbu,Vocal,Africa,45.2430349537044
+139,2,pitchclass5,Tanzania/01 Kulumbu,Vocal,Africa,8.72970279471519
+140,3,pitchclass6,Tanzania/01 Kulumbu,Vocal,Africa,34.1450817876375
+141,4,pitchclass7,Tanzania/01 Kulumbu,Vocal,Africa,18.0271890398508
+142,5,pitchclass8,Tanzania/01 Kulumbu,Vocal,Africa,0.137506250004662
+143,6,pitchclass9,Tanzania/01 Kulumbu,Vocal,Africa,28.2605115530314
+144,0,pitchclass2,Tanzania/06 Kababa Nae,Vocal,Africa,45.921004341737
+145,1,pitchclass3,Tanzania/06 Kababa Nae,Vocal,Africa,32.8832367226878
+146,2,pitchclass4,Tanzania/06 Kababa Nae,Vocal,Africa,18.4088294499616
+147,3,pitchclass5,Tanzania/06 Kababa Nae,Vocal,Africa,35.7019832773094
+148,4,pitchclass6,Tanzania/06 Kababa Nae,Vocal,Africa,36.0697294499605
+149,0,pitchclass3,Tanzania/1-02 Mrigali _ Chant A Capella,Vocal,Africa,7.10466197793357
+150,1,pitchclass4,Tanzania/1-02 Mrigali _ Chant A Capella,Vocal,Africa,20.0512384429439
+151,2,pitchclass6,Tanzania/1-02 Mrigali _ Chant A Capella,Vocal,Africa,14.7290033130739
+152,3,pitchclass7,Tanzania/1-02 Mrigali _ Chant A Capella,Vocal,Africa,19.3681571379566
+153,4,pitchclass8,Tanzania/1-02 Mrigali _ Chant A Capella,Vocal,Africa,44.8759947821709
+154,0,pitchclass3,Tanzania/14 Kunguwia,Vocal,Africa,21.7449342857144
+155,1,pitchclass4,Tanzania/14 Kunguwia,Vocal,Africa,4.67812201680863
+156,2,pitchclass5,Tanzania/14 Kunguwia,Vocal,Africa,19.3935514285731
+157,3,pitchclass6,Tanzania/14 Kunguwia,Vocal,Africa,15.7857631932748
+158,0,pitchclass1,Tanzania/Ngondo,Vocal,Africa,40.8154799450567
+159,1,pitchclass3,Tanzania/Ngondo,Vocal,Africa,15.4321070850219
+160,2,pitchclass4,Tanzania/Ngondo,Vocal,Africa,36.0608118503096
+161,3,pitchclass5,Tanzania/Ngondo,Vocal,Africa,42.9681421978003
+162,4,pitchclass7,Tanzania/Ngondo,Vocal,Africa,44.8576807692298
+163,5,pitchclass9,Tanzania/Ngondo,Vocal,Africa,1.32600299145088
+164,6,pitchclass10,Tanzania/Ngondo,Vocal,Africa,39.6034358974321
+165,7,pitchclass11,Tanzania/Ngondo,Vocal,Africa,39.8277891025646
+166,8,pitchclass12,Tanzania/Ngondo,Vocal,Africa,15.294104013381
+167,9,pitchclass13,Tanzania/Ngondo,Vocal,Africa,19.4501021978031
+168,0,pitchclass1,Uganda/Ayemere Kasunau nkwanzi,Vocal,Africa,13.9455463171653
+169,1,pitchclass3,Uganda/Ayemere Kasunau nkwanzi,Vocal,Africa,43.2431466743055
+170,2,pitchclass4,Uganda/Ayemere Kasunau nkwanzi,Vocal,Africa,43.9181616049118
+171,3,pitchclass8,Uganda/Ayemere Kasunau nkwanzi,Vocal,Africa,9.7674754410782
+172,4,pitchclass9,Uganda/Ayemere Kasunau nkwanzi,Vocal,Africa,34.3849241590269
+173,0,pitchclass1,Uganda/Enanga rwanzira,Vocal,Africa,6.71641999999883
+174,1,pitchclass4,Uganda/Enanga rwanzira,Vocal,Africa,19.9612172093057
+175,2,pitchclass5,Uganda/Enanga rwanzira,Vocal,Africa,17.9023350000007
+176,3,pitchclass6,Uganda/Enanga rwanzira,Vocal,Africa,7.59942500000034
+177,4,pitchclass8,Uganda/Enanga rwanzira,Vocal,Africa,49.535896216219
+178,5,pitchclass10,Uganda/Enanga rwanzira,Vocal,Africa,38.7260964705856
+179,6,pitchclass12,Uganda/Enanga rwanzira,Vocal,Africa,7.97064111111467
+180,0,pitchclass3,Uganda/Kurungi Ngweyo,Vocal,Africa,6.70777513513167
+181,1,pitchclass5,Uganda/Kurungi Ngweyo,Vocal,Africa,21.0111601351327
+182,2,pitchclass6,Uganda/Kurungi Ngweyo,Vocal,Africa,31.9572223691739
+183,3,pitchclass8,Uganda/Kurungi Ngweyo,Vocal,Africa,26.7838442260436
+184,0,pitchclass2,Uganda/Kyanda,Vocal,Africa,48.027768181817
+185,1,pitchclass4,Uganda/Kyanda,Vocal,Africa,31.8982705479466
+186,2,pitchclass6,Uganda/Kyanda,Vocal,Africa,43.6804987804899
+187,3,pitchclass7,Uganda/Kyanda,Vocal,Africa,15.0510795082009
+188,4,pitchclass8,Uganda/Kyanda,Vocal,Africa,19.5263222222202
+189,0,pitchclass1,Zambia/Kankola kame,Vocal,Africa,29.4029877049179
+190,1,pitchclass2,Zambia/Kankola kame,Vocal,Africa,20.2567814549184
+191,2,pitchclass3,Zambia/Kankola kame,Vocal,Africa,5.45469189707183
+192,3,pitchclass5,Zambia/Kankola kame,Vocal,Africa,33.0447305620582
+193,0,pitchclass2,Zambia/Kyabula wa in kande Mpuya,Vocal,Africa,9.50865527078895
+194,1,pitchclass4,Zambia/Kyabula wa in kande Mpuya,Vocal,Africa,21.6204958059989
+195,2,pitchclass5,Zambia/Kyabula wa in kande Mpuya,Vocal,Africa,17.8849560499366
+196,3,pitchclass7,Zambia/Kyabula wa in kande Mpuya,Vocal,Africa,2.61447305194815
+197,0,pitchclass1,Zambia/Ya ya woye,Vocal,Africa,21.421649275364
+198,1,pitchclass3,Zambia/Ya ya woye,Vocal,Africa,35.1363130053396
+199,2,pitchclass4,Zambia/Ya ya woye,Vocal,Africa,4.19790613810983
+200,3,pitchclass5,Zambia/Ya ya woye,Vocal,Africa,34.4538723912992
+201,4,pitchclass7,Zambia/Ya ya woye,Vocal,Africa,46.2675326086974
+202,5,pitchclass8,Zambia/Ya ya woye,Vocal,Africa,48.8197565217397
+203,6,pitchclass9,Zambia/Ya ya woye,Vocal,Africa,45.1435314938644
+204,7,pitchclass10,Zambia/Ya ya woye,Vocal,Africa,12.0267938990164
+205,8,pitchclass11,Zambia/Ya ya woye,Vocal,Africa,13.3076659420312
+206,0,pitchclass1,Zimbabwe/Ngwindingwindi ishumba inoruma,Vocal,Africa,36.1519061538474
+207,1,pitchclass3,Zimbabwe/Ngwindingwindi ishumba inoruma,Vocal,Africa,39.4882421794846
+208,2,pitchclass4,Zimbabwe/Ngwindingwindi ishumba inoruma,Vocal,Africa,2.50738132333936
+209,3,pitchclass6,Zimbabwe/Ngwindingwindi ishumba inoruma,Vocal,Africa,5.02574842657486
+210,4,pitchclass7,Zimbabwe/Ngwindingwindi ishumba inoruma,Vocal,Africa,33.0967021794859
+211,5,pitchclass8,Zimbabwe/Ngwindingwindi ishumba inoruma,Vocal,Africa,24.6409180288483
+212,6,pitchclass9,Zimbabwe/Ngwindingwindi ishumba inoruma,Vocal,Africa,29.3735174825197
+0,0,pitchclass1,Kokopera/35 Song By Christopher Jeffrey 2,Vocal,Australia,48.2830919554472
+1,1,pitchclass2,Kokopera/35 Song By Christopher Jeffrey 2,Vocal,Australia,23.9271977184653
+2,2,pitchclass5,Kokopera/35 Song By Christopher Jeffrey 2,Vocal,Australia,19.5151424195537
+3,3,pitchclass7,Kokopera/35 Song By Christopher Jeffrey 2,Vocal,Australia,18.3006300515917
+4,4,pitchclass8,Kokopera/35 Song By Christopher Jeffrey 2,Vocal,Australia,27.7647894469919
+5,0,pitchclass1,Kokopera/36 Ti· Ti,Vocal,Australia,33.1131999999961
+6,1,pitchclass4,Kokopera/36 Ti· Ti,Vocal,Australia,10.4087698028598
+7,2,pitchclass6,Kokopera/36 Ti· Ti,Vocal,Australia,26.5137842222193
+8,3,pitchclass7,Kokopera/36 Ti· Ti,Vocal,Australia,14.9316972222186
+9,4,pitchclass9,Kokopera/36 Ti· Ti,Vocal,Australia,29.1396920634961
+10,0,pitchclass1,Kunwinjku/06 Maraian Chant,Vocal,Australia,35.6468415584422
+11,1,pitchclass3,Kunwinjku/06 Maraian Chant,Vocal,Australia,44.0402727272731
+12,2,pitchclass5,Kunwinjku/06 Maraian Chant,Vocal,Australia,34.3591727272751
+13,3,pitchclass6,Kunwinjku/06 Maraian Chant,Vocal,Australia,35.1310272727287
+14,4,pitchclass7,Kunwinjku/06 Maraian Chant,Vocal,Australia,9.62676074553656
+15,5,pitchclass8,Kunwinjku/06 Maraian Chant,Vocal,Australia,15.8376616264713
+16,6,pitchclass9,Kunwinjku/06 Maraian Chant,Vocal,Australia,26.4522962566871
+17,0,pitchclass2,North Australia/05 Galkan (Aigle-faucon),Vocal,Australia,3.62187148540579
+18,1,pitchclass3,North Australia/05 Galkan (Aigle-faucon),Vocal,Australia,17.1729585982866
+19,2,pitchclass4,North Australia/05 Galkan (Aigle-faucon),Vocal,Australia,44.8216898911105
+20,3,pitchclass5,North Australia/05 Galkan (Aigle-faucon),Vocal,Australia,20.8130637931008
+21,4,pitchclass6,North Australia/05 Galkan (Aigle-faucon),Vocal,Australia,27.105414856931
+22,5,pitchclass7,North Australia/05 Galkan (Aigle-faucon),Vocal,Australia,29.3408562068998
+23,0,pitchclass1,North Australia/10 Laitj laitj,Vocal,Australia,18.2860263888906
+24,1,pitchclass3,North Australia/10 Laitj laitj,Vocal,Australia,2.16296736111326
+25,2,pitchclass4,North Australia/10 Laitj laitj,Vocal,Australia,48.3446562467125
+26,3,pitchclass5,North Australia/10 Laitj laitj,Vocal,Australia,4.09664707854427
+27,4,pitchclass6,North Australia/10 Laitj laitj,Vocal,Australia,36.555011004275
+28,5,pitchclass7,North Australia/10 Laitj laitj,Vocal,Australia,15.1465562198064
+29,0,pitchclass1,North Australia/14 Budbal (Chant du lys d'eau),Vocal,Australia,7.52596176470615
+30,1,pitchclass3,North Australia/14 Budbal (Chant du lys d'eau),Vocal,Australia,4.40560524296598
+31,2,pitchclass4,North Australia/14 Budbal (Chant du lys d'eau),Vocal,Australia,42.7387594117663
+32,3,pitchclass5,North Australia/14 Budbal (Chant du lys d'eau),Vocal,Australia,38.7447890045223
+33,4,pitchclass6,North Australia/14 Budbal (Chant du lys d'eau),Vocal,Australia,37.9745072192527
+34,5,pitchclass7,North Australia/14 Budbal (Chant du lys d'eau),Vocal,Australia,16.7174500000019
+35,0,pitchclass3,Nyangumarda/04 Untitled Song 1,Vocal,Australia,16.9148966791963
+36,1,pitchclass5,Nyangumarda/04 Untitled Song 1,Vocal,Australia,27.3539238095273
+37,2,pitchclass6,Nyangumarda/04 Untitled Song 1,Vocal,Australia,48.5610677170916
+38,3,pitchclass7,Nyangumarda/04 Untitled Song 1,Vocal,Australia,1.46339532966886
+39,0,pitchclass3,Nyangumarda/05 Untitled Song 2,Vocal,Australia,28.8572623015898
+40,1,pitchclass5,Nyangumarda/05 Untitled Song 2,Vocal,Australia,18.3585478571404
+41,2,pitchclass6,Nyangumarda/05 Untitled Song 2,Vocal,Australia,18.3701459821441
+42,3,pitchclass8,Nyangumarda/05 Untitled Song 2,Vocal,Australia,1.13083890977396
+43,4,pitchclass10,Nyangumarda/05 Untitled Song 2,Vocal,Australia,33.3686713455136
+44,0,pitchclass2,Nyangumarda/06 Untitled Song 3,Vocal,Australia,13.4239046962248
+45,1,pitchclass3,Nyangumarda/06 Untitled Song 3,Vocal,Australia,43.5808352719178
+46,2,pitchclass4,Nyangumarda/06 Untitled Song 3,Vocal,Australia,4.47677058516092
+47,3,pitchclass6,Nyangumarda/06 Untitled Song 3,Vocal,Australia,3.88075131276491
+48,4,pitchclass8,Nyangumarda/06 Untitled Song 3,Vocal,Australia,20.0643548275802
+49,5,pitchclass9,Nyangumarda/06 Untitled Song 3,Vocal,Australia,15.9063218390802
+50,0,pitchclass3,Nyangumarda/07 Untitled Song 4,Vocal,Australia,14.2005523632979
+51,1,pitchclass4,Nyangumarda/07 Untitled Song 4,Vocal,Australia,33.6174858974318
+52,2,pitchclass5,Nyangumarda/07 Untitled Song 4,Vocal,Australia,49.1950285470102
+53,3,pitchclass6,Nyangumarda/07 Untitled Song 4,Vocal,Australia,11.5239353146899
+54,4,pitchclass8,Nyangumarda/07 Untitled Song 4,Vocal,Australia,3.63335632754388
+55,5,pitchclass10,Nyangumarda/07 Untitled Song 4,Vocal,Australia,5.07297792641657
+56,0,pitchclass2,Nyangumarda/13 Untitled Song 10,Vocal,Australia,46.1065880952356
+57,1,pitchclass3,Nyangumarda/13 Untitled Song 10,Vocal,Australia,43.5781761904782
+58,2,pitchclass4,Nyangumarda/13 Untitled Song 10,Vocal,Australia,24.6353158730144
+59,3,pitchclass6,Nyangumarda/13 Untitled Song 10,Vocal,Australia,42.9935038095227
+60,4,pitchclass7,Nyangumarda/13 Untitled Song 10,Vocal,Australia,41.5737476190498
+61,0,pitchclass3,Nyangumarda/14 Song By Kupangu 1,Vocal,Australia,17.3779101495729
+62,1,pitchclass4,Nyangumarda/14 Song By Kupangu 1,Vocal,Australia,46.7944762393163
+63,2,pitchclass5,Nyangumarda/14 Song By Kupangu 1,Vocal,Australia,14.6365889169138
+64,3,pitchclass7,Nyangumarda/14 Song By Kupangu 1,Vocal,Australia,6.22250935592092
+65,4,pitchclass9,Nyangumarda/14 Song By Kupangu 1,Vocal,Australia,26.6233939056146
+66,0,pitchclass2,Warlpiri/A re-singing of Rain Dreaming songs after the ceremony,Vocal,Australia,0.478899591688787
+67,1,pitchclass3,Warlpiri/A re-singing of Rain Dreaming songs after the ceremony,Vocal,Australia,45.2187926568431
+68,0,pitchclass3,Warlpiri/Rain-making song (excerpt from a series),Vocal,Australia,4.76377837528707
+69,1,pitchclass4,Warlpiri/Rain-making song (excerpt from a series),Vocal,Australia,26.6920737079563
+70,2,pitchclass5,Warlpiri/Rain-making song (excerpt from a series),Vocal,Australia,5.80303695652219
+71,3,pitchclass6,Warlpiri/Rain-making song (excerpt from a series),Vocal,Australia,2.38448314191919
+72,4,pitchclass7,Warlpiri/Rain-making song (excerpt from a series),Vocal,Australia,4.59710017314683
+73,0,pitchclass3,Western Australia/Djabi song The Windmill of Wallanie Plains,Vocal,Australia,6.89108376362674
+74,1,pitchclass4,Western Australia/Djabi song The Windmill of Wallanie Plains,Vocal,Australia,20.1499830043576
+75,2,pitchclass6,Western Australia/Djabi song The Windmill of Wallanie Plains,Vocal,Australia,19.4294619506618
+76,3,pitchclass8,Western Australia/Djabi song The Windmill of Wallanie Plains,Vocal,Australia,20.6904743205432
+77,4,pitchclass10,Western Australia/Djabi song The Windmill of Wallanie Plains,Vocal,Australia,5.62417689890026
+78,0,pitchclass1,Yindjibarndi/28 Male Solo 1,Vocal,Australia,46.4408686188817
+79,1,pitchclass3,Yindjibarndi/28 Male Solo 1,Vocal,Australia,32.6451946875695
+80,2,pitchclass4,Yindjibarndi/28 Male Solo 1,Vocal,Australia,43.4321311188833
+81,3,pitchclass5,Yindjibarndi/28 Male Solo 1,Vocal,Australia,49.8235809500839
+82,4,pitchclass6,Yindjibarndi/28 Male Solo 1,Vocal,Australia,5.20356028554852
+83,5,pitchclass7,Yindjibarndi/28 Male Solo 1,Vocal,Australia,42.0210688811167
+84,0,pitchclass2,Yolngu/14 Sacred Song,Vocal,Australia,13.861734666245
+85,1,pitchclass3,Yolngu/14 Sacred Song,Vocal,Australia,18.9256479629512
+86,2,pitchclass4,Yolngu/14 Sacred Song,Vocal,Australia,26.9066559416533
+87,3,pitchclass5,Yolngu/14 Sacred Song,Vocal,Australia,30.2028025865056
+88,4,pitchclass6,Yolngu/14 Sacred Song,Vocal,Australia,17.9060410480397
+0,0,pitchclass1,Bukharan/Azan,Vocal,Central Asia,47.7783376941043
+1,1,pitchclass3,Bukharan/Azan,Vocal,Central Asia,47.6436442865688
+2,2,pitchclass4,Bukharan/Azan,Vocal,Central Asia,19.1170486558913
+3,0,pitchclass2,Bukharan/Excerpt from the Zohar,Vocal,Central Asia,43.6075608585452
+4,1,pitchclass3,Bukharan/Excerpt from the Zohar,Vocal,Central Asia,10.6217359605889
+5,2,pitchclass4,Bukharan/Excerpt from the Zohar,Vocal,Central Asia,33.4817014367782
+6,3,pitchclass6,Bukharan/Excerpt from the Zohar,Vocal,Central Asia,37.3242381465552
+7,0,pitchclass1,Bukharan/Mavrigi,Vocal,Central Asia,26.9449160506265
+8,1,pitchclass2,Bukharan/Mavrigi,Vocal,Central Asia,37.6411813519771
+9,2,pitchclass3,Bukharan/Mavrigi,Vocal,Central Asia,45.5463331934807
+10,3,pitchclass4,Bukharan/Mavrigi,Vocal,Central Asia,40.2249425964674
+11,4,pitchclass6,Bukharan/Mavrigi,Vocal,Central Asia,18.656051806518
+12,0,pitchclass1,Bukharan/Murghak (Chicklet),Vocal,Central Asia,43.7953574036546
+13,0,pitchclass1,Bukharan/Na't,Vocal,Central Asia,16.3903527861166
+14,1,pitchclass3,Bukharan/Na't,Vocal,Central Asia,1.59641978362924
+15,0,pitchclass1,Bukharan/Obloim,Vocal,Central Asia,20.7777603686627
+16,1,pitchclass2,Bukharan/Obloim,Vocal,Central Asia,29.9900882258062
+17,2,pitchclass4,Bukharan/Obloim,Vocal,Central Asia,37.7517893667809
+18,3,pitchclass5,Bukharan/Obloim,Vocal,Central Asia,26.6467616093541
+19,4,pitchclass7,Bukharan/Obloim,Vocal,Central Asia,23.2834996313359
+20,5,pitchclass8,Bukharan/Obloim,Vocal,Central Asia,4.32076344086272
+21,6,pitchclass9,Bukharan/Obloim,Vocal,Central Asia,36.5334897034827
+22,7,pitchclass10,Bukharan/Obloim,Vocal,Central Asia,26.5436523297521
+23,0,pitchclass2,Bukharan/Qalandar,Vocal,Central Asia,46.9589008528001
+24,1,pitchclass4,Bukharan/Qalandar,Vocal,Central Asia,3.56687151214101
+25,0,pitchclass3,Bukharan/Reading from the Torah,Vocal,Central Asia,19.7455970835508
+26,1,pitchclass4,Bukharan/Reading from the Torah,Vocal,Central Asia,34.783002178865
+27,2,pitchclass5,Bukharan/Reading from the Torah,Vocal,Central Asia,1.69356236933891
+28,3,pitchclass7,Bukharan/Reading from the Torah,Vocal,Central Asia,31.3285545618783
+29,0,pitchclass1,Bukharan/Shalom Aleichem and Kiddush,Vocal,Central Asia,7.68967720588444
+30,1,pitchclass3,Bukharan/Shalom Aleichem and Kiddush,Vocal,Central Asia,0.21481422269062
+31,2,pitchclass4,Bukharan/Shalom Aleichem and Kiddush,Vocal,Central Asia,32.8280352941165
+32,3,pitchclass6,Bukharan/Shalom Aleichem and Kiddush,Vocal,Central Asia,25.9041190240641
+33,4,pitchclass8,Bukharan/Shalom Aleichem and Kiddush,Vocal,Central Asia,45.4466227941157
+34,5,pitchclass10,Bukharan/Shalom Aleichem and Kiddush,Vocal,Central Asia,3.19206029411725
+35,6,pitchclass11,Bukharan/Shalom Aleichem and Kiddush,Vocal,Central Asia,11.8386694607834
+36,7,pitchclass12,Bukharan/Shalom Aleichem and Kiddush,Vocal,Central Asia,21.2397438725511
+37,0,pitchclass1,Bukharan/Songs from the Sozanda Repertory,Vocal,Central Asia,6.18850850815034
+38,1,pitchclass4,Bukharan/Songs from the Sozanda Repertory,Vocal,Central Asia,8.3566469551206
+39,2,pitchclass5,Bukharan/Songs from the Sozanda Repertory,Vocal,Central Asia,7.50237527829631
+40,3,pitchclass7,Bukharan/Songs from the Sozanda Repertory,Vocal,Central Asia,3.10089027409049
+41,4,pitchclass9,Bukharan/Songs from the Sozanda Repertory,Vocal,Central Asia,5.30984184148838
+42,0,pitchclass1,Bukharan/Yah Ribbon Olam (Lord of this world),Vocal,Central Asia,8.47510928624797
+43,1,pitchclass3,Bukharan/Yah Ribbon Olam (Lord of this world),Vocal,Central Asia,3.41849726137298
+44,2,pitchclass4,Bukharan/Yah Ribbon Olam (Lord of this world),Vocal,Central Asia,29.6672809132851
+45,3,pitchclass7,Bukharan/Yah Ribbon Olam (Lord of this world),Vocal,Central Asia,1.58023002534537
+46,0,pitchclass1,Kara-kalpak/Hayyu (Lullaby),Vocal,Central Asia,26.4072549317516
+47,1,pitchclass3,Kara-kalpak/Hayyu (Lullaby),Vocal,Central Asia,26.6408210863465
+48,2,pitchclass5,Kara-kalpak/Hayyu (Lullaby),Vocal,Central Asia,9.70045524194757
+49,3,pitchclass6,Kara-kalpak/Hayyu (Lullaby),Vocal,Central Asia,21.5007617621923
+50,4,pitchclass7,Kara-kalpak/Hayyu (Lullaby),Vocal,Central Asia,23.9176262096844
+51,5,pitchclass9,Kara-kalpak/Hayyu (Lullaby),Vocal,Central Asia,15.7611257209264
+52,6,pitchclass11,Kara-kalpak/Hayyu (Lullaby),Vocal,Central Asia,7.16703038424021
+53,7,pitchclass12,Kara-kalpak/Hayyu (Lullaby),Vocal,Central Asia,8.14647814516866
+54,0,pitchclass1,Khorezmian/Yar-yar,Vocal,Central Asia,35.0702491869997
+55,1,pitchclass2,Khorezmian/Yar-yar,Vocal,Central Asia,17.4967095251232
+56,2,pitchclass4,Khorezmian/Yar-yar,Vocal,Central Asia,20.8696834796738
+57,3,pitchclass5,Khorezmian/Yar-yar,Vocal,Central Asia,13.3317036865647
+58,0,pitchclass2,Tajikistan/Falak-i Badakhshani,Vocal,Central Asia,1.79011595251359
+59,1,pitchclass3,Tajikistan/Falak-i Badakhshani,Vocal,Central Asia,5.6960340842943
+60,0,pitchclass1,Turkmenistan/404 Music of Turkmen - Male Solo,Vocal,Central Asia,14.8395191558393
+61,1,pitchclass3,Turkmenistan/404 Music of Turkmen - Male Solo,Vocal,Central Asia,9.49375246388081
+62,2,pitchclass4,Turkmenistan/404 Music of Turkmen - Male Solo,Vocal,Central Asia,44.4429121558387
+63,3,pitchclass5,Turkmenistan/404 Music of Turkmen - Male Solo,Vocal,Central Asia,18.4054808441597
+64,4,pitchclass6,Turkmenistan/404 Music of Turkmen - Male Solo,Vocal,Central Asia,46.4501341558407
+65,5,pitchclass8,Turkmenistan/404 Music of Turkmen - Male Solo,Vocal,Central Asia,27.4869226173796
+66,6,pitchclass10,Turkmenistan/404 Music of Turkmen - Male Solo,Vocal,Central Asia,39.9781669892036
+67,7,pitchclass11,Turkmenistan/404 Music of Turkmen - Male Solo,Vocal,Central Asia,25.859950822507
+68,8,pitchclass12,Turkmenistan/404 Music of Turkmen - Male Solo,Vocal,Central Asia,0.780234155836297
+69,9,pitchclass14,Turkmenistan/404 Music of Turkmen - Male Solo,Vocal,Central Asia,20.8066041558395
+70,0,pitchclass1,Turkmenistan/406 Music of Turkmen - Male Solo,Vocal,Central Asia,19.9465205555589
+71,1,pitchclass2,Turkmenistan/406 Music of Turkmen - Male Solo,Vocal,Central Asia,4.92668055555987
+72,2,pitchclass3,Turkmenistan/406 Music of Turkmen - Male Solo,Vocal,Central Asia,6.53417111110502
+73,3,pitchclass5,Turkmenistan/406 Music of Turkmen - Male Solo,Vocal,Central Asia,31.8983640598253
+74,4,pitchclass7,Turkmenistan/406 Music of Turkmen - Male Solo,Vocal,Central Asia,18.9811949206287
+75,5,pitchclass9,Turkmenistan/406 Music of Turkmen - Male Solo,Vocal,Central Asia,21.1930474999954
+76,6,pitchclass10,Turkmenistan/406 Music of Turkmen - Male Solo,Vocal,Central Asia,39.0147273737402
+77,7,pitchclass12,Turkmenistan/406 Music of Turkmen - Male Solo,Vocal,Central Asia,40.9329972797004
+78,8,pitchclass14,Turkmenistan/406 Music of Turkmen - Male Solo,Vocal,Central Asia,5.70509047081214
+0,0,pitchclass2,Eastern Greenland/04 East Greenland _ K_iwingatak,Vocal,Circumpolar,36.5295102272721
+1,1,pitchclass3,Eastern Greenland/04 East Greenland _ K_iwingatak,Vocal,Circumpolar,22.1559236111134
+2,2,pitchclass5,Eastern Greenland/04 East Greenland _ K_iwingatak,Vocal,Circumpolar,0.316952532673895
+3,3,pitchclass7,Eastern Greenland/04 East Greenland _ K_iwingatak,Vocal,Circumpolar,24.5245715909095
+4,4,pitchclass9,Eastern Greenland/04 East Greenland _ K_iwingatak,Vocal,Circumpolar,45.7808630172422
+5,5,pitchclass10,Eastern Greenland/04 East Greenland _ K_iwingatak,Vocal,Circumpolar,49.8057924707646
+6,6,pitchclass11,Eastern Greenland/04 East Greenland _ K_iwingatak,Vocal,Circumpolar,1.32665583332891
+7,0,pitchclass2,Eastern Greenland/08 East Greenland _ Kunnak,Vocal,Circumpolar,46.4191699999974
+8,1,pitchclass4,Eastern Greenland/08 East Greenland _ Kunnak,Vocal,Circumpolar,47.8992763157876
+9,2,pitchclass5,Eastern Greenland/08 East Greenland _ Kunnak,Vocal,Circumpolar,14.5788134328395
+10,3,pitchclass6,Eastern Greenland/08 East Greenland _ Kunnak,Vocal,Circumpolar,8.45187987013014
+11,0,pitchclass2,Eastern Greenland/09 East Greenland _ Olga Maratse,Vocal,Circumpolar,26.5510890647129
+12,1,pitchclass4,Eastern Greenland/09 East Greenland _ Olga Maratse,Vocal,Circumpolar,19.0799340122121
+13,0,pitchclass3,Even/15 In Old Time Life,Vocal,Circumpolar,27.0072555125771
+14,1,pitchclass4,Even/15 In Old Time Life,Vocal,Circumpolar,29.3763844256518
+15,0,pitchclass3,"Even/17 Children, Let Us Go Outside",Vocal,Circumpolar,1.60639165771318
+16,1,pitchclass5,"Even/17 Children, Let Us Go Outside",Vocal,Circumpolar,0.18984967139113
+17,2,pitchclass6,"Even/17 Children, Let Us Go Outside",Vocal,Circumpolar,34.9106992150664
+18,0,pitchclass1,Even/19 I Had An Aunt Who Was Cukc,Vocal,Circumpolar,47.266929378533
+19,1,pitchclass2,Even/19 I Had An Aunt Who Was Cukc,Vocal,Circumpolar,11.3169119150007
+20,2,pitchclass3,Even/19 I Had An Aunt Who Was Cukc,Vocal,Circumpolar,5.41154353813363
+21,3,pitchclass6,Even/19 I Had An Aunt Who Was Cukc,Vocal,Circumpolar,0.017898826594319
+22,4,pitchclass7,Even/19 I Had An Aunt Who Was Cukc,Vocal,Circumpolar,18.4937669177634
+23,0,pitchclass2,Even/21 When I Came Back From The Kolyma,Vocal,Circumpolar,36.4871916666652
+24,1,pitchclass3,Even/21 When I Came Back From The Kolyma,Vocal,Circumpolar,42.7919624999959
+25,2,pitchclass4,Even/21 When I Came Back From The Kolyma,Vocal,Circumpolar,47.5600772727321
+26,0,pitchclass2,Even/22 When I Was Already Getting Old,Vocal,Circumpolar,47.2802503039511
+27,1,pitchclass3,Even/22 When I Was Already Getting Old,Vocal,Circumpolar,16.8468385851975
+28,2,pitchclass4,Even/22 When I Was Already Getting Old,Vocal,Circumpolar,21.7956552516061
+29,0,pitchclass1,"Even/25 Kolyma, When You Have Great Waves",Vocal,Circumpolar,9.37731330001043
+30,1,pitchclass4,"Even/25 Kolyma, When You Have Great Waves",Vocal,Circumpolar,12.8568091999914
+31,2,pitchclass6,"Even/25 Kolyma, When You Have Great Waves",Vocal,Circumpolar,14.5119657224914
+32,0,pitchclass3,Even/31 My Grey Reindeer,Vocal,Circumpolar,26.5405070715169
+33,1,pitchclass4,Even/31 My Grey Reindeer,Vocal,Circumpolar,27.1279382878511
+34,2,pitchclass6,Even/31 My Grey Reindeer,Vocal,Circumpolar,44.0405162820425
+35,0,pitchclass1,Evenk/02 Nina Prokop_evna Pudova (Kumalakan) - Iengra,Vocal,Circumpolar,45.9983344006996
+36,1,pitchclass5,Evenk/02 Nina Prokop_evna Pudova (Kumalakan) - Iengra,Vocal,Circumpolar,31.8979275283309
+37,2,pitchclass6,Evenk/02 Nina Prokop_evna Pudova (Kumalakan) - Iengra,Vocal,Circumpolar,22.5353552702691
+38,3,pitchclass7,Evenk/02 Nina Prokop_evna Pudova (Kumalakan) - Iengra,Vocal,Circumpolar,25.6117408398895
+39,4,pitchclass8,Evenk/02 Nina Prokop_evna Pudova (Kumalakan) - Iengra,Vocal,Circumpolar,12.3142906452267
+40,5,pitchclass10,Evenk/02 Nina Prokop_evna Pudova (Kumalakan) - Iengra,Vocal,Circumpolar,37.0863952702675
+41,0,pitchclass3,Evenk/05 Anfissa Pavlovna Avelova (Ogol) - Cita,Vocal,Circumpolar,47.9121422276967
+42,1,pitchclass4,Evenk/05 Anfissa Pavlovna Avelova (Ogol) - Cita,Vocal,Circumpolar,22.6407607503606
+43,2,pitchclass5,Evenk/05 Anfissa Pavlovna Avelova (Ogol) - Cita,Vocal,Circumpolar,19.0762342127819
+44,0,pitchclass3,Evenk/07 Prokopij Egorovic Nikolaev - Tjanja,Vocal,Circumpolar,10.0023831011713
+45,1,pitchclass5,Evenk/07 Prokopij Egorovic Nikolaev - Tjanja,Vocal,Circumpolar,38.6950136996311
+46,2,pitchclass6,Evenk/07 Prokopij Egorovic Nikolaev - Tjanja,Vocal,Circumpolar,12.7014324966222
+47,0,pitchclass1,Evenk/13 Uljana Nikolaevna Vasileva (U-Juju) - Dzilinda,Vocal,Circumpolar,0.027399394595705
+48,0,pitchclass3,Evenk/26 Elena Dmitrieva Tikhonova - Iengra,Vocal,Circumpolar,38.8965152173914
+49,1,pitchclass4,Evenk/26 Elena Dmitrieva Tikhonova - Iengra,Vocal,Circumpolar,18.7864860507234
+50,2,pitchclass5,Evenk/26 Elena Dmitrieva Tikhonova - Iengra,Vocal,Circumpolar,43.6576541374489
+51,3,pitchclass6,Evenk/26 Elena Dmitrieva Tikhonova - Iengra,Vocal,Circumpolar,11.1822807103526
+52,4,pitchclass8,Evenk/26 Elena Dmitrieva Tikhonova - Iengra,Vocal,Circumpolar,16.8199062111817
+53,0,pitchclass1,Jukaghir/32 On The River Banks,Vocal,Circumpolar,1.64471842393868
+54,1,pitchclass5,Jukaghir/32 On The River Banks,Vocal,Circumpolar,16.5298505154606
+55,0,pitchclass1,Jukaghir/37 When I Was A Little Girl,Vocal,Circumpolar,18.9856797077973
+56,1,pitchclass4,Jukaghir/37 When I Was A Little Girl,Vocal,Circumpolar,8.5792291643138
+57,2,pitchclass5,Jukaghir/37 When I Was A Little Girl,Vocal,Circumpolar,15.1024698673755
+58,0,pitchclass3,Jukaghir/39 Let Us Dance And Sing A Little,Vocal,Circumpolar,4.51229188731668
+59,1,pitchclass4,Jukaghir/39 Let Us Dance And Sing A Little,Vocal,Circumpolar,3.97532824606424
+60,2,pitchclass5,Jukaghir/39 Let Us Dance And Sing A Little,Vocal,Circumpolar,39.5349819866205
+61,3,pitchclass6,Jukaghir/39 Let Us Dance And Sing A Little,Vocal,Circumpolar,44.5609789755599
+62,4,pitchclass7,Jukaghir/39 Let Us Dance And Sing A Little,Vocal,Circumpolar,34.9223932716559
+63,0,pitchclass2,Jukaghir/43 There Are No Young Maids Going By,Vocal,Circumpolar,23.9133819907292
+64,1,pitchclass3,Jukaghir/43 There Are No Young Maids Going By,Vocal,Circumpolar,2.2301795418789
+65,2,pitchclass4,Jukaghir/43 There Are No Young Maids Going By,Vocal,Circumpolar,39.6839811684422
+66,0,pitchclass1,Khanty/07 Track 07 (1),Vocal,Circumpolar,7.98617469374585
+67,1,pitchclass2,Khanty/07 Track 07 (1),Vocal,Circumpolar,6.77354808167729
+68,2,pitchclass4,Khanty/07 Track 07 (1),Vocal,Circumpolar,12.9425504096998
+69,3,pitchclass6,Khanty/07 Track 07 (1),Vocal,Circumpolar,15.6906599689391
+70,4,pitchclass7,Khanty/07 Track 07 (1),Vocal,Circumpolar,17.894201680163
+71,5,pitchclass8,Khanty/07 Track 07 (1),Vocal,Circumpolar,2.70400539054208
+72,0,pitchclass2,Khanty/10 Track 10,Vocal,Circumpolar,0.303725106788988
+73,1,pitchclass3,Khanty/10 Track 10,Vocal,Circumpolar,17.9727093023284
+74,2,pitchclass4,Khanty/10 Track 10,Vocal,Circumpolar,22.2597758720967
+75,3,pitchclass5,Khanty/10 Track 10,Vocal,Circumpolar,30.5779212432899
+76,4,pitchclass7,Khanty/10 Track 10,Vocal,Circumpolar,6.94378221613988
+77,5,pitchclass8,Khanty/10 Track 10,Vocal,Circumpolar,15.2506251414216
+78,6,pitchclass9,Khanty/10 Track 10,Vocal,Circumpolar,21.0590230564776
+79,7,pitchclass11,Khanty/10 Track 10,Vocal,Circumpolar,5.76969000628014
+80,8,pitchclass12,Khanty/10 Track 10,Vocal,Circumpolar,36.0087449612365
+81,0,pitchclass1,Khanty/19 Track 19 (1),Vocal,Circumpolar,14.2465384656098
+82,1,pitchclass4,Khanty/19 Track 19 (1),Vocal,Circumpolar,42.6005529670274
+83,2,pitchclass6,Khanty/19 Track 19 (1),Vocal,Circumpolar,14.3108133333371
+84,3,pitchclass7,Khanty/19 Track 19 (1),Vocal,Circumpolar,0.1480106122508
+85,0,pitchclass2,Koryak/06 Track 06 (1),Vocal,Circumpolar,43.6079490310076
+86,1,pitchclass4,Koryak/06 Track 06 (1),Vocal,Circumpolar,6.52129339516978
+87,0,pitchclass3,Koryak/06 Track 06 (1),Vocal,Circumpolar,25.0830836228251
+88,1,pitchclass5,Koryak/06 Track 06 (1),Vocal,Circumpolar,5.47605782569917
+89,0,pitchclass1,Koryak/10 Track 10 (1),Vocal,Circumpolar,6.96453191141882
+90,1,pitchclass2,Koryak/10 Track 10 (1),Vocal,Circumpolar,13.5210974037709
+91,2,pitchclass3,Koryak/10 Track 10 (1),Vocal,Circumpolar,42.3708259514906
+92,3,pitchclass4,Koryak/10 Track 10 (1),Vocal,Circumpolar,42.0095409780824
+93,0,pitchclass2,Mansi/23 Track 23 (2),Vocal,Circumpolar,45.9248518518552
+94,1,pitchclass4,Mansi/23 Track 23 (2),Vocal,Circumpolar,5.69426803278202
+95,2,pitchclass5,Mansi/23 Track 23 (2),Vocal,Circumpolar,23.5723868421073
+96,3,pitchclass7,Mansi/23 Track 23 (2),Vocal,Circumpolar,11.6976318181851
+97,4,pitchclass8,Mansi/23 Track 23 (2),Vocal,Circumpolar,45.0848410256376
+98,0,pitchclass2,Mansi/26 Track 26 (1),Vocal,Circumpolar,7.95020632910382
+99,1,pitchclass4,Mansi/26 Track 26 (1),Vocal,Circumpolar,47.208047916658
+100,2,pitchclass5,Mansi/26 Track 26 (1),Vocal,Circumpolar,37.8569807692238
+101,3,pitchclass7,Mansi/26 Track 26 (1),Vocal,Circumpolar,38.6565180327798
+102,4,pitchclass8,Mansi/26 Track 26 (1),Vocal,Circumpolar,38.7463283018951
+103,0,pitchclass1,Mansi/32 Track 32 (2),Vocal,Circumpolar,11.2981462121279
+104,1,pitchclass3,Mansi/32 Track 32 (2),Vocal,Circumpolar,10.9460999999937
+105,2,pitchclass6,Mansi/32 Track 32 (2),Vocal,Circumpolar,42.1821818181779
+106,3,pitchclass7,Mansi/32 Track 32 (2),Vocal,Circumpolar,29.8236764705907
+107,4,pitchclass8,Mansi/32 Track 32 (2),Vocal,Circumpolar,19.676929999996
+108,0,pitchclass3,Nenec/01 How niartso mekad vadavy raised me,Vocal,Circumpolar,39.6294397149049
+109,0,pitchclass1,Nenec/07 I am the strongest,Vocal,Circumpolar,45.9705065966391
+110,1,pitchclass5,Nenec/07 I am the strongest,Vocal,Circumpolar,32.1135653176461
+111,2,pitchclass7,Nenec/07 I am the strongest,Vocal,Circumpolar,7.82503232303134
+112,3,pitchclass8,Nenec/07 I am the strongest,Vocal,Circumpolar,17.5650792156866
+113,0,pitchclass1,Nenec/11 A woman describes to her husband the way she lives,Vocal,Circumpolar,30.9907678328145
+114,1,pitchclass4,Nenec/11 A woman describes to her husband the way she lives,Vocal,Circumpolar,32.4667873457802
+115,2,pitchclass5,Nenec/11 A woman describes to her husband the way she lives,Vocal,Circumpolar,16.7515557287406
+116,3,pitchclass6,Nenec/11 A woman describes to her husband the way she lives,Vocal,Circumpolar,33.1142379134726
+117,4,pitchclass8,Nenec/11 A woman describes to her husband the way she lives,Vocal,Circumpolar,44.0119487151715
+118,0,pitchclass1,"Nganasan/05 L_Hirondelle,Flech",Vocal,Circumpolar,34.0958046048763
+119,1,pitchclass4,"Nganasan/05 L_Hirondelle,Flech",Vocal,Circumpolar,21.6446215639462
+120,2,pitchclass5,"Nganasan/05 L_Hirondelle,Flech",Vocal,Circumpolar,40.1211734372664
+121,3,pitchclass7,"Nganasan/05 L_Hirondelle,Flech",Vocal,Circumpolar,36.8373273395664
+122,0,pitchclass3,Nganasan/09 Chant Maternel,Vocal,Circumpolar,30.3286172040953
+123,1,pitchclass5,Nganasan/09 Chant Maternel,Vocal,Circumpolar,20.0063868028283
+124,0,pitchclass1,Nganasan/11 Chant Chamanique,Vocal,Circumpolar,8.55812071234504
+125,1,pitchclass2,Nganasan/11 Chant Chamanique,Vocal,Circumpolar,34.8933604949307
+126,2,pitchclass4,Nganasan/11 Chant Chamanique,Vocal,Circumpolar,46.5850272830394
+127,0,pitchclass2,North Greenland/46 North Greenland _ Canada _ Kutsikitsok_ Odak,Vocal,Circumpolar,8.2566864776727
+128,1,pitchclass4,North Greenland/46 North Greenland _ Canada _ Kutsikitsok_ Odak,Vocal,Circumpolar,19.419065875265
+129,2,pitchclass6,North Greenland/46 North Greenland _ Canada _ Kutsikitsok_ Odak,Vocal,Circumpolar,23.2301853012032
+130,0,pitchclass1,Orok/30 Chant A Cappella,Vocal,Circumpolar,45.663855883844
+131,1,pitchclass4,Orok/30 Chant A Cappella,Vocal,Circumpolar,1.03021357615216
+132,2,pitchclass6,Orok/30 Chant A Cappella,Vocal,Circumpolar,13.6187501224813
+133,3,pitchclass8,Orok/30 Chant A Cappella,Vocal,Circumpolar,17.486581585139
+134,0,pitchclass2,Orok/34 Chant A Cappella,Vocal,Circumpolar,7.64822067099158
+135,1,pitchclass4,Orok/34 Chant A Cappella,Vocal,Circumpolar,6.0816972912362
+136,0,pitchclass1,Saami/05 Qarja,Vocal,Circumpolar,2.91932745097984
+137,1,pitchclass4,Saami/05 Qarja,Vocal,Circumpolar,28.1842911764706
+138,2,pitchclass5,Saami/05 Qarja,Vocal,Circumpolar,41.3913125386989
+139,3,pitchclass6,Saami/05 Qarja,Vocal,Circumpolar,38.908849215688
+140,4,pitchclass7,Saami/05 Qarja,Vocal,Circumpolar,3.4792607843101
+141,0,pitchclass1,Saami/12 Johas Kirste,Vocal,Circumpolar,23.1250056652734
+142,1,pitchclass4,Saami/12 Johas Kirste,Vocal,Circumpolar,2.14171205772982
+143,2,pitchclass5,Saami/12 Johas Kirste,Vocal,Circumpolar,9.17687544226828
+144,3,pitchclass7,Saami/12 Johas Kirste,Vocal,Circumpolar,0.341199423322905
+145,0,pitchclass1,Saami/17 Haik_ Inga,Vocal,Circumpolar,20.776077145676
+146,1,pitchclass3,Saami/17 Haik_ Inga,Vocal,Circumpolar,31.3811035413801
+147,2,pitchclass6,Saami/17 Haik_ Inga,Vocal,Circumpolar,35.2806366096156
+148,0,pitchclass1,Saami/27 Markel Joavna Piera,Vocal,Circumpolar,8.01270108401513
+149,1,pitchclass2,Saami/27 Markel Joavna Piera,Vocal,Circumpolar,10.8503722222231
+150,2,pitchclass3,Saami/27 Markel Joavna Piera,Vocal,Circumpolar,28.5198944444455
+151,3,pitchclass4,Saami/27 Markel Joavna Piera,Vocal,Circumpolar,38.1693873015847
+152,4,pitchclass6,Saami/27 Markel Joavna Piera,Vocal,Circumpolar,5.75495511110785
+153,0,pitchclass1,Saami/29 Joik for the Cow,Vocal,Circumpolar,13.3540020978999
+154,1,pitchclass4,Saami/29 Joik for the Cow,Vocal,Circumpolar,44.5325226495752
+155,2,pitchclass5,Saami/29 Joik for the Cow,Vocal,Circumpolar,24.0766456043948
+156,0,pitchclass2,Saami/41 Johan Hendrik Johan Kemi,Vocal,Circumpolar,0.291967587207182
+157,1,pitchclass3,Saami/41 Johan Hendrik Johan Kemi,Vocal,Circumpolar,37.2669170190238
+158,2,pitchclass4,Saami/41 Johan Hendrik Johan Kemi,Vocal,Circumpolar,6.29875240863294
+159,3,pitchclass5,Saami/41 Johan Hendrik Johan Kemi,Vocal,Circumpolar,15.5468202657757
+160,4,pitchclass6,Saami/41 Johan Hendrik Johan Kemi,Vocal,Circumpolar,46.418601162799
+161,0,pitchclass3,Saami/43 Mikkel Eira,Vocal,Circumpolar,12.000743255212
+162,1,pitchclass4,Saami/43 Mikkel Eira,Vocal,Circumpolar,25.0355185094977
+163,2,pitchclass5,Saami/43 Mikkel Eira,Vocal,Circumpolar,39.2539141841698
+164,3,pitchclass6,Saami/43 Mikkel Eira,Vocal,Circumpolar,21.0408846277623
+165,0,pitchclass2,Saami/49 Nils N. Eira,Vocal,Circumpolar,30.5199415652205
+166,1,pitchclass3,Saami/49 Nils N. Eira,Vocal,Circumpolar,22.7175291428575
+167,2,pitchclass4,Saami/49 Nils N. Eira,Vocal,Circumpolar,46.5608083571442
+168,3,pitchclass5,Saami/49 Nils N. Eira,Vocal,Circumpolar,7.96043619671582
+169,4,pitchclass6,Saami/49 Nils N. Eira,Vocal,Circumpolar,20.0789858888893
+170,0,pitchclass1,"Selkup/14 Sel_kup people, stand up, sel_kup!",Vocal,Circumpolar,29.8016250877263
+171,1,pitchclass4,"Selkup/14 Sel_kup people, stand up, sel_kup!",Vocal,Circumpolar,38.2446059968152
+172,2,pitchclass5,"Selkup/14 Sel_kup people, stand up, sel_kup!",Vocal,Circumpolar,43.9075336622718
+173,3,pitchclass6,"Selkup/14 Sel_kup people, stand up, sel_kup!",Vocal,Circumpolar,12.9221565162989
+174,4,pitchclass7,"Selkup/14 Sel_kup people, stand up, sel_kup!",Vocal,Circumpolar,20.7807892543951
+175,5,pitchclass8,"Selkup/14 Sel_kup people, stand up, sel_kup!",Vocal,Circumpolar,28.1312413377273
+176,0,pitchclass2,Selkup/17 How long have i been,Vocal,Circumpolar,38.6189110993282
+177,1,pitchclass3,Selkup/17 How long have i been,Vocal,Circumpolar,42.8086636954768
+178,2,pitchclass4,Selkup/17 How long have i been,Vocal,Circumpolar,27.4227760174717
+179,0,pitchclass1,Selkup/21 Iosif ivanovic kubolev_s song,Vocal,Circumpolar,31.5458375045109
+180,1,pitchclass3,Selkup/21 Iosif ivanovic kubolev_s song,Vocal,Circumpolar,10.9372620689646
+181,2,pitchclass4,Selkup/21 Iosif ivanovic kubolev_s song,Vocal,Circumpolar,4.95829637259158
+182,3,pitchclass5,Selkup/21 Iosif ivanovic kubolev_s song,Vocal,Circumpolar,31.5435281227146
+183,4,pitchclass6,Selkup/21 Iosif ivanovic kubolev_s song,Vocal,Circumpolar,47.1992549261122
+184,0,pitchclass3,Selkup/24 Song about reindeer breeding,Vocal,Circumpolar,18.9417849607653
+185,1,pitchclass4,Selkup/24 Song about reindeer breeding,Vocal,Circumpolar,8.54597009400459
+186,2,pitchclass5,Selkup/24 Song about reindeer breeding,Vocal,Circumpolar,26.119155630633
+187,3,pitchclass6,Selkup/24 Song about reindeer breeding,Vocal,Circumpolar,35.5777192271235
+188,4,pitchclass7,Selkup/24 Song about reindeer breeding,Vocal,Circumpolar,15.2609545700288
+189,5,pitchclass8,Selkup/24 Song about reindeer breeding,Vocal,Circumpolar,17.9522660472994
+190,6,pitchclass10,Selkup/24 Song about reindeer breeding,Vocal,Circumpolar,8.22459498960779
+191,7,pitchclass12,Selkup/24 Song about reindeer breeding,Vocal,Circumpolar,39.7457872972991
+192,8,pitchclass13,Selkup/24 Song about reindeer breeding,Vocal,Circumpolar,3.40735979730016
+193,0,pitchclass1,South Greenland/14 South Greenland _ Therkel Petersen,Vocal,Circumpolar,1.08977347555719
+194,1,pitchclass2,South Greenland/14 South Greenland _ Therkel Petersen,Vocal,Circumpolar,7.38687069496882
+195,2,pitchclass5,South Greenland/14 South Greenland _ Therkel Petersen,Vocal,Circumpolar,17.6099113954497
+196,3,pitchclass6,South Greenland/14 South Greenland _ Therkel Petersen,Vocal,Circumpolar,47.6932002921822
+197,0,pitchclass1,South Greenland/16 South Greenland _ Karen Hansen,Vocal,Circumpolar,22.4775121621642
+198,1,pitchclass3,South Greenland/16 South Greenland _ Karen Hansen,Vocal,Circumpolar,26.8627907335904
+199,2,pitchclass4,South Greenland/16 South Greenland _ Karen Hansen,Vocal,Circumpolar,0.36274597737065
+200,3,pitchclass6,South Greenland/16 South Greenland _ Karen Hansen,Vocal,Circumpolar,34.3495088288309
+201,4,pitchclass8,South Greenland/16 South Greenland _ Karen Hansen,Vocal,Circumpolar,49.3613816066081
+202,5,pitchclass9,South Greenland/16 South Greenland _ Karen Hansen,Vocal,Circumpolar,16.9130371621632
+203,0,pitchclass2,Western Greenland/23 Uummannaq-Upernavik _ Kanape,Vocal,Circumpolar,5.74505888625208
+204,1,pitchclass3,Western Greenland/23 Uummannaq-Upernavik _ Kanape,Vocal,Circumpolar,16.7776722407871
+205,2,pitchclass4,Western Greenland/23 Uummannaq-Upernavik _ Kanape,Vocal,Circumpolar,33.4620589816586
+206,0,pitchclass1,Yakut/18 Tojuk,Vocal,Circumpolar,15.0366441440383
+207,1,pitchclass4,Yakut/18 Tojuk,Vocal,Circumpolar,30.9930459595471
+0,0,pitchclass1,Aomori/01_aomori_(1),Vocal,East Asia,29.3996318181835
+1,1,pitchclass2,Aomori/01_aomori_(1),Vocal,East Asia,28.2518578181825
+2,2,pitchclass4,Aomori/01_aomori_(1),Vocal,East Asia,44.8031984848512
+3,3,pitchclass5,Aomori/01_aomori_(1),Vocal,East Asia,10.0356767086942
+4,4,pitchclass6,Aomori/01_aomori_(1),Vocal,East Asia,33.7799384065365
+5,0,pitchclass1,Aomori/04_Aomori_1,Vocal,East Asia,26.8849368421033
+6,1,pitchclass2,Aomori/04_Aomori_1,Vocal,East Asia,12.7261102564098
+7,2,pitchclass3,Aomori/04_Aomori_1,Vocal,East Asia,10.9052412698384
+8,3,pitchclass5,Aomori/04_Aomori_1,Vocal,East Asia,33.9908999999989
+9,4,pitchclass6,Aomori/04_Aomori_1,Vocal,East Asia,20.0337314285716
+10,5,pitchclass7,Aomori/04_Aomori_1,Vocal,East Asia,32.8039426900559
+11,6,pitchclass8,Aomori/04_Aomori_1,Vocal,East Asia,4.21187021276091
+12,7,pitchclass10,Aomori/04_Aomori_1,Vocal,East Asia,14.5293769230757
+13,0,pitchclass1,Aomori/13_Aomori_1,Vocal,East Asia,2.76062217937033
+14,1,pitchclass2,Aomori/13_Aomori_1,Vocal,East Asia,41.1422368852527
+15,2,pitchclass3,Aomori/13_Aomori_1,Vocal,East Asia,43.9325631147494
+16,3,pitchclass5,Aomori/13_Aomori_1,Vocal,East Asia,32.8827875828338
+17,4,pitchclass6,Aomori/13_Aomori_1,Vocal,East Asia,14.0247727301321
+18,5,pitchclass7,Aomori/13_Aomori_1,Vocal,East Asia,49.7309557618137
+19,6,pitchclass8,Aomori/13_Aomori_1,Vocal,East Asia,13.2386906657703
+20,7,pitchclass9,Aomori/13_Aomori_1,Vocal,East Asia,5.50112021858331
+21,0,pitchclass1,Aomori/14_Aomori,Vocal,East Asia,19.3599009283953
+22,1,pitchclass2,Aomori/14_Aomori,Vocal,East Asia,35.4200000407163
+23,2,pitchclass5,Aomori/14_Aomori,Vocal,East Asia,15.5633288792997
+24,3,pitchclass7,Aomori/14_Aomori,Vocal,East Asia,41.7410424336595
+25,4,pitchclass9,Aomori/14_Aomori,Vocal,East Asia,23.8247401996541
+26,5,pitchclass10,Aomori/14_Aomori,Vocal,East Asia,18.0857980459641
+27,0,pitchclass1,Aomori/17_Aomori_1,Vocal,East Asia,45.9964619047623
+28,1,pitchclass5,Aomori/17_Aomori_1,Vocal,East Asia,40.184370719353
+29,2,pitchclass6,Aomori/17_Aomori_1,Vocal,East Asia,21.8285380952366
+30,3,pitchclass7,Aomori/17_Aomori_1,Vocal,East Asia,21.3072511591472
+31,4,pitchclass9,Aomori/17_Aomori_1,Vocal,East Asia,31.8089853174588
+32,5,pitchclass10,Aomori/17_Aomori_1,Vocal,East Asia,0.619081232489407
+33,0,pitchclass1,Aomori/19_Aomori,Vocal,East Asia,31.4761095122049
+34,1,pitchclass3,Aomori/19_Aomori,Vocal,East Asia,46.7495004761859
+35,2,pitchclass6,Aomori/19_Aomori,Vocal,East Asia,29.2076301117268
+36,3,pitchclass7,Aomori/19_Aomori,Vocal,East Asia,23.2174377777719
+37,4,pitchclass8,Aomori/19_Aomori,Vocal,East Asia,37.7288470370331
+38,0,pitchclass1,Gangwon/1-07_gangwon,Vocal,East Asia,22.0505986682092
+39,1,pitchclass3,Gangwon/1-07_gangwon,Vocal,East Asia,20.4792995055286
+40,2,pitchclass6,Gangwon/1-07_gangwon,Vocal,East Asia,32.1083981897409
+41,3,pitchclass7,Gangwon/1-07_gangwon,Vocal,East Asia,17.0232756824407
+42,4,pitchclass8,Gangwon/1-07_gangwon,Vocal,East Asia,25.4875550318447
+43,0,pitchclass1,Gangwon/12_Gangwon_1,Vocal,East Asia,12.4502561971894
+44,1,pitchclass3,Gangwon/12_Gangwon_1,Vocal,East Asia,48.5679719047621
+45,2,pitchclass6,Gangwon/12_Gangwon_1,Vocal,East Asia,38.9035827083298
+46,3,pitchclass7,Gangwon/12_Gangwon_1,Vocal,East Asia,18.335345632182
+47,0,pitchclass1,Gangwon/13_Gangwon_1,Vocal,East Asia,44.6402810301497
+48,1,pitchclass5,Gangwon/13_Gangwon_1,Vocal,East Asia,9.79872706844071
+49,2,pitchclass6,Gangwon/13_Gangwon_1,Vocal,East Asia,24.2062162153379
+50,0,pitchclass1,Gangwon/14_Gangwon,Vocal,East Asia,17.2806753865898
+51,1,pitchclass3,Gangwon/14_Gangwon,Vocal,East Asia,19.4729477683086
+52,2,pitchclass4,Gangwon/14_Gangwon,Vocal,East Asia,27.0442235873397
+53,3,pitchclass6,Gangwon/14_Gangwon,Vocal,East Asia,27.1429423419504
+54,4,pitchclass7,Gangwon/14_Gangwon,Vocal,East Asia,23.022568005812
+55,5,pitchclass8,Gangwon/14_Gangwon,Vocal,East Asia,20.2957817711285
+56,0,pitchclass2,Gangwon/2-03_Gangwon,Vocal,East Asia,23.4928958040637
+57,1,pitchclass3,Gangwon/2-03_Gangwon,Vocal,East Asia,14.0210102389665
+58,2,pitchclass4,Gangwon/2-03_Gangwon,Vocal,East Asia,40.5793106976835
+59,3,pitchclass5,Gangwon/2-03_Gangwon,Vocal,East Asia,28.1549626356518
+60,4,pitchclass6,Gangwon/2-03_Gangwon,Vocal,East Asia,25.8178536176802
+61,5,pitchclass7,Gangwon/2-03_Gangwon,Vocal,East Asia,39.7833393023175
+62,6,pitchclass8,Gangwon/2-03_Gangwon,Vocal,East Asia,18.5010011728227
+63,7,pitchclass9,Gangwon/2-03_Gangwon,Vocal,East Asia,3.89154644517475
+64,0,pitchclass1,Gangwon/22_Gangwon,Vocal,East Asia,42.8359133995054
+65,1,pitchclass3,Gangwon/22_Gangwon,Vocal,East Asia,38.3412373397441
+66,2,pitchclass5,Gangwon/22_Gangwon,Vocal,East Asia,21.1440513377929
+67,3,pitchclass6,Gangwon/22_Gangwon,Vocal,East Asia,22.7863469230779
+68,0,pitchclass1,Indonesia/The Legend of Dewaruci Kaca,Vocal,East Asia,36.9183383689815
+69,1,pitchclass3,Indonesia/The Legend of Dewaruci Kaca,Vocal,East Asia,44.5051793153052
+70,2,pitchclass5,Indonesia/The Legend of Dewaruci Kaca,Vocal,East Asia,12.9724529526538
+71,3,pitchclass7,Indonesia/The Legend of Dewaruci Kaca,Vocal,East Asia,24.3293384873323
+72,0,pitchclass3,Laos/Teum,Vocal,East Asia,19.019862500003
+73,1,pitchclass5,Laos/Teum,Vocal,East Asia,45.2651579545491
+74,2,pitchclass6,Laos/Teum,Vocal,East Asia,17.5280767857112
+75,3,pitchclass7,Laos/Teum,Vocal,East Asia,35.4271856884079
+76,4,pitchclass8,Laos/Teum,Vocal,East Asia,46.2354252551031
+77,5,pitchclass10,Laos/Teum,Vocal,East Asia,8.38807797618938
+78,6,pitchclass12,Laos/Teum,Vocal,East Asia,47.9067575000026
+79,0,pitchclass1,Laos/Teum song,Vocal,East Asia,17.7594525851146
+80,1,pitchclass3,Laos/Teum song,Vocal,East Asia,41.5547458541259
+81,2,pitchclass6,Laos/Teum song,Vocal,East Asia,7.80430550819256
+82,3,pitchclass8,Laos/Teum song,Vocal,East Asia,35.0819649362529
+83,4,pitchclass9,Laos/Teum song,Vocal,East Asia,48.6462327868921
+84,5,pitchclass11,Laos/Teum song,Vocal,East Asia,11.2108406193038
+85,0,pitchclass1,Laos/Teum song with chorus,Vocal,East Asia,45.8885198780481
+86,1,pitchclass2,Laos/Teum song with chorus,Vocal,East Asia,19.6421639689561
+87,2,pitchclass5,Laos/Teum song with chorus,Vocal,East Asia,47.9359548780485
+88,3,pitchclass7,Laos/Teum song with chorus,Vocal,East Asia,5.8153920873483
+89,4,pitchclass8,Laos/Teum song with chorus,Vocal,East Asia,27.2556598780466
+90,5,pitchclass10,Laos/Teum song with chorus,Vocal,East Asia,49.9340833935548
+91,6,pitchclass11,Laos/Teum song with chorus,Vocal,East Asia,20.9770819640562
+92,7,pitchclass12,Laos/Teum song with chorus,Vocal,East Asia,11.0702923780482
+93,0,pitchclass3,Mongolia/Horse with light-grey coat,Vocal,East Asia,9.21290635208606
+94,1,pitchclass4,Mongolia/Horse with light-grey coat,Vocal,East Asia,43.7516020689709
+95,2,pitchclass5,Mongolia/Horse with light-grey coat,Vocal,East Asia,41.4878365134155
+96,3,pitchclass7,Mongolia/Horse with light-grey coat,Vocal,East Asia,45.4390318704227
+97,4,pitchclass8,Mongolia/Horse with light-grey coat,Vocal,East Asia,33.6441280689669
+98,5,pitchclass10,Mongolia/Horse with light-grey coat,Vocal,East Asia,23.5170553913504
+99,6,pitchclass11,Mongolia/Horse with light-grey coat,Vocal,East Asia,39.6244751403319
+100,7,pitchclass12,Mongolia/Horse with light-grey coat,Vocal,East Asia,4.09590912779277
+101,8,pitchclass14,Mongolia/Horse with light-grey coat,Vocal,East Asia,5.22499206896828
+102,9,pitchclass15,Mongolia/Horse with light-grey coat,Vocal,East Asia,40.9091288401232
+103,10,pitchclass16,Mongolia/Horse with light-grey coat,Vocal,East Asia,39.2096926659869
+104,0,pitchclass1,Mongolia/My speckled bay,Vocal,East Asia,29.9141024038454
+105,1,pitchclass5,Mongolia/My speckled bay,Vocal,East Asia,3.46274913600792
+106,2,pitchclass6,Mongolia/My speckled bay,Vocal,East Asia,1.78494391464483
+107,3,pitchclass7,Mongolia/My speckled bay,Vocal,East Asia,14.0728682400968
+108,4,pitchclass8,Mongolia/My speckled bay,Vocal,East Asia,40.1254844871783
+109,5,pitchclass9,Mongolia/My speckled bay,Vocal,East Asia,7.96249551282199
+110,6,pitchclass10,Mongolia/My speckled bay,Vocal,East Asia,3.55531643686299
+111,7,pitchclass11,Mongolia/My speckled bay,Vocal,East Asia,37.4949940635488
+112,8,pitchclass12,Mongolia/My speckled bay,Vocal,East Asia,33.4445326923069
+113,9,pitchclass13,Mongolia/My speckled bay,Vocal,East Asia,29.237356209338
+114,10,pitchclass14,Mongolia/My speckled bay,Vocal,East Asia,40.8030278152273
+115,11,pitchclass15,Mongolia/My speckled bay,Vocal,East Asia,15.9888121794884
+116,12,pitchclass16,Mongolia/My speckled bay,Vocal,East Asia,28.1688538461549
+117,13,pitchclass17,Mongolia/My speckled bay,Vocal,East Asia,41.8957711538442
+118,14,pitchclass18,Mongolia/My speckled bay,Vocal,East Asia,16.2912211538442
+119,0,pitchclass1,Mongolia/Two little ducks,Vocal,East Asia,48.3031660256384
+120,1,pitchclass3,Mongolia/Two little ducks,Vocal,East Asia,32.5984864801812
+121,2,pitchclass5,Mongolia/Two little ducks,Vocal,East Asia,41.0498089743614
+122,3,pitchclass6,Mongolia/Two little ducks,Vocal,East Asia,34.0076553113522
+123,4,pitchclass8,Mongolia/Two little ducks,Vocal,East Asia,22.7066722396667
+124,5,pitchclass10,Mongolia/Two little ducks,Vocal,East Asia,1.40775011654659
+125,6,pitchclass11,Mongolia/Two little ducks,Vocal,East Asia,18.9783978632531
+126,7,pitchclass13,Mongolia/Two little ducks,Vocal,East Asia,20.25727564103
+127,8,pitchclass15,Mongolia/Two little ducks,Vocal,East Asia,12.9258502848988
+128,9,pitchclass16,Mongolia/Two little ducks,Vocal,East Asia,13.955659358975
+129,0,pitchclass2,Nivkh/03 Chant A Cappella,Vocal,East Asia,10.9757291834976
+130,1,pitchclass3,Nivkh/03 Chant A Cappella,Vocal,East Asia,44.7291035601829
+131,2,pitchclass5,Nivkh/03 Chant A Cappella,Vocal,East Asia,43.1925451464467
+132,0,pitchclass2,Nivkh/13 Chant De Chasse,Vocal,East Asia,24.298207723552
+133,1,pitchclass3,Nivkh/13 Chant De Chasse,Vocal,East Asia,24.8839974761759
+134,0,pitchclass1,Nivkh/20 Chant A Capella,Vocal,East Asia,8.15541604929058
+135,1,pitchclass2,Nivkh/20 Chant A Capella,Vocal,East Asia,36.0831496402334
+136,2,pitchclass3,Nivkh/20 Chant A Capella,Vocal,East Asia,7.1366966247042
+137,3,pitchclass4,Nivkh/20 Chant A Capella,Vocal,East Asia,17.8317608714733
+138,0,pitchclass1,Nivkh/22 Le Bouleau - Chant A Cappella,Vocal,East Asia,40.7550540041375
+139,1,pitchclass2,Nivkh/22 Le Bouleau - Chant A Cappella,Vocal,East Asia,8.39271881441346
+140,2,pitchclass4,Nivkh/22 Le Bouleau - Chant A Cappella,Vocal,East Asia,10.5268173774439
+141,3,pitchclass7,Nivkh/22 Le Bouleau - Chant A Cappella,Vocal,East Asia,48.7064701464351
+142,0,pitchclass1,Nivkh/26 Chant Sans Paroles,Vocal,East Asia,9.12476026410332
+143,1,pitchclass2,Nivkh/26 Chant Sans Paroles,Vocal,East Asia,5.97388373469221
+144,2,pitchclass5,Nivkh/26 Chant Sans Paroles,Vocal,East Asia,9.73758481161531
+145,3,pitchclass6,Nivkh/26 Chant Sans Paroles,Vocal,East Asia,16.4553450834883
+146,4,pitchclass8,Nivkh/26 Chant Sans Paroles,Vocal,East Asia,46.3865532653072
+147,5,pitchclass10,Nivkh/26 Chant Sans Paroles,Vocal,East Asia,46.3785674758346
+148,6,pitchclass11,Nivkh/26 Chant Sans Paroles,Vocal,East Asia,32.7466730479136
+149,0,pitchclass1,Ryukyu Okinawa/Ryukyu Okinawa K49 R73K051A (3_35-7_36),Vocal,East Asia,9.67364214339796
+150,1,pitchclass3,Ryukyu Okinawa/Ryukyu Okinawa K49 R73K051A (3_35-7_36),Vocal,East Asia,37.833767681157
+151,2,pitchclass4,Ryukyu Okinawa/Ryukyu Okinawa K49 R73K051A (3_35-7_36),Vocal,East Asia,22.1770099378882
+152,3,pitchclass7,Ryukyu Okinawa/Ryukyu Okinawa K49 R73K051A (3_35-7_36),Vocal,East Asia,29.4099029872814
+153,0,pitchclass1,Ryukyu Yaeyama/541 - 01 R74Y192A (8_26-10_32)_Ryukyu_Yaeyama,Vocal,East Asia,6.81015232558275
+154,1,pitchclass2,Ryukyu Yaeyama/541 - 01 R74Y192A (8_26-10_32)_Ryukyu_Yaeyama,Vocal,East Asia,8.45802639781687
+155,2,pitchclass3,Ryukyu Yaeyama/541 - 01 R74Y192A (8_26-10_32)_Ryukyu_Yaeyama,Vocal,East Asia,34.0524291558995
+156,3,pitchclass6,Ryukyu Yaeyama/541 - 01 R74Y192A (8_26-10_32)_Ryukyu_Yaeyama,Vocal,East Asia,9.63204135257911
+157,4,pitchclass7,Ryukyu Yaeyama/541 - 01 R74Y192A (8_26-10_32)_Ryukyu_Yaeyama,Vocal,East Asia,44.2185779069732
+158,5,pitchclass8,Ryukyu Yaeyama/541 - 01 R74Y192A (8_26-10_32)_Ryukyu_Yaeyama,Vocal,East Asia,35.5766667220341
+159,0,pitchclass1,Ryukyu Yaeyama/Ryukyu Yaeyama R74Y055A (10_05-10_30),Vocal,East Asia,47.8714690516417
+160,1,pitchclass2,Ryukyu Yaeyama/Ryukyu Yaeyama R74Y055A (10_05-10_30),Vocal,East Asia,3.90532842664197
+161,2,pitchclass3,Ryukyu Yaeyama/Ryukyu Yaeyama R74Y055A (10_05-10_30),Vocal,East Asia,34.2768870804866
+162,3,pitchclass4,Ryukyu Yaeyama/Ryukyu Yaeyama R74Y055A (10_05-10_30),Vocal,East Asia,10.0647767756982
+163,4,pitchclass7,Ryukyu Yaeyama/Ryukyu Yaeyama R74Y055A (10_05-10_30),Vocal,East Asia,16.5752977830362
+164,5,pitchclass9,Ryukyu Yaeyama/Ryukyu Yaeyama R74Y055A (10_05-10_30),Vocal,East Asia,48.3460830319073
+165,0,pitchclass1,Ryukyu Yaeyama/Ryukyu_Yaeyama (405-01) (R78Y067B 16_43-22_46),Vocal,East Asia,19.402766247631
+166,1,pitchclass5,Ryukyu Yaeyama/Ryukyu_Yaeyama (405-01) (R78Y067B 16_43-22_46),Vocal,East Asia,41.3000904318597
+167,2,pitchclass6,Ryukyu Yaeyama/Ryukyu_Yaeyama (405-01) (R78Y067B 16_43-22_46),Vocal,East Asia,30.5319522895061
+168,3,pitchclass8,Ryukyu Yaeyama/Ryukyu_Yaeyama (405-01) (R78Y067B 16_43-22_46),Vocal,East Asia,16.8395906649439
+169,4,pitchclass10,Ryukyu Yaeyama/Ryukyu_Yaeyama (405-01) (R78Y067B 16_43-22_46),Vocal,East Asia,45.3175776026346
+170,0,pitchclass1,Saga/01,Vocal,East Asia,42.5029608108071
+171,1,pitchclass3,Saga/01,Vocal,East Asia,35.8433332597888
+172,2,pitchclass4,Saga/01,Vocal,East Asia,39.8035524774714
+173,3,pitchclass6,Saga/01,Vocal,East Asia,34.6684560938302
+174,4,pitchclass7,Saga/01,Vocal,East Asia,41.8764984651243
+175,5,pitchclass11,Saga/01,Vocal,East Asia,42.6569465250941
+176,6,pitchclass13,Saga/01,Vocal,East Asia,19.2870467234334
+177,0,pitchclass1,Saga/06,Vocal,East Asia,43.3001225797543
+178,1,pitchclass2,Saga/06,Vocal,East Asia,26.8556120162029
+179,2,pitchclass5,Saga/06,Vocal,East Asia,5.78041870307607
+180,3,pitchclass6,Saga/06,Vocal,East Asia,27.6939346167928
+181,4,pitchclass8,Saga/06,Vocal,East Asia,39.8457972193009
+182,0,pitchclass1,Saga/07-2,Vocal,East Asia,33.7988771929813
+183,1,pitchclass2,Saga/07-2,Vocal,East Asia,11.4276054511265
+184,2,pitchclass4,Saga/07-2,Vocal,East Asia,11.2475518796928
+185,3,pitchclass7,Saga/07-2,Vocal,East Asia,33.2430079298301
+186,4,pitchclass8,Saga/07-2,Vocal,East Asia,5.0737788277529
+187,0,pitchclass3,Saga/18,Vocal,East Asia,8.73410852309644
+188,1,pitchclass5,Saga/18,Vocal,East Asia,17.0280210814599
+189,2,pitchclass7,Saga/18,Vocal,East Asia,0.486128562040904
+190,0,pitchclass1,Saga/22,Vocal,East Asia,42.718890298509
+191,1,pitchclass3,Saga/22,Vocal,East Asia,33.7432132729209
+192,2,pitchclass5,Saga/22,Vocal,East Asia,6.12682970149308
+193,3,pitchclass6,Saga/22,Vocal,East Asia,46.8135022014949
+194,4,pitchclass8,Saga/22,Vocal,East Asia,20.8695956176571
+195,5,pitchclass9,Saga/22,Vocal,East Asia,5.63017192371353
+196,6,pitchclass10,Saga/22,Vocal,East Asia,44.1336448439624
+197,0,pitchclass3,Shizuoka/01 (1),Vocal,East Asia,31.2152500000029
+198,1,pitchclass5,Shizuoka/01 (1),Vocal,East Asia,13.6147729166623
+199,2,pitchclass7,Shizuoka/01 (1),Vocal,East Asia,38.0843338709656
+200,3,pitchclass9,Shizuoka/01 (1),Vocal,East Asia,16.0982607843143
+201,4,pitchclass10,Shizuoka/01 (1),Vocal,East Asia,12.3732966292173
+202,5,pitchclass11,Shizuoka/01 (1),Vocal,East Asia,13.839699999995
+203,0,pitchclass1,Shizuoka/11 (1),Vocal,East Asia,4.24104401544537
+204,1,pitchclass2,Shizuoka/11 (1),Vocal,East Asia,27.5841813780826
+205,2,pitchclass4,Shizuoka/11 (1),Vocal,East Asia,47.7611833011579
+206,3,pitchclass5,Shizuoka/11 (1),Vocal,East Asia,38.3469259093672
+207,4,pitchclass6,Shizuoka/11 (1),Vocal,East Asia,28.1492583655072
+208,5,pitchclass10,Shizuoka/11 (1),Vocal,East Asia,1.16259319137862
+209,6,pitchclass11,Shizuoka/11 (1),Vocal,East Asia,40.2312134379699
+210,7,pitchclass12,Shizuoka/11 (1),Vocal,East Asia,30.5571496055054
+211,0,pitchclass1,Shizuoka/29,Vocal,East Asia,39.7700446428553
+212,1,pitchclass3,Shizuoka/29,Vocal,East Asia,19.758084236455
+213,2,pitchclass4,Shizuoka/29,Vocal,East Asia,35.3898605042032
+214,3,pitchclass5,Shizuoka/29,Vocal,East Asia,34.8010218487361
+215,4,pitchclass6,Shizuoka/29,Vocal,East Asia,5.38105102040572
+216,5,pitchclass7,Shizuoka/29,Vocal,East Asia,24.4670763736249
+217,6,pitchclass10,Shizuoka/29,Vocal,East Asia,43.9920664526508
+218,7,pitchclass12,Shizuoka/29,Vocal,East Asia,31.8607267080733
+219,0,pitchclass1,Shizuoka/33,Vocal,East Asia,47.6980668439692
+220,1,pitchclass3,Shizuoka/33,Vocal,East Asia,36.3579581560307
+221,2,pitchclass4,Shizuoka/33,Vocal,East Asia,18.9424618439698
+222,3,pitchclass7,Shizuoka/33,Vocal,East Asia,3.45854660587429
+223,4,pitchclass8,Shizuoka/33,Vocal,East Asia,29.3884421560306
+224,5,pitchclass10,Shizuoka/33,Vocal,East Asia,35.1176436399001
+225,6,pitchclass11,Shizuoka/33,Vocal,East Asia,6.52074387031644
+226,7,pitchclass12,Shizuoka/33,Vocal,East Asia,17.9640653733823
+227,0,pitchclass3,South Jeolla/04,Vocal,East Asia,49.1611268292709
+228,1,pitchclass4,South Jeolla/04,Vocal,East Asia,20.313726829263
+229,2,pitchclass6,South Jeolla/04,Vocal,East Asia,9.3515601625968
+230,0,pitchclass3,South Jeolla/11,Vocal,East Asia,22.5617397415972
+231,1,pitchclass4,South Jeolla/11,Vocal,East Asia,27.5567672649631
+232,2,pitchclass5,South Jeolla/11,Vocal,East Asia,6.35099611111946
+233,0,pitchclass2,South Jeolla/14,Vocal,East Asia,3.93645892375025
+234,1,pitchclass4,South Jeolla/14,Vocal,East Asia,10.8663045865978
+235,2,pitchclass5,South Jeolla/14,Vocal,East Asia,22.4728683198427
+236,0,pitchclass1,South Jeolla/15-2,Vocal,East Asia,29.4251022083445
+237,1,pitchclass2,South Jeolla/15-2,Vocal,East Asia,1.16539704402567
+238,2,pitchclass5,South Jeolla/15-2,Vocal,East Asia,13.0186738556222
+239,3,pitchclass6,South Jeolla/15-2,Vocal,East Asia,27.87331337264
+240,0,pitchclass1,South Jeolla/17-1,Vocal,East Asia,25.1362093113512
+241,1,pitchclass4,South Jeolla/17-1,Vocal,East Asia,1.75634561598235
+242,2,pitchclass5,South Jeolla/17-1,Vocal,East Asia,1.51268383988099
+243,3,pitchclass6,South Jeolla/17-1,Vocal,East Asia,4.02583371951005
+244,0,pitchclass1,South Jeolla/21,Vocal,East Asia,16.1958534612131
+245,1,pitchclass2,South Jeolla/21,Vocal,East Asia,6.21182200957446
+246,2,pitchclass5,South Jeolla/21,Vocal,East Asia,42.1037017408162
+247,3,pitchclass6,South Jeolla/21,Vocal,East Asia,1.19700852272763
+248,4,pitchclass8,South Jeolla/21,Vocal,East Asia,45.4041596837924
+249,0,pitchclass3,Tokushima/01 Track 01 (1),Vocal,East Asia,33.5416036786446
+250,1,pitchclass4,Tokushima/01 Track 01 (1),Vocal,East Asia,42.6532346103941
+251,2,pitchclass6,Tokushima/01 Track 01 (1),Vocal,East Asia,10.6803261038931
+252,0,pitchclass1,Tokushima/14 Track 14 (1),Vocal,East Asia,21.4404080200475
+253,1,pitchclass2,Tokushima/14 Track 14 (1),Vocal,East Asia,34.8553491228085
+254,2,pitchclass4,Tokushima/14 Track 14 (1),Vocal,East Asia,24.8374419986849
+255,3,pitchclass5,Tokushima/14 Track 14 (1),Vocal,East Asia,7.68055087719222
+256,4,pitchclass8,Tokushima/14 Track 14 (1),Vocal,East Asia,0.529162269593144
+257,5,pitchclass9,Tokushima/14 Track 14 (1),Vocal,East Asia,0.176011622814258
+258,6,pitchclass11,Tokushima/14 Track 14 (1),Vocal,East Asia,1.0727691228094
+259,0,pitchclass1,Tokushima/15 Track 15 (2),Vocal,East Asia,36.260509948539
+260,1,pitchclass2,Tokushima/15 Track 15 (2),Vocal,East Asia,34.9616179636105
+261,2,pitchclass4,Tokushima/15 Track 15 (2),Vocal,East Asia,43.6489124737946
+262,3,pitchclass5,Tokushima/15 Track 15 (2),Vocal,East Asia,32.4462442745589
+263,4,pitchclass7,Tokushima/15 Track 15 (2),Vocal,East Asia,46.5216402515725
+264,5,pitchclass8,Tokushima/15 Track 15 (2),Vocal,East Asia,37.9391013626828
+265,6,pitchclass10,Tokushima/15 Track 15 (2),Vocal,East Asia,13.2762013626816
+266,0,pitchclass1,Tokushima/17 Track 17 (3),Vocal,East Asia,8.72292089093025
+267,1,pitchclass3,Tokushima/17 Track 17 (3),Vocal,East Asia,20.3279577956946
+268,2,pitchclass5,Tokushima/17 Track 17 (3),Vocal,East Asia,14.9956239610565
+269,3,pitchclass6,Tokushima/17 Track 17 (3),Vocal,East Asia,16.5359227956997
+270,4,pitchclass7,Tokushima/17 Track 17 (3),Vocal,East Asia,2.76403181104615
+271,5,pitchclass10,Tokushima/17 Track 17 (3),Vocal,East Asia,26.2192422043045
+272,6,pitchclass11,Tokushima/17 Track 17 (3),Vocal,East Asia,34.2373762952138
+273,7,pitchclass12,Tokushima/17 Track 17 (3),Vocal,East Asia,19.6542221223372
+274,0,pitchclass1,Tokushima/27 Track 27 (2),Vocal,East Asia,40.0314111392381
+275,1,pitchclass3,Tokushima/27 Track 27 (2),Vocal,East Asia,32.5647504123772
+276,2,pitchclass4,Tokushima/27 Track 27 (2),Vocal,East Asia,38.3913356626508
+277,3,pitchclass6,Tokushima/27 Track 27 (2),Vocal,East Asia,48.1325060759518
+278,4,pitchclass8,Tokushima/27 Track 27 (2),Vocal,East Asia,41.79289875
+279,5,pitchclass9,Tokushima/27 Track 27 (2),Vocal,East Asia,7.38216000000284
+280,0,pitchclass1,Tokushima/31 Track 31 (2),Vocal,East Asia,13.8968527874567
+281,1,pitchclass3,Tokushima/31 Track 31 (2),Vocal,East Asia,22.1170550731731
+282,2,pitchclass4,Tokushima/31 Track 31 (2),Vocal,East Asia,42.1045036164815
+283,3,pitchclass6,Tokushima/31 Track 31 (2),Vocal,East Asia,42.4614753588903
+284,4,pitchclass8,Tokushima/31 Track 31 (2),Vocal,East Asia,47.7603694347672
+285,5,pitchclass10,Tokushima/31 Track 31 (2),Vocal,East Asia,23.9473920731689
+0,0,pitchclass3,Belarus/Love Songs,Vocal,Europe,35.3901474902523
+1,1,pitchclass4,Belarus/Love Songs,Vocal,Europe,46.0057746362236
+2,2,pitchclass5,Belarus/Love Songs,Vocal,Europe,8.49744640092831
+3,3,pitchclass6,Belarus/Love Songs,Vocal,Europe,29.9157877478992
+4,4,pitchclass7,Belarus/Love Songs,Vocal,Europe,22.0222634485926
+5,0,pitchclass1,"Croatia/Oj, Lika Goji Konja I Junaka (The Country Of Lika Raises Heroes and Horses)",Vocal,Europe,33.170564081629
+6,1,pitchclass3,"Croatia/Oj, Lika Goji Konja I Junaka (The Country Of Lika Raises Heroes and Horses)",Vocal,Europe,4.20658566196289
+7,2,pitchclass5,"Croatia/Oj, Lika Goji Konja I Junaka (The Country Of Lika Raises Heroes and Horses)",Vocal,Europe,6.50879555604843
+8,3,pitchclass6,"Croatia/Oj, Lika Goji Konja I Junaka (The Country Of Lika Raises Heroes and Horses)",Vocal,Europe,46.606735501704
+9,4,pitchclass8,"Croatia/Oj, Lika Goji Konja I Junaka (The Country Of Lika Raises Heroes and Horses)",Vocal,Europe,22.8796136054389
+10,5,pitchclass10,"Croatia/Oj, Lika Goji Konja I Junaka (The Country Of Lika Raises Heroes and Horses)",Vocal,Europe,39.9320379473575
+11,0,pitchclass1,"Croatia/Pivaj, Seko _ Gospe Sinjska (Sing, Sister _ Madonna of Sinj)",Vocal,Europe,29.3148348881386
+12,1,pitchclass4,"Croatia/Pivaj, Seko _ Gospe Sinjska (Sing, Sister _ Madonna of Sinj)",Vocal,Europe,2.89231656551783
+13,2,pitchclass5,"Croatia/Pivaj, Seko _ Gospe Sinjska (Sing, Sister _ Madonna of Sinj)",Vocal,Europe,12.5732751000032
+14,3,pitchclass6,"Croatia/Pivaj, Seko _ Gospe Sinjska (Sing, Sister _ Madonna of Sinj)",Vocal,Europe,19.2855547428589
+15,0,pitchclass3,Croatia/Ptica Vuga (The Oriole),Vocal,Europe,0.765407572323966
+16,1,pitchclass4,Croatia/Ptica Vuga (The Oriole),Vocal,Europe,5.20018643411095
+17,2,pitchclass6,Croatia/Ptica Vuga (The Oriole),Vocal,Europe,15.0402238658007
+18,3,pitchclass8,Croatia/Ptica Vuga (The Oriole),Vocal,Europe,9.92518728568575
+19,4,pitchclass9,Croatia/Ptica Vuga (The Oriole),Vocal,Europe,12.2071129911783
+20,5,pitchclass10,Croatia/Ptica Vuga (The Oriole),Vocal,Europe,14.6279138352402
+21,6,pitchclass12,Croatia/Ptica Vuga (The Oriole),Vocal,Europe,24.1858153814792
+22,0,pitchclass1,Dutch/NLB074440_all,Vocal,Europe,6.16596882040358
+23,1,pitchclass4,Dutch/NLB074440_all,Vocal,Europe,35.5526729333324
+24,2,pitchclass5,Dutch/NLB074440_all,Vocal,Europe,35.2583924019655
+25,3,pitchclass6,Dutch/NLB074440_all,Vocal,Europe,48.1849989756829
+26,4,pitchclass7,Dutch/NLB074440_all,Vocal,Europe,46.1513342987164
+27,5,pitchclass8,Dutch/NLB074440_all,Vocal,Europe,48.9920992201478
+28,0,pitchclass1,Dutch/NLB074538_all,Vocal,Europe,1.886071428572
+29,1,pitchclass3,Dutch/NLB074538_all,Vocal,Europe,49.079340476188
+30,2,pitchclass5,Dutch/NLB074538_all,Vocal,Europe,12.0979811487523
+31,3,pitchclass6,Dutch/NLB074538_all,Vocal,Europe,28.7799706168826
+32,4,pitchclass7,Dutch/NLB074538_all,Vocal,Europe,19.7760441677565
+33,5,pitchclass8,Dutch/NLB074538_all,Vocal,Europe,13.2495419047627
+34,0,pitchclass1,Dutch/NLB074581_all,Vocal,Europe,40.7111153613423
+35,1,pitchclass2,Dutch/NLB074581_all,Vocal,Europe,29.1950422857135
+36,2,pitchclass3,Dutch/NLB074581_all,Vocal,Europe,20.7222222857072
+37,3,pitchclass5,Dutch/NLB074581_all,Vocal,Europe,21.5718752268876
+38,4,pitchclass6,Dutch/NLB074581_all,Vocal,Europe,16.8215594652029
+39,5,pitchclass7,Dutch/NLB074581_all,Vocal,Europe,44.0115504415626
+40,6,pitchclass8,Dutch/NLB074581_all,Vocal,Europe,0.025410067226403
+41,0,pitchclass1,Dutch/NLB074596_all,Vocal,Europe,14.88261697083
+42,1,pitchclass2,Dutch/NLB074596_all,Vocal,Europe,2.4667341732129
+43,2,pitchclass4,Dutch/NLB074596_all,Vocal,Europe,35.2199765898749
+44,3,pitchclass6,Dutch/NLB074596_all,Vocal,Europe,12.5101104415735
+45,0,pitchclass1,Dutch/NLB074606_all,Vocal,Europe,5.91040560630063
+46,1,pitchclass2,Dutch/NLB074606_all,Vocal,Europe,30.0160800000049
+47,2,pitchclass3,Dutch/NLB074606_all,Vocal,Europe,34.8105956825439
+48,3,pitchclass5,Dutch/NLB074606_all,Vocal,Europe,34.5422560000043
+49,4,pitchclass6,Dutch/NLB074606_all,Vocal,Europe,48.7723342857116
+50,0,pitchclass3,Dutch/NLB074619_all,Vocal,Europe,1.60069323529387
+51,1,pitchclass5,Dutch/NLB074619_all,Vocal,Europe,8.75954916470073
+52,2,pitchclass6,Dutch/NLB074619_all,Vocal,Europe,22.4479328431316
+53,0,pitchclass1,Dutch/NLB074683_all,Vocal,Europe,1.33174511090328
+54,1,pitchclass2,Dutch/NLB074683_all,Vocal,Europe,34.5272420805977
+55,2,pitchclass3,Dutch/NLB074683_all,Vocal,Europe,7.78056701031164
+56,3,pitchclass6,Dutch/NLB074683_all,Vocal,Europe,26.0268915201123
+57,4,pitchclass7,Dutch/NLB074683_all,Vocal,Europe,2.67375063674626
+58,5,pitchclass8,Dutch/NLB074683_all,Vocal,Europe,7.68773338199389
+59,0,pitchclass1,Dutch/NLB074685_all,Vocal,Europe,41.3344629445801
+60,1,pitchclass2,Dutch/NLB074685_all,Vocal,Europe,2.16875897435784
+61,2,pitchclass4,Dutch/NLB074685_all,Vocal,Europe,3.21450256410208
+62,3,pitchclass7,Dutch/NLB074685_all,Vocal,Europe,4.93223641025725
+63,4,pitchclass9,Dutch/NLB074685_all,Vocal,Europe,5.00055829562371
+64,5,pitchclass10,Dutch/NLB074685_all,Vocal,Europe,20.1610608311221
+65,0,pitchclass3,Dutch/NLB074686_all,Vocal,Europe,1.24482405796516
+66,1,pitchclass4,Dutch/NLB074686_all,Vocal,Europe,18.765619940481
+67,2,pitchclass5,Dutch/NLB074686_all,Vocal,Europe,3.90557999999874
+68,0,pitchclass2,Dutch/NLB074715_all,Vocal,Europe,0.796820670100715
+69,1,pitchclass3,Dutch/NLB074715_all,Vocal,Europe,10.9416568298984
+70,2,pitchclass4,Dutch/NLB074715_all,Vocal,Europe,23.9321998561481
+71,3,pitchclass5,Dutch/NLB074715_all,Vocal,Europe,13.1073703940274
+72,4,pitchclass6,Dutch/NLB074715_all,Vocal,Europe,21.0528478386677
+73,0,pitchclass1,Dutch/NLB074727_all,Vocal,Europe,19.7690215727507
+74,1,pitchclass4,Dutch/NLB074727_all,Vocal,Europe,24.6876631436335
+75,2,pitchclass5,Dutch/NLB074727_all,Vocal,Europe,8.4300571968397
+76,3,pitchclass6,Dutch/NLB074727_all,Vocal,Europe,19.3403718523496
+77,4,pitchclass7,Dutch/NLB074727_all,Vocal,Europe,20.1817083658516
+78,5,pitchclass8,Dutch/NLB074727_all,Vocal,Europe,5.49943991130931
+79,0,pitchclass1,Dutch/NLB074751_all,Vocal,Europe,2.30903334274626
+80,1,pitchclass2,Dutch/NLB074751_all,Vocal,Europe,17.6911061688297
+81,2,pitchclass5,Dutch/NLB074751_all,Vocal,Europe,16.7126688311728
+82,3,pitchclass6,Dutch/NLB074751_all,Vocal,Europe,25.1028347504471
+83,4,pitchclass7,Dutch/NLB074751_all,Vocal,Europe,30.7193772005776
+84,5,pitchclass8,Dutch/NLB074751_all,Vocal,Europe,10.8085397989071
+85,6,pitchclass9,Dutch/NLB074751_all,Vocal,Europe,30.7949293574893
+86,0,pitchclass1,Dutch/NLB074785_all,Vocal,Europe,12.3285074509822
+87,1,pitchclass4,Dutch/NLB074785_all,Vocal,Europe,37.4337278823514
+88,2,pitchclass5,Dutch/NLB074785_all,Vocal,Europe,1.12978860962357
+89,3,pitchclass7,Dutch/NLB074785_all,Vocal,Europe,30.5484993888458
+90,4,pitchclass8,Dutch/NLB074785_all,Vocal,Europe,9.57836532976762
+91,0,pitchclass1,Dutch/NLB074845_all,Vocal,Europe,40.2248998571431
+92,1,pitchclass3,Dutch/NLB074845_all,Vocal,Europe,38.0270751428561
+93,2,pitchclass5,Dutch/NLB074845_all,Vocal,Europe,46.5362751428565
+94,3,pitchclass7,Dutch/NLB074845_all,Vocal,Europe,20.8900083225799
+95,4,pitchclass9,Dutch/NLB074845_all,Vocal,Europe,20.276145083335
+96,5,pitchclass10,Dutch/NLB074845_all,Vocal,Europe,8.69930874073907
+97,6,pitchclass11,Dutch/NLB074845_all,Vocal,Europe,34.9176695000042
+98,7,pitchclass12,Dutch/NLB074845_all,Vocal,Europe,20.6100679999981
+99,0,pitchclass1,Dutch/NLB074868_all,Vocal,Europe,20.679280998891
+100,1,pitchclass2,Dutch/NLB074868_all,Vocal,Europe,15.6769184523582
+101,2,pitchclass4,Dutch/NLB074868_all,Vocal,Europe,7.74111861281199
+102,3,pitchclass5,Dutch/NLB074868_all,Vocal,Europe,7.89236202830216
+103,4,pitchclass7,Dutch/NLB074868_all,Vocal,Europe,31.1611859478871
+104,0,pitchclass1,Dutch/NLB074871_all,Vocal,Europe,18.2729663636383
+105,1,pitchclass3,Dutch/NLB074871_all,Vocal,Europe,13.204804377101
+106,2,pitchclass5,Dutch/NLB074871_all,Vocal,Europe,2.02020794258533
+107,3,pitchclass6,Dutch/NLB074871_all,Vocal,Europe,47.0213236363634
+108,4,pitchclass7,Dutch/NLB074871_all,Vocal,Europe,3.90751054084831
+109,5,pitchclass8,Dutch/NLB074871_all,Vocal,Europe,2.77506636363614
+110,6,pitchclass9,Dutch/NLB074871_all,Vocal,Europe,12.5058906493505
+111,7,pitchclass10,Dutch/NLB074871_all,Vocal,Europe,34.679784696973
+112,0,pitchclass2,Dutch/NLB074882_all,Vocal,Europe,9.8407501432157
+113,1,pitchclass3,Dutch/NLB074882_all,Vocal,Europe,28.3371818537435
+114,2,pitchclass4,Dutch/NLB074882_all,Vocal,Europe,6.31149028393702
+115,3,pitchclass5,Dutch/NLB074882_all,Vocal,Europe,32.6560168098822
+116,4,pitchclass6,Dutch/NLB074882_all,Vocal,Europe,21.2186989795919
+117,0,pitchclass1,Dutch/NLB074910_all,Vocal,Europe,9.88504168618238
+118,1,pitchclass4,Dutch/NLB074910_all,Vocal,Europe,27.5480224897528
+119,2,pitchclass5,Dutch/NLB074910_all,Vocal,Europe,14.8352293485223
+120,3,pitchclass6,Dutch/NLB074910_all,Vocal,Europe,40.7396914729634
+121,4,pitchclass7,Dutch/NLB074910_all,Vocal,Europe,12.5673814397032
+122,5,pitchclass8,Dutch/NLB074910_all,Vocal,Europe,0.565651170960336
+123,0,pitchclass1,Dutch/NLB074939_all,Vocal,Europe,34.271501960784
+124,1,pitchclass5,Dutch/NLB074939_all,Vocal,Europe,49.4790105392222
+125,2,pitchclass6,Dutch/NLB074939_all,Vocal,Europe,17.5173627941185
+126,3,pitchclass7,Dutch/NLB074939_all,Vocal,Europe,29.5325670588172
+127,4,pitchclass8,Dutch/NLB074939_all,Vocal,Europe,11.4891795206986
+128,5,pitchclass9,Dutch/NLB074939_all,Vocal,Europe,37.7358270821187
+129,6,pitchclass10,Dutch/NLB074939_all,Vocal,Europe,11.4307383900941
+130,7,pitchclass11,Dutch/NLB074939_all,Vocal,Europe,12.9861936274501
+131,0,pitchclass1,Dutch/NLB074977_all,Vocal,Europe,4.98706799502179
+132,1,pitchclass2,Dutch/NLB074977_all,Vocal,Europe,10.6650500805827
+133,2,pitchclass3,Dutch/NLB074977_all,Vocal,Europe,0.656824429224798
+134,3,pitchclass5,Dutch/NLB074977_all,Vocal,Europe,13.3641705076516
+135,4,pitchclass6,Dutch/NLB074977_all,Vocal,Europe,3.70702998477827
+136,0,pitchclass1,Dutch/NLB075033_all,Vocal,Europe,37.891959065937
+137,1,pitchclass3,Dutch/NLB075033_all,Vocal,Europe,31.1368489819033
+138,2,pitchclass5,Dutch/NLB075033_all,Vocal,Europe,1.21177416387764
+139,3,pitchclass6,Dutch/NLB075033_all,Vocal,Europe,10.720645445339
+140,4,pitchclass7,Dutch/NLB075033_all,Vocal,Europe,4.08091752136716
+141,5,pitchclass8,Dutch/NLB075033_all,Vocal,Europe,23.7470086032372
+142,6,pitchclass9,Dutch/NLB075033_all,Vocal,Europe,6.10376858974814
+143,0,pitchclass2,Dutch/NLB075048_all,Vocal,Europe,25.9366514285721
+144,1,pitchclass4,Dutch/NLB075048_all,Vocal,Europe,39.8887457260953
+145,2,pitchclass5,Dutch/NLB075048_all,Vocal,Europe,3.6453179761902
+146,3,pitchclass6,Dutch/NLB075048_all,Vocal,Europe,42.1114947619062
+147,0,pitchclass1,Dutch/NLB075078_all,Vocal,Europe,2.24291162790723
+148,1,pitchclass4,Dutch/NLB075078_all,Vocal,Europe,15.0038225868138
+149,2,pitchclass5,Dutch/NLB075078_all,Vocal,Europe,47.4910613605298
+150,3,pitchclass6,Dutch/NLB075078_all,Vocal,Europe,16.8205949612438
+151,4,pitchclass7,Dutch/NLB075078_all,Vocal,Europe,46.5492955439859
+152,5,pitchclass8,Dutch/NLB075078_all,Vocal,Europe,23.3977235682087
+153,0,pitchclass1,Dutch/NLB075083_all,Vocal,Europe,44.812443768511
+154,1,pitchclass2,Dutch/NLB075083_all,Vocal,Europe,17.1343198869527
+155,2,pitchclass3,Dutch/NLB075083_all,Vocal,Europe,0.311712970193184
+156,3,pitchclass4,Dutch/NLB075083_all,Vocal,Europe,0.006552634207765
+157,4,pitchclass6,Dutch/NLB075083_all,Vocal,Europe,25.4471107032732
+158,5,pitchclass7,Dutch/NLB075083_all,Vocal,Europe,9.35480847172766
+159,0,pitchclass1,Dutch/NLB075118_all,Vocal,Europe,17.7582786014027
+160,1,pitchclass2,Dutch/NLB075118_all,Vocal,Europe,18.8228226525189
+161,2,pitchclass3,Dutch/NLB075118_all,Vocal,Europe,20.6324824375588
+162,3,pitchclass4,Dutch/NLB075118_all,Vocal,Europe,8.92679824518746
+163,0,pitchclass2,Dutch/NLB075151_all,Vocal,Europe,16.3874325170018
+164,1,pitchclass3,Dutch/NLB075151_all,Vocal,Europe,24.6302066666649
+165,2,pitchclass4,Dutch/NLB075151_all,Vocal,Europe,4.49250552381636
+166,3,pitchclass5,Dutch/NLB075151_all,Vocal,Europe,31.3403134549098
+167,4,pitchclass6,Dutch/NLB075151_all,Vocal,Europe,22.4851976488171
+168,0,pitchclass1,Dutch/NLB075206_all,Vocal,Europe,43.9114384682926
+169,1,pitchclass4,Dutch/NLB075206_all,Vocal,Europe,16.7589939784939
+170,2,pitchclass5,Dutch/NLB075206_all,Vocal,Europe,23.921222033412
+171,3,pitchclass6,Dutch/NLB075206_all,Vocal,Europe,47.8553193548414
+172,4,pitchclass7,Dutch/NLB075206_all,Vocal,Europe,16.9856606451594
+173,0,pitchclass1,Dutch/NLB075212_all,Vocal,Europe,5.94310262123508
+174,1,pitchclass4,Dutch/NLB075212_all,Vocal,Europe,39.2698385747735
+175,2,pitchclass5,Dutch/NLB075212_all,Vocal,Europe,29.854277668097
+176,3,pitchclass6,Dutch/NLB075212_all,Vocal,Europe,32.3732603593289
+177,0,pitchclass1,Dutch/NLB075440_all,Vocal,Europe,41.7026286751334
+178,1,pitchclass2,Dutch/NLB075440_all,Vocal,Europe,25.2918567049819
+179,2,pitchclass4,Dutch/NLB075440_all,Vocal,Europe,38.24404248276
+180,3,pitchclass5,Dutch/NLB075440_all,Vocal,Europe,4.53824972776783
+181,4,pitchclass7,Dutch/NLB075440_all,Vocal,Europe,28.3157949478773
+182,5,pitchclass8,Dutch/NLB075440_all,Vocal,Europe,24.613634482761
+183,6,pitchclass9,Dutch/NLB075440_all,Vocal,Europe,9.8873762315252
+184,0,pitchclass2,Dutch/NLB075447_all,Vocal,Europe,11.9189800736567
+185,1,pitchclass3,Dutch/NLB075447_all,Vocal,Europe,23.6048026220251
+186,2,pitchclass4,Dutch/NLB075447_all,Vocal,Europe,5.67015702170647
+187,3,pitchclass5,Dutch/NLB075447_all,Vocal,Europe,8.33160390902594
+188,0,pitchclass2,Dutch/NLB075592_all,Vocal,Europe,35.019701525549
+189,1,pitchclass3,Dutch/NLB075592_all,Vocal,Europe,34.9349136390701
+190,2,pitchclass4,Dutch/NLB075592_all,Vocal,Europe,12.6002306697992
+191,3,pitchclass5,Dutch/NLB075592_all,Vocal,Europe,9.48510099637679
+192,4,pitchclass6,Dutch/NLB075592_all,Vocal,Europe,30.9750453416182
+193,0,pitchclass3,"Greece/Go, Maro, to the Well",Vocal,Europe,18.9885496905445
+194,1,pitchclass4,"Greece/Go, Maro, to the Well",Vocal,Europe,0.581583723520453
+195,2,pitchclass6,"Greece/Go, Maro, to the Well",Vocal,Europe,17.4818351282047
+196,3,pitchclass8,"Greece/Go, Maro, to the Well",Vocal,Europe,30.2071949138299
+197,0,pitchclass1,Greece/GREECE - Ali kaimeni mu kardia,Vocal,Europe,40.6691660254965
+198,1,pitchclass2,Greece/GREECE - Ali kaimeni mu kardia,Vocal,Europe,3.16670229165175
+199,2,pitchclass4,Greece/GREECE - Ali kaimeni mu kardia,Vocal,Europe,6.42821600826755
+200,3,pitchclass7,Greece/GREECE - Ali kaimeni mu kardia,Vocal,Europe,4.31436673456483
+201,0,pitchclass2,Greece/Greece Kimisu ye mu,Vocal,Europe,9.30184208998435
+202,1,pitchclass4,Greece/Greece Kimisu ye mu,Vocal,Europe,20.7712617794714
+203,2,pitchclass5,Greece/Greece Kimisu ye mu,Vocal,Europe,3.38068265409311
+204,0,pitchclass1,Greece/Paphitike Melody,Vocal,Europe,21.913768518516
+205,1,pitchclass4,Greece/Paphitike Melody,Vocal,Europe,17.1093525185152
+206,2,pitchclass5,Greece/Paphitike Melody,Vocal,Europe,16.0729280012747
+207,3,pitchclass7,Greece/Paphitike Melody,Vocal,Europe,8.24524605291663
+208,4,pitchclass8,Greece/Paphitike Melody,Vocal,Europe,20.7802996828923
+209,5,pitchclass10,Greece/Paphitike Melody,Vocal,Europe,28.438193981483
+210,6,pitchclass12,Greece/Paphitike Melody,Vocal,Europe,27.6695599430222
+211,7,pitchclass14,Greece/Paphitike Melody,Vocal,Europe,18.5060119692898
+212,0,pitchclass3,Hungary/Beautiful is the Spring,Vocal,Europe,2.3382964671946
+213,1,pitchclass4,Hungary/Beautiful is the Spring,Vocal,Europe,23.6162417224896
+214,2,pitchclass5,Hungary/Beautiful is the Spring,Vocal,Europe,6.04365908319414
+215,3,pitchclass6,Hungary/Beautiful is the Spring,Vocal,Europe,14.8155442982461
+216,4,pitchclass7,Hungary/Beautiful is the Spring,Vocal,Europe,36.2541896761086
+217,5,pitchclass8,Hungary/Beautiful is the Spring,Vocal,Europe,7.97545263157735
+218,0,pitchclass3,"Hungary/Come on Girls, To the Spinning House",Vocal,Europe,27.3647940022911
+219,1,pitchclass4,"Hungary/Come on Girls, To the Spinning House",Vocal,Europe,45.939230174452
+220,2,pitchclass5,"Hungary/Come on Girls, To the Spinning House",Vocal,Europe,43.613117354751
+221,3,pitchclass6,"Hungary/Come on Girls, To the Spinning House",Vocal,Europe,36.5850135387645
+222,4,pitchclass7,"Hungary/Come on Girls, To the Spinning House",Vocal,Europe,34.698742079212
+223,5,pitchclass8,"Hungary/Come on Girls, To the Spinning House",Vocal,Europe,38.2554700453184
+224,6,pitchclass9,"Hungary/Come on Girls, To the Spinning House",Vocal,Europe,16.2837920792117
+225,7,pitchclass11,"Hungary/Come on Girls, To the Spinning House",Vocal,Europe,25.1899710265825
+226,0,pitchclass1,Hungary/I Live on the Brink of the Theiss River,Vocal,Europe,24.8610086363624
+227,1,pitchclass5,Hungary/I Live on the Brink of the Theiss River,Vocal,Europe,36.2420947636383
+228,2,pitchclass6,Hungary/I Live on the Brink of the Theiss River,Vocal,Europe,29.9590354882166
+229,3,pitchclass7,Hungary/I Live on the Brink of the Theiss River,Vocal,Europe,39.5968980693542
+230,4,pitchclass9,Hungary/I Live on the Brink of the Theiss River,Vocal,Europe,25.7665753800284
+231,5,pitchclass10,Hungary/I Live on the Brink of the Theiss River,Vocal,Europe,40.6352998525763
+232,0,pitchclass3,Hungary/On the Sandy Bank of the Creek,Vocal,Europe,20.8071018155442
+233,1,pitchclass4,Hungary/On the Sandy Bank of the Creek,Vocal,Europe,6.61273267973957
+234,2,pitchclass5,Hungary/On the Sandy Bank of the Creek,Vocal,Europe,2.05391994261299
+235,3,pitchclass7,Hungary/On the Sandy Bank of the Creek,Vocal,Europe,10.7730200980368
+236,4,pitchclass9,Hungary/On the Sandy Bank of the Creek,Vocal,Europe,22.0943649019628
+237,5,pitchclass11,Hungary/On the Sandy Bank of the Creek,Vocal,Europe,4.44129490196247
+238,0,pitchclass2,Hungary/The Cemetery's Gate,Vocal,Europe,0.326820546977615
+239,1,pitchclass4,Hungary/The Cemetery's Gate,Vocal,Europe,44.9150280193262
+240,2,pitchclass5,Hungary/The Cemetery's Gate,Vocal,Europe,8.45320621904648
+241,3,pitchclass6,Hungary/The Cemetery's Gate,Vocal,Europe,6.04989003952869
+242,4,pitchclass7,Hungary/The Cemetery's Gate,Vocal,Europe,32.4496239789241
+243,5,pitchclass8,Hungary/The Cemetery's Gate,Vocal,Europe,5.28376956521424
+244,6,pitchclass9,Hungary/The Cemetery's Gate,Vocal,Europe,7.36956770186771
+245,7,pitchclass11,Hungary/The Cemetery's Gate,Vocal,Europe,44.1962845537691
+246,8,pitchclass12,Hungary/The Cemetery's Gate,Vocal,Europe,0.619589051377261
+247,9,pitchclass14,Hungary/The Cemetery's Gate,Vocal,Europe,35.9316391304365
+248,10,pitchclass16,Hungary/The Cemetery's Gate,Vocal,Europe,31.6949300395281
+249,0,pitchclass1,Malta/Lullaby,Vocal,Europe,16.2965796912449
+250,1,pitchclass5,Malta/Lullaby,Vocal,Europe,3.4569060069025
+251,2,pitchclass6,Malta/Lullaby,Vocal,Europe,10.8742097538161
+252,3,pitchclass8,Malta/Lullaby,Vocal,Europe,20.858774601822
+253,4,pitchclass10,Malta/Lullaby,Vocal,Europe,1.15951136951117
+254,0,pitchclass1,Poland/Poland Uszny uszny,Vocal,Europe,19.5151393481701
+255,1,pitchclass2,Poland/Poland Uszny uszny,Vocal,Europe,18.3498632161954
+256,2,pitchclass5,Poland/Poland Uszny uszny,Vocal,Europe,20.7160739651354
+257,3,pitchclass6,Poland/Poland Uszny uszny,Vocal,Europe,5.78235695940384
+258,4,pitchclass8,Poland/Poland Uszny uszny,Vocal,Europe,44.9285246437648
+259,5,pitchclass9,Poland/Poland Uszny uszny,Vocal,Europe,47.4319558823518
+260,0,pitchclass1,Portugal/Aurora teve um menino,Vocal,Europe,40.811697727273
+261,1,pitchclass3,Portugal/Aurora teve um menino,Vocal,Europe,1.47256318182008
+262,2,pitchclass5,Portugal/Aurora teve um menino,Vocal,Europe,13.8521950169925
+263,3,pitchclass7,Portugal/Aurora teve um menino,Vocal,Europe,0.306445995354807
+264,4,pitchclass8,Portugal/Aurora teve um menino,Vocal,Europe,21.60200604895
+265,5,pitchclass9,Portugal/Aurora teve um menino,Vocal,Europe,3.32071541958794
+266,6,pitchclass11,Portugal/Aurora teve um menino,Vocal,Europe,21.3132328554784
+267,0,pitchclass1,Portugal/Lullaby - Cancao de Embalar,Vocal,Europe,32.807882016632
+268,1,pitchclass2,Portugal/Lullaby - Cancao de Embalar,Vocal,Europe,39.1611538461548
+269,2,pitchclass4,Portugal/Lullaby - Cancao de Embalar,Vocal,Europe,39.5476059829052
+270,3,pitchclass6,Portugal/Lullaby - Cancao de Embalar,Vocal,Europe,39.2297382536362
+271,4,pitchclass8,Portugal/Lullaby - Cancao de Embalar,Vocal,Europe,19.1340876923077
+272,0,pitchclass1,Romania/Love Song Doina,Vocal,Europe,8.22940210711204
+273,1,pitchclass4,Romania/Love Song Doina,Vocal,Europe,17.6268356637866
+274,2,pitchclass5,Romania/Love Song Doina,Vocal,Europe,11.9349581798324
+275,3,pitchclass6,Romania/Love Song Doina,Vocal,Europe,5.2922650497494
+276,4,pitchclass7,Romania/Love Song Doina,Vocal,Europe,4.4869101062468
+277,5,pitchclass8,Romania/Love Song Doina,Vocal,Europe,23.5668296472177
+278,6,pitchclass9,Romania/Love Song Doina,Vocal,Europe,25.8178894374287
+279,7,pitchclass10,Romania/Love Song Doina,Vocal,Europe,48.2719376687983
+280,0,pitchclass2,Romania/Songs and Tunes Bocet,Vocal,Europe,20.8627114313713
+281,1,pitchclass3,Romania/Songs and Tunes Bocet,Vocal,Europe,10.6688052176778
+282,2,pitchclass5,Romania/Songs and Tunes Bocet,Vocal,Europe,39.588008414903
+283,0,pitchclass1,Romania/Songs and Tunes Give Me Your Eyes,Vocal,Europe,20.7004676607648
+284,1,pitchclass2,Romania/Songs and Tunes Give Me Your Eyes,Vocal,Europe,24.7285076518056
+285,2,pitchclass3,Romania/Songs and Tunes Give Me Your Eyes,Vocal,Europe,30.7745286036043
+286,3,pitchclass5,Romania/Songs and Tunes Give Me Your Eyes,Vocal,Europe,20.8881202702687
+287,4,pitchclass6,Romania/Songs and Tunes Give Me Your Eyes,Vocal,Europe,42.2184262702722
+288,5,pitchclass7,Romania/Songs and Tunes Give Me Your Eyes,Vocal,Europe,19.8641850868735
+289,6,pitchclass8,Romania/Songs and Tunes Give Me Your Eyes,Vocal,Europe,26.5996719977757
+0,0,pitchclass1,Atayal/01 Welcome,Vocal,Insular Pacific,20.2440415151523
+1,1,pitchclass4,Atayal/01 Welcome,Vocal,Insular Pacific,32.0844955816228
+2,2,pitchclass5,Atayal/01 Welcome,Vocal,Insular Pacific,45.6213019318166
+3,3,pitchclass6,Atayal/01 Welcome,Vocal,Insular Pacific,18.803352170893
+4,0,pitchclass3,Atayal/03 A Weird Travel (Part 2),Vocal,Insular Pacific,9.33721186063667
+5,1,pitchclass4,Atayal/03 A Weird Travel (Part 2),Vocal,Insular Pacific,45.6026668730665
+6,2,pitchclass5,Atayal/03 A Weird Travel (Part 2),Vocal,Insular Pacific,36.0059134210478
+7,3,pitchclass6,Atayal/03 A Weird Travel (Part 2),Vocal,Insular Pacific,39.0248160400988
+8,0,pitchclass2,Atayal/14 The Old Times,Vocal,Insular Pacific,4.45733254901825
+9,1,pitchclass3,Atayal/14 The Old Times,Vocal,Insular Pacific,41.5187341176479
+10,2,pitchclass4,Atayal/14 The Old Times,Vocal,Insular Pacific,47.7500559616164
+11,0,pitchclass1,Ayan/05,Vocal,Insular Pacific,15.990750238092
+12,1,pitchclass2,Ayan/05,Vocal,Insular Pacific,38.6049871779833
+13,2,pitchclass3,Ayan/05,Vocal,Insular Pacific,31.049114682537
+14,3,pitchclass5,Ayan/05,Vocal,Insular Pacific,45.6126886160764
+15,4,pitchclass6,Ayan/05,Vocal,Insular Pacific,35.1694367270829
+16,5,pitchclass7,Ayan/05,Vocal,Insular Pacific,1.54545076383693
+17,6,pitchclass8,Ayan/05,Vocal,Insular Pacific,19.0215186507976
+18,7,pitchclass9,Ayan/05,Vocal,Insular Pacific,30.5187133753498
+19,0,pitchclass1,Ayan/06,Vocal,Insular Pacific,17.413489929575
+20,1,pitchclass2,Ayan/06,Vocal,Insular Pacific,18.017743840921
+21,2,pitchclass3,Ayan/06,Vocal,Insular Pacific,6.96284308746726
+22,3,pitchclass5,Ayan/06,Vocal,Insular Pacific,31.5925832487264
+23,4,pitchclass6,Ayan/06,Vocal,Insular Pacific,38.8959646234507
+24,5,pitchclass7,Ayan/06,Vocal,Insular Pacific,16.8184281544272
+25,0,pitchclass1,Ayan/11,Vocal,Insular Pacific,33.1735611111098
+26,1,pitchclass3,Ayan/11,Vocal,Insular Pacific,34.9794540935691
+27,2,pitchclass4,Ayan/11,Vocal,Insular Pacific,46.7283482222229
+28,3,pitchclass5,Ayan/11,Vocal,Insular Pacific,17.8338815789484
+29,4,pitchclass6,Ayan/11,Vocal,Insular Pacific,8.12248319783612
+30,5,pitchclass9,Ayan/11,Vocal,Insular Pacific,35.3063624999995
+31,6,pitchclass10,Ayan/11,Vocal,Insular Pacific,24.9429697132618
+32,7,pitchclass11,Ayan/11,Vocal,Insular Pacific,16.2995872222255
+33,8,pitchclass13,Ayan/11,Vocal,Insular Pacific,17.6998277777766
+34,0,pitchclass1,Ayan/12 (1),Vocal,Insular Pacific,46.0910336196303
+35,1,pitchclass3,Ayan/12 (1),Vocal,Insular Pacific,0.23838352322673
+36,2,pitchclass4,Ayan/12 (1),Vocal,Insular Pacific,38.9043340726766
+37,3,pitchclass5,Ayan/12 (1),Vocal,Insular Pacific,30.309473619629
+38,4,pitchclass6,Ayan/12 (1),Vocal,Insular Pacific,2.39380066608282
+39,5,pitchclass9,Ayan/12 (1),Vocal,Insular Pacific,4.82406411621741
+40,6,pitchclass10,Ayan/12 (1),Vocal,Insular Pacific,36.095556765702
+41,0,pitchclass1,Boukan-hi/01,Vocal,Insular Pacific,34.7795641562498
+42,1,pitchclass4,Boukan-hi/01,Vocal,Insular Pacific,47.1789182222201
+43,2,pitchclass6,Boukan-hi/01,Vocal,Insular Pacific,5.57348248648486
+44,3,pitchclass7,Boukan-hi/01,Vocal,Insular Pacific,44.0917923495126
+45,4,pitchclass8,Boukan-hi/01,Vocal,Insular Pacific,14.3000662438953
+46,0,pitchclass1,Boukan-hi/02,Vocal,Insular Pacific,0.904533286640799
+47,1,pitchclass2,Boukan-hi/02,Vocal,Insular Pacific,13.4820046101795
+48,2,pitchclass3,Boukan-hi/02,Vocal,Insular Pacific,22.0688375350182
+49,3,pitchclass4,Boukan-hi/02,Vocal,Insular Pacific,6.73335246976603
+50,4,pitchclass6,Boukan-hi/02,Vocal,Insular Pacific,22.5617304096613
+51,5,pitchclass7,Boukan-hi/02,Vocal,Insular Pacific,32.9481939331745
+52,0,pitchclass1,Boukan-hi/03,Vocal,Insular Pacific,21.215405932071
+53,1,pitchclass3,Boukan-hi/03,Vocal,Insular Pacific,18.3812198855594
+54,2,pitchclass6,Boukan-hi/03,Vocal,Insular Pacific,25.3591409671535
+55,3,pitchclass7,Boukan-hi/03,Vocal,Insular Pacific,21.1458926827454
+56,4,pitchclass8,Boukan-hi/03,Vocal,Insular Pacific,40.0067139043986
+57,5,pitchclass9,Boukan-hi/03,Vocal,Insular Pacific,12.0280546758477
+58,0,pitchclass3,Boukan-hi/05 (1),Vocal,Insular Pacific,16.8314330134835
+59,1,pitchclass4,Boukan-hi/05 (1),Vocal,Insular Pacific,46.1611014825812
+60,2,pitchclass5,Boukan-hi/05 (1),Vocal,Insular Pacific,37.7752006558749
+61,0,pitchclass3,Boukan-hi/09 (1),Vocal,Insular Pacific,31.3323040277701
+62,1,pitchclass4,Boukan-hi/09 (1),Vocal,Insular Pacific,14.1404964930607
+63,2,pitchclass6,Boukan-hi/09 (1),Vocal,Insular Pacific,27.6427614323911
+64,0,pitchclass2,Boukan-hi/10,Vocal,Insular Pacific,24.323189901068
+65,1,pitchclass3,Boukan-hi/10,Vocal,Insular Pacific,9.33658375860614
+66,2,pitchclass4,Boukan-hi/10,Vocal,Insular Pacific,14.2011312527811
+67,3,pitchclass5,Boukan-hi/10,Vocal,Insular Pacific,18.7575306235012
+68,4,pitchclass6,Boukan-hi/10,Vocal,Insular Pacific,0.510006292675826
+69,5,pitchclass8,Boukan-hi/10,Vocal,Insular Pacific,49.9432702787544
+70,0,pitchclass1,Boukan-hi/12,Vocal,Insular Pacific,42.4126280260261
+71,1,pitchclass4,Boukan-hi/12,Vocal,Insular Pacific,10.8482218546469
+72,2,pitchclass5,Boukan-hi/12,Vocal,Insular Pacific,34.8609273794718
+73,3,pitchclass7,Boukan-hi/12,Vocal,Insular Pacific,31.4821813489762
+74,4,pitchclass8,Boukan-hi/12,Vocal,Insular Pacific,33.0624860180906
+75,0,pitchclass1,Kan-hi/01 Talivunvun,Vocal,Insular Pacific,14.2144090342726
+76,1,pitchclass2,Kan-hi/01 Talivunvun,Vocal,Insular Pacific,17.9298899866562
+77,2,pitchclass3,Kan-hi/01 Talivunvun,Vocal,Insular Pacific,41.0418447536031
+78,3,pitchclass5,Kan-hi/01 Talivunvun,Vocal,Insular Pacific,11.3727692531866
+79,4,pitchclass6,Kan-hi/01 Talivunvun,Vocal,Insular Pacific,16.0972119509406
+80,5,pitchclass7,Kan-hi/01 Talivunvun,Vocal,Insular Pacific,32.0464465212808
+81,0,pitchclass1,Kan-hi/01 Tavulo,Vocal,Insular Pacific,23.3363037037052
+82,1,pitchclass3,Kan-hi/01 Tavulo,Vocal,Insular Pacific,27.2120500841756
+83,2,pitchclass5,Kan-hi/01 Tavulo,Vocal,Insular Pacific,14.2733779629598
+84,3,pitchclass6,Kan-hi/01 Tavulo,Vocal,Insular Pacific,29.8571502723316
+85,0,pitchclass2,Kan-hi/04 Kalawahe,Vocal,Insular Pacific,7.04614320729343
+86,1,pitchclass3,Kan-hi/04 Kalawahe,Vocal,Insular Pacific,0.615926540624059
+87,2,pitchclass4,Kan-hi/04 Kalawahe,Vocal,Insular Pacific,40.436077096183
+88,3,pitchclass5,Kan-hi/04 Kalawahe,Vocal,Insular Pacific,43.2857454800196
+89,4,pitchclass6,Kan-hi/04 Kalawahe,Vocal,Insular Pacific,45.8667623249403
+90,0,pitchclass1,Kan-hi/05 Zui Jing,Vocal,Insular Pacific,36.2874689056916
+91,1,pitchclass2,Kan-hi/05 Zui Jing,Vocal,Insular Pacific,29.3071349771199
+92,2,pitchclass6,Kan-hi/05 Zui Jing,Vocal,Insular Pacific,42.5989759709137
+93,3,pitchclass7,Kan-hi/05 Zui Jing,Vocal,Insular Pacific,41.4296368934974
+94,4,pitchclass8,Kan-hi/05 Zui Jing,Vocal,Insular Pacific,43.1206878536595
+95,5,pitchclass10,Kan-hi/05 Zui Jing,Vocal,Insular Pacific,42.4885880387537
+96,0,pitchclass1,Kan-hi/06 Wu Na Iyang,Vocal,Insular Pacific,10.2689921175133
+97,1,pitchclass4,Kan-hi/06 Wu Na Iyang,Vocal,Insular Pacific,40.8606946346208
+98,2,pitchclass5,Kan-hi/06 Wu Na Iyang,Vocal,Insular Pacific,10.0804720587312
+99,3,pitchclass6,Kan-hi/06 Wu Na Iyang,Vocal,Insular Pacific,10.7265523277238
+100,4,pitchclass7,Kan-hi/06 Wu Na Iyang,Vocal,Insular Pacific,43.2814034395997
+101,5,pitchclass9,Kan-hi/06 Wu Na Iyang,Vocal,Insular Pacific,36.5012056095784
+102,0,pitchclass1,Kan-hi/08,Vocal,Insular Pacific,2.89924225639697
+103,1,pitchclass2,Kan-hi/08,Vocal,Insular Pacific,17.6749667939366
+104,2,pitchclass4,Kan-hi/08,Vocal,Insular Pacific,42.011611701957
+105,3,pitchclass5,Kan-hi/08,Vocal,Insular Pacific,43.6197099628207
+106,4,pitchclass6,Kan-hi/08,Vocal,Insular Pacific,6.45030392097033
+107,5,pitchclass7,Kan-hi/08,Vocal,Insular Pacific,17.8751566294904
+108,6,pitchclass8,Kan-hi/08,Vocal,Insular Pacific,49.8009129513321
+109,7,pitchclass9,Kan-hi/08,Vocal,Insular Pacific,48.210273302484
+110,0,pitchclass2,Kan-hi/09 Hoi Heya,Vocal,Insular Pacific,39.7352276942402
+111,1,pitchclass4,Kan-hi/09 Hoi Heya,Vocal,Insular Pacific,6.9483348370959
+112,2,pitchclass6,Kan-hi/09 Hoi Heya,Vocal,Insular Pacific,3.59137769423978
+113,3,pitchclass8,Kan-hi/09 Hoi Heya,Vocal,Insular Pacific,27.3899422775721
+114,0,pitchclass1,Kan-hi/09,Vocal,Insular Pacific,24.478830101425
+115,1,pitchclass4,Kan-hi/09,Vocal,Insular Pacific,4.11198921059622
+116,2,pitchclass5,Kan-hi/09,Vocal,Insular Pacific,12.8381376586367
+117,3,pitchclass7,Kan-hi/09,Vocal,Insular Pacific,18.688704108652
+118,4,pitchclass8,Kan-hi/09,Vocal,Insular Pacific,42.6755065182897
+119,0,pitchclass1,Kan-hi/12 Hahe,Vocal,Insular Pacific,21.1597709935886
+120,1,pitchclass4,Kan-hi/12 Hahe,Vocal,Insular Pacific,43.2366354166697
+121,2,pitchclass5,Kan-hi/12 Hahe,Vocal,Insular Pacific,2.1756828893449
+122,0,pitchclass1,Kan-hi/13,Vocal,Insular Pacific,2.54849554265274
+123,1,pitchclass2,Kan-hi/13,Vocal,Insular Pacific,2.73615861242251
+124,2,pitchclass3,Kan-hi/13,Vocal,Insular Pacific,20.7537648222096
+125,3,pitchclass5,Kan-hi/13,Vocal,Insular Pacific,5.54190247090992
+126,4,pitchclass7,Kan-hi/13,Vocal,Insular Pacific,39.5059360582054
+127,5,pitchclass9,Kan-hi/13,Vocal,Insular Pacific,28.3474513169695
+128,0,pitchclass1,Kan-hi/14 Lao Ke Ma,Vocal,Insular Pacific,49.1846724537008
+129,1,pitchclass5,Kan-hi/14 Lao Ke Ma,Vocal,Insular Pacific,44.9853546296308
+130,2,pitchclass6,Kan-hi/14 Lao Ke Ma,Vocal,Insular Pacific,45.177870066791
+131,3,pitchclass7,Kan-hi/14 Lao Ke Ma,Vocal,Insular Pacific,0.613567051017526
+132,4,pitchclass9,Kan-hi/14 Lao Ke Ma,Vocal,Insular Pacific,22.7672980204388
+133,0,pitchclass1,Kan-hi/14,Vocal,Insular Pacific,24.0357418346284
+134,1,pitchclass3,Kan-hi/14,Vocal,Insular Pacific,42.4148146853077
+135,2,pitchclass6,Kan-hi/14,Vocal,Insular Pacific,5.32679336757428
+136,3,pitchclass8,Kan-hi/14,Vocal,Insular Pacific,44.5004182446846
+137,4,pitchclass9,Kan-hi/14,Vocal,Insular Pacific,10.3846716896132
+138,5,pitchclass11,Kan-hi/14,Vocal,Insular Pacific,15.3830477169813
+139,6,pitchclass12,Kan-hi/14,Vocal,Insular Pacific,27.9710960664415
+140,0,pitchclass2,Kan-hi/16 Kalelomawahe,Vocal,Insular Pacific,9.85004588217089
+141,1,pitchclass6,Kan-hi/16 Kalelomawahe,Vocal,Insular Pacific,12.5022052785771
+142,2,pitchclass7,Kan-hi/16 Kalelomawahe,Vocal,Insular Pacific,30.8052176351193
+143,3,pitchclass9,Kan-hi/16 Kalelomawahe,Vocal,Insular Pacific,36.3413754336616
+144,4,pitchclass11,Kan-hi/16 Kalelomawahe,Vocal,Insular Pacific,20.1222615712377
+145,0,pitchclass1,Kan-hi/16,Vocal,Insular Pacific,8.08592029225292
+146,1,pitchclass3,Kan-hi/16,Vocal,Insular Pacific,14.7479969230772
+147,2,pitchclass5,Kan-hi/16,Vocal,Insular Pacific,36.8128710567235
+148,3,pitchclass6,Kan-hi/16,Vocal,Insular Pacific,12.098589743593
+149,4,pitchclass7,Kan-hi/16,Vocal,Insular Pacific,41.154304822956
+150,0,pitchclass4,Kan-kei/01,Vocal,Insular Pacific,35.6525009710876
+151,1,pitchclass5,Kan-kei/01,Vocal,Insular Pacific,32.8732723977992
+152,2,pitchclass6,Kan-kei/01,Vocal,Insular Pacific,29.9497653555445
+153,3,pitchclass8,Kan-kei/01,Vocal,Insular Pacific,20.3791407859044
+154,0,pitchclass3,Kan-kei/03,Vocal,Insular Pacific,0.784117452432838
+155,1,pitchclass5,Kan-kei/03,Vocal,Insular Pacific,25.3987669066937
+156,2,pitchclass7,Kan-kei/03,Vocal,Insular Pacific,0.328912902312368
+157,0,pitchclass3,Kan-kei/06 (1),Vocal,Insular Pacific,44.159481547611
+158,1,pitchclass5,Kan-kei/06 (1),Vocal,Insular Pacific,23.2895257423716
+159,2,pitchclass7,Kan-kei/06 (1),Vocal,Insular Pacific,39.0341458646617
+160,3,pitchclass8,Kan-kei/06 (1),Vocal,Insular Pacific,46.3146619898034
+161,4,pitchclass10,Kan-kei/06 (1),Vocal,Insular Pacific,23.0409795634987
+162,0,pitchclass3,Kanakanavu/07 The Mother Misses Her Lost Son,Vocal,Insular Pacific,7.63086649620709
+163,1,pitchclass5,Kanakanavu/07 The Mother Misses Her Lost Son,Vocal,Insular Pacific,0.039211688314026
+164,0,pitchclass3,Kavalan/07,Vocal,Insular Pacific,14.5327263850886
+165,1,pitchclass5,Kavalan/07,Vocal,Insular Pacific,34.223832590762
+166,2,pitchclass7,Kavalan/07,Vocal,Insular Pacific,13.3443411271855
+167,0,pitchclass3,Kavalan/11,Vocal,Insular Pacific,24.9408249858552
+168,1,pitchclass5,Kavalan/11,Vocal,Insular Pacific,28.9838491196224
+169,2,pitchclass6,Kavalan/11,Vocal,Insular Pacific,24.3813346929764
+170,0,pitchclass1,Kavalan/17,Vocal,Insular Pacific,29.0589242827336
+171,1,pitchclass3,Kavalan/17,Vocal,Insular Pacific,18.7500319993706
+172,2,pitchclass4,Kavalan/17,Vocal,Insular Pacific,10.478874915827
+173,3,pitchclass5,Kavalan/17,Vocal,Insular Pacific,25.6339159259242
+174,4,pitchclass6,Kavalan/17,Vocal,Insular Pacific,18.5624708534633
+175,5,pitchclass8,Kavalan/17,Vocal,Insular Pacific,19.748054357302
+176,0,pitchclass3,Kavalan/20,Vocal,Insular Pacific,1.88389535722672
+177,1,pitchclass4,Kavalan/20,Vocal,Insular Pacific,1.37342165032896
+178,2,pitchclass5,Kavalan/20,Vocal,Insular Pacific,2.5264924836647
+179,3,pitchclass6,Kavalan/20,Vocal,Insular Pacific,27.2881465197752
+180,4,pitchclass7,Kavalan/20,Vocal,Insular Pacific,10.7516763122239
+181,5,pitchclass9,Kavalan/20,Vocal,Insular Pacific,27.0363203677443
+182,6,pitchclass11,Kavalan/20,Vocal,Insular Pacific,9.46747518806478
+183,0,pitchclass3,Kavalan/22,Vocal,Insular Pacific,37.825434893457
+184,1,pitchclass4,Kavalan/22,Vocal,Insular Pacific,36.8941073232327
+185,2,pitchclass5,Kavalan/22,Vocal,Insular Pacific,13.849296561566
+186,3,pitchclass6,Kavalan/22,Vocal,Insular Pacific,3.51446192810181
+187,4,pitchclass8,Kavalan/22,Vocal,Insular Pacific,0.305596527776288
+188,5,pitchclass9,Kavalan/22,Vocal,Insular Pacific,1.45552277778188
+189,6,pitchclass10,Kavalan/22,Vocal,Insular Pacific,43.9353927777793
+190,0,pitchclass3,Kavalan/28,Vocal,Insular Pacific,19.3166442568836
+191,1,pitchclass5,Kavalan/28,Vocal,Insular Pacific,27.7958697026643
+192,2,pitchclass6,Kavalan/28,Vocal,Insular Pacific,48.8691115355723
+193,3,pitchclass7,Kavalan/28,Vocal,Insular Pacific,35.9937184841601
+194,4,pitchclass9,Kavalan/28,Vocal,Insular Pacific,47.5674995692043
+195,5,pitchclass11,Kavalan/28,Vocal,Insular Pacific,49.091693971166
+196,0,pitchclass2,Kavalan/29,Vocal,Insular Pacific,27.0874479958948
+197,1,pitchclass3,Kavalan/29,Vocal,Insular Pacific,28.0096231281696
+198,2,pitchclass5,Kavalan/29,Vocal,Insular Pacific,23.8029259720824
+199,3,pitchclass6,Kavalan/29,Vocal,Insular Pacific,24.6599583133502
+200,4,pitchclass8,Kavalan/29,Vocal,Insular Pacific,12.1051139088686
+201,0,pitchclass1,Tieu-hi/07,Vocal,Insular Pacific,48.1276524193509
+202,1,pitchclass4,Tieu-hi/07,Vocal,Insular Pacific,2.75239222350501
+203,2,pitchclass5,Tieu-hi/07,Vocal,Insular Pacific,33.3552927195433
+204,3,pitchclass7,Tieu-hi/07,Vocal,Insular Pacific,34.3655490512392
+205,0,pitchclass3,Tieu-hi/09,Vocal,Insular Pacific,20.4286340707968
+206,1,pitchclass4,Tieu-hi/09,Vocal,Insular Pacific,10.8903711675703
+207,2,pitchclass6,Tieu-hi/09,Vocal,Insular Pacific,22.9090565707957
+208,3,pitchclass8,Tieu-hi/09,Vocal,Insular Pacific,15.9651677442635
+209,4,pitchclass9,Tieu-hi/09,Vocal,Insular Pacific,42.3451516434889
+210,0,pitchclass3,Tieu-hi/11,Vocal,Insular Pacific,20.7674819790864
+211,1,pitchclass4,Tieu-hi/11,Vocal,Insular Pacific,18.8812207669635
+212,2,pitchclass6,Tieu-hi/11,Vocal,Insular Pacific,38.594231433628
+213,3,pitchclass8,Tieu-hi/11,Vocal,Insular Pacific,23.5663808997015
+214,4,pitchclass10,Tieu-hi/11,Vocal,Insular Pacific,38.2194412267345
+215,0,pitchclass1,Tieu-hi/14 Tahoho,Vocal,Insular Pacific,2.90806081507617
+216,1,pitchclass5,Tieu-hi/14 Tahoho,Vocal,Insular Pacific,40.8693456004512
+217,2,pitchclass6,Tieu-hi/14 Tahoho,Vocal,Insular Pacific,27.1186792466524
+218,0,pitchclass1,Tieu-hi/15,Vocal,Insular Pacific,16.069733950555
+219,1,pitchclass5,Tieu-hi/15,Vocal,Insular Pacific,13.2430691436057
+220,2,pitchclass6,Tieu-hi/15,Vocal,Insular Pacific,4.36999438904968
+221,0,pitchclass1,Tieu-hi/17,Vocal,Insular Pacific,19.9367150326761
+222,1,pitchclass3,Tieu-hi/17,Vocal,Insular Pacific,11.1626849673248
+223,2,pitchclass5,Tieu-hi/17,Vocal,Insular Pacific,49.5312639146905
+224,3,pitchclass9,Tieu-hi/17,Vocal,Insular Pacific,48.6234249673234
+225,4,pitchclass11,Tieu-hi/17,Vocal,Insular Pacific,38.0203608932498
+226,0,pitchclass3,Tieu-hi/18,Vocal,Insular Pacific,17.5312259049788
+227,1,pitchclass4,Tieu-hi/18,Vocal,Insular Pacific,36.4103049331097
+228,2,pitchclass6,Tieu-hi/18,Vocal,Insular Pacific,32.566973646155
+229,0,pitchclass1,Tieu-hi/20,Vocal,Insular Pacific,5.02444568578358
+230,1,pitchclass4,Tieu-hi/20,Vocal,Insular Pacific,45.9100314419266
+231,2,pitchclass6,Tieu-hi/20,Vocal,Insular Pacific,38.2982838557182
+232,3,pitchclass7,Tieu-hi/20,Vocal,Insular Pacific,10.1366012167437
+233,0,pitchclass3,Tieu-hi/22 Tahoho,Vocal,Insular Pacific,22.1632533333304
+234,1,pitchclass4,Tieu-hi/22 Tahoho,Vocal,Insular Pacific,25.0887047682118
+235,2,pitchclass6,Tieu-hi/22 Tahoho,Vocal,Insular Pacific,40.669455593219
+236,0,pitchclass1,Truku Formosa/04 Sowing Festival Song,Vocal,Insular Pacific,5.66748345758606
+237,1,pitchclass5,Truku Formosa/04 Sowing Festival Song,Vocal,Insular Pacific,0.071888288583068
+238,2,pitchclass7,Truku Formosa/04 Sowing Festival Song,Vocal,Insular Pacific,2.6329449490695
+239,0,pitchclass3,Truku Formosa/06 The Holy Man Blesses th Sowing,Vocal,Insular Pacific,13.0133283973137
+240,1,pitchclass5,Truku Formosa/06 The Holy Man Blesses th Sowing,Vocal,Insular Pacific,9.16653856298399
+241,0,pitchclass3,Truku Formosa/09 Song of Reminiscence,Vocal,Insular Pacific,13.2794243715853
+242,1,pitchclass5,Truku Formosa/09 Song of Reminiscence,Vocal,Insular Pacific,6.54813770492547
+243,0,pitchclass1,Truku Formosa/24 Strong Women,Vocal,Insular Pacific,15.9262579221286
+244,1,pitchclass5,Truku Formosa/24 Strong Women,Vocal,Insular Pacific,3.21785824641483
+245,2,pitchclass7,Truku Formosa/24 Strong Women,Vocal,Insular Pacific,0.915035599588009
+0,0,pitchclass1,Bahrain/Bahri ,Vocal,Middle East North Africa,25.2859639772723
+1,1,pitchclass3,Bahrain/Bahri ,Vocal,Middle East North Africa,3.27410331550891
+2,2,pitchclass4,Bahrain/Bahri ,Vocal,Middle East North Africa,24.9351591978611
+3,3,pitchclass5,Bahrain/Bahri ,Vocal,Middle East North Africa,38.5671838625894
+4,4,pitchclass6,Bahrain/Bahri ,Vocal,Middle East North Africa,39.8662753808348
+5,5,pitchclass7,Bahrain/Bahri ,Vocal,Middle East North Africa,39.5161558041946
+6,6,pitchclass9,Bahrain/Bahri ,Vocal,Middle East North Africa,46.7641956902371
+7,7,pitchclass10,Bahrain/Bahri ,Vocal,Middle East North Africa,0.653380175954226
+8,8,pitchclass11,Bahrain/Bahri ,Vocal,Middle East North Africa,3.1736327272738
+9,9,pitchclass12,Bahrain/Bahri ,Vocal,Middle East North Africa,37.5139746627574
+10,10,pitchclass14,Bahrain/Bahri ,Vocal,Middle East North Africa,13.9444927272725
+11,0,pitchclass1,Egypt/A Tan Alta Va La Luna (The Moon Climbs High) ,Vocal,Middle East North Africa,12.1198664304175
+12,1,pitchclass2,Egypt/A Tan Alta Va La Luna (The Moon Climbs High) ,Vocal,Middle East North Africa,1.1037372983883
+13,2,pitchclass5,Egypt/A Tan Alta Va La Luna (The Moon Climbs High) ,Vocal,Middle East North Africa,25.9721746173436
+14,3,pitchclass6,Egypt/A Tan Alta Va La Luna (The Moon Climbs High) ,Vocal,Middle East North Africa,19.6434300204874
+15,4,pitchclass7,Egypt/A Tan Alta Va La Luna (The Moon Climbs High) ,Vocal,Middle East North Africa,9.08886888157576
+16,5,pitchclass8,Egypt/A Tan Alta Va La Luna (The Moon Climbs High) ,Vocal,Middle East North Africa,0.063543750004101
+17,6,pitchclass10,Egypt/A Tan Alta Va La Luna (The Moon Climbs High) ,Vocal,Middle East North Africa,12.4640937499953
+18,0,pitchclass1,Egypt/Egypt- Nour Janini (Vocal) ,Vocal,Middle East North Africa,41.0968886029405
+19,1,pitchclass2,Egypt/Egypt- Nour Janini (Vocal) ,Vocal,Middle East North Africa,28.3254823529387
+20,2,pitchclass6,Egypt/Egypt- Nour Janini (Vocal) ,Vocal,Middle East North Africa,23.8695487394998
+21,3,pitchclass7,Egypt/Egypt- Nour Janini (Vocal) ,Vocal,Middle East North Africa,30.2456757955642
+22,4,pitchclass9,Egypt/Egypt- Nour Janini (Vocal) ,Vocal,Middle East North Africa,36.5112119181522
+23,5,pitchclass10,Egypt/Egypt- Nour Janini (Vocal) ,Vocal,Middle East North Africa,37.0699709243672
+24,6,pitchclass11,Egypt/Egypt- Nour Janini (Vocal) ,Vocal,Middle East North Africa,4.03282735293942
+25,0,pitchclass2,Egypt/Fidanico de Yasimin (Little Jasmine) ,Vocal,Middle East North Africa,34.5831856104651
+26,1,pitchclass3,Egypt/Fidanico de Yasimin (Little Jasmine) ,Vocal,Middle East North Africa,40.6657714059202
+27,2,pitchclass4,Egypt/Fidanico de Yasimin (Little Jasmine) ,Vocal,Middle East North Africa,28.1981168604616
+28,3,pitchclass6,Egypt/Fidanico de Yasimin (Little Jasmine) ,Vocal,Middle East North Africa,5.66123958773096
+29,4,pitchclass7,Egypt/Fidanico de Yasimin (Little Jasmine) ,Vocal,Middle East North Africa,20.8966631937947
+30,5,pitchclass8,Egypt/Fidanico de Yasimin (Little Jasmine) ,Vocal,Middle East North Africa,25.8425473777097
+31,6,pitchclass9,Egypt/Fidanico de Yasimin (Little Jasmine) ,Vocal,Middle East North Africa,27.3103076635743
+32,7,pitchclass10,Egypt/Fidanico de Yasimin (Little Jasmine) ,Vocal,Middle East North Africa,34.4505875747491
+33,0,pitchclass1,Egypt/Morenica (Dark Beauty) ,Vocal,Middle East North Africa,24.2179068533515
+34,1,pitchclass2,Egypt/Morenica (Dark Beauty) ,Vocal,Middle East North Africa,14.4544472881389
+35,2,pitchclass4,Egypt/Morenica (Dark Beauty) ,Vocal,Middle East North Africa,24.631673651771
+36,3,pitchclass5,Egypt/Morenica (Dark Beauty) ,Vocal,Middle East North Africa,10.5850822240609
+37,4,pitchclass7,Egypt/Morenica (Dark Beauty) ,Vocal,Middle East North Africa,16.9737727720076
+38,5,pitchclass9,Egypt/Morenica (Dark Beauty) ,Vocal,Middle East North Africa,11.4283497881333
+39,6,pitchclass11,Egypt/Morenica (Dark Beauty) ,Vocal,Middle East North Africa,29.4635372881348
+40,0,pitchclass1,"Egypt/Ven Hermoza (Come, Pretty Girl) ",Vocal,Middle East North Africa,16.4613603389807
+41,1,pitchclass5,"Egypt/Ven Hermoza (Come, Pretty Girl) ",Vocal,Middle East North Africa,1.69721789630967
+42,2,pitchclass6,"Egypt/Ven Hermoza (Come, Pretty Girl) ",Vocal,Middle East North Africa,24.4879776610178
+43,3,pitchclass8,"Egypt/Ven Hermoza (Come, Pretty Girl) ",Vocal,Middle East North Africa,20.3383751155688
+44,4,pitchclass9,"Egypt/Ven Hermoza (Come, Pretty Girl) ",Vocal,Middle East North Africa,18.1518953389823
+45,5,pitchclass10,"Egypt/Ven Hermoza (Come, Pretty Girl) ",Vocal,Middle East North Africa,4.90760783898077
+46,0,pitchclass3,Egypt/Yo Se un Mansevo del Dor (I Am a Very Modern Young Man) ,Vocal,Middle East North Africa,26.000680791858
+47,1,pitchclass4,Egypt/Yo Se un Mansevo del Dor (I Am a Very Modern Young Man) ,Vocal,Middle East North Africa,37.5052106357925
+48,2,pitchclass5,Egypt/Yo Se un Mansevo del Dor (I Am a Very Modern Young Man) ,Vocal,Middle East North Africa,10.1764846703263
+49,3,pitchclass6,Egypt/Yo Se un Mansevo del Dor (I Am a Very Modern Young Man) ,Vocal,Middle East North Africa,12.8150243589771
+50,4,pitchclass7,Egypt/Yo Se un Mansevo del Dor (I Am a Very Modern Young Man) ,Vocal,Middle East North Africa,48.7980546703311
+51,5,pitchclass8,Egypt/Yo Se un Mansevo del Dor (I Am a Very Modern Young Man) ,Vocal,Middle East North Africa,48.8667781339027
+52,6,pitchclass9,Egypt/Yo Se un Mansevo del Dor (I Am a Very Modern Young Man) ,Vocal,Middle East North Africa,41.8951903846173
+53,7,pitchclass10,Egypt/Yo Se un Mansevo del Dor (I Am a Very Modern Young Man) ,Vocal,Middle East North Africa,24.0164239010974
+54,0,pitchclass2,Kurdistan/Barzan Tribal Folk Song,Vocal,Middle East North Africa,36.9927794387859
+55,1,pitchclass4,Kurdistan/Barzan Tribal Folk Song,Vocal,Middle East North Africa,13.5610228846126
+56,2,pitchclass5,Kurdistan/Barzan Tribal Folk Song,Vocal,Middle East North Africa,36.5110341666659
+57,3,pitchclass7,Kurdistan/Barzan Tribal Folk Song,Vocal,Middle East North Africa,38.1631374999997
+58,0,pitchclass1,Kurdistan/Barzan Tribal Love Song,Vocal,Middle East North Africa,8.79492240786203
+59,1,pitchclass2,Kurdistan/Barzan Tribal Love Song,Vocal,Middle East North Africa,30.2077392527826
+60,2,pitchclass4,Kurdistan/Barzan Tribal Love Song,Vocal,Middle East North Africa,8.88992498588596
+61,3,pitchclass8,Kurdistan/Barzan Tribal Love Song,Vocal,Middle East North Africa,0.357407635136042
+62,0,pitchclass1,Kurdistan/Barzan Tribal Song,Vocal,Middle East North Africa,13.2156188222561
+63,1,pitchclass3,Kurdistan/Barzan Tribal Song,Vocal,Middle East North Africa,9.67914347732949
+64,0,pitchclass3,Kurdistan/Besta,Vocal,Middle East North Africa,42.6012402480355
+65,0,pitchclass3,Kurdistan/Hairan,Vocal,Middle East North Africa,24.7031568119201
+66,1,pitchclass5,Kurdistan/Hairan,Vocal,Middle East North Africa,44.4930852158923
+67,2,pitchclass7,Kurdistan/Hairan,Vocal,Middle East North Africa,48.5529854645665
+68,0,pitchclass3,Kurdistan/Lawk,Vocal,Middle East North Africa,4.39409334234733
+69,1,pitchclass4,Kurdistan/Lawk,Vocal,Middle East North Africa,44.5691637556374
+70,2,pitchclass5,Kurdistan/Lawk,Vocal,Middle East North Africa,28.6641267447903
+71,0,pitchclass3,Kurdistan/Love Songs (1),Vocal,Middle East North Africa,7.24865052026144
+72,1,pitchclass5,Kurdistan/Love Songs (1),Vocal,Middle East North Africa,26.0261445933811
+73,2,pitchclass6,Kurdistan/Love Songs (1),Vocal,Middle East North Africa,2.34705733844203
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+79,0,pitchclass3,Kurdistan/Song of Bereavement,Vocal,Middle East North Africa,4.97389341420057
+80,1,pitchclass5,Kurdistan/Song of Bereavement,Vocal,Middle East North Africa,36.735401934262
+81,2,pitchclass7,Kurdistan/Song of Bereavement,Vocal,Middle East North Africa,0.528620526318264
+82,0,pitchclass1,Kurdistan/Song of Valor,Vocal,Middle East North Africa,38.1243087260009
+83,1,pitchclass5,Kurdistan/Song of Valor,Vocal,Middle East North Africa,42.7172789640954
+84,2,pitchclass6,Kurdistan/Song of Valor,Vocal,Middle East North Africa,27.1980323546904
+85,3,pitchclass8,Kurdistan/Song of Valor,Vocal,Middle East North Africa,39.6043026653915
+86,4,pitchclass9,Kurdistan/Song of Valor,Vocal,Middle East North Africa,44.1320042369625
+87,0,pitchclass2,Kurdistan/Sulaimaniya Love Song,Vocal,Middle East North Africa,14.1855065140608
+88,1,pitchclass3,Kurdistan/Sulaimaniya Love Song,Vocal,Middle East North Africa,47.6790211698371
+89,2,pitchclass5,Kurdistan/Sulaimaniya Love Song,Vocal,Middle East North Africa,22.2546948280815
+90,0,pitchclass1,Morocco/Morocco- A'Wach Ritual ,Vocal,Middle East North Africa,34.95230857143
+91,1,pitchclass3,Morocco/Morocco- A'Wach Ritual ,Vocal,Middle East North Africa,7.50963666666212
+92,2,pitchclass7,Morocco/Morocco- A'Wach Ritual ,Vocal,Middle East North Africa,10.3072309090894
+93,3,pitchclass9,Morocco/Morocco- A'Wach Ritual ,Vocal,Middle East North Africa,8.78371333333234
+94,0,pitchclass1,Morocco/Mose salio de Misrain - Moses Left Egypt ,Vocal,Middle East North Africa,18.0592510662154
+95,1,pitchclass4,Morocco/Mose salio de Misrain - Moses Left Egypt ,Vocal,Middle East North Africa,31.2785345146367
+96,2,pitchclass5,Morocco/Mose salio de Misrain - Moses Left Egypt ,Vocal,Middle East North Africa,16.7004141268699
+97,3,pitchclass6,Morocco/Mose salio de Misrain - Moses Left Egypt ,Vocal,Middle East North Africa,37.9809480519507
+98,4,pitchclass7,Morocco/Mose salio de Misrain - Moses Left Egypt ,Vocal,Middle East North Africa,14.2032381507324
+99,5,pitchclass9,Morocco/Mose salio de Misrain - Moses Left Egypt ,Vocal,Middle East North Africa,14.4777236959799
+100,6,pitchclass10,Morocco/Mose salio de Misrain - Moses Left Egypt ,Vocal,Middle East North Africa,21.2615438502708
+101,7,pitchclass12,Morocco/Mose salio de Misrain - Moses Left Egypt ,Vocal,Middle East North Africa,10.2798609090933
+102,0,pitchclass3,Morocco/Tarakemt (Love Song with Handclapping),Vocal,Middle East North Africa,42.3826729618158
+103,1,pitchclass4,Morocco/Tarakemt (Love Song with Handclapping),Vocal,Middle East North Africa,40.4018214705902
+104,2,pitchclass6,Morocco/Tarakemt (Love Song with Handclapping),Vocal,Middle East North Africa,19.0232439839583
+105,3,pitchclass7,Morocco/Tarakemt (Love Song with Handclapping),Vocal,Middle East North Africa,44.8647882352925
+106,4,pitchclass9,Morocco/Tarakemt (Love Song with Handclapping),Vocal,Middle East North Africa,28.5894041745742
+107,5,pitchclass11,Morocco/Tarakemt (Love Song with Handclapping),Vocal,Middle East North Africa,30.4583918552053
+108,0,pitchclass2,Sinai Peninsula/Hudjaini-Caravan Song,Vocal,Middle East North Africa,20.0564300798142
+109,1,pitchclass3,Sinai Peninsula/Hudjaini-Caravan Song,Vocal,Middle East North Africa,18.1854813978462
+110,2,pitchclass4,Sinai Peninsula/Hudjaini-Caravan Song,Vocal,Middle East North Africa,38.4514126099693
+111,3,pitchclass5,Sinai Peninsula/Hudjaini-Caravan Song,Vocal,Middle East North Africa,38.1708730645132
+112,0,pitchclass1,Sinai Peninsula/Water Drawing Song ,Vocal,Middle East North Africa,42.3533307395992
+113,1,pitchclass3,Sinai Peninsula/Water Drawing Song ,Vocal,Middle East North Africa,4.13180316384023
+114,0,pitchclass1,South Arabia/Song About the Paying of Taxes ,Vocal,Middle East North Africa,44.5305088571422
+115,1,pitchclass5,South Arabia/Song About the Paying of Taxes ,Vocal,Middle East North Africa,44.3912286428586
+116,2,pitchclass7,South Arabia/Song About the Paying of Taxes ,Vocal,Middle East North Africa,15.3353819999993
+117,3,pitchclass9,South Arabia/Song About the Paying of Taxes ,Vocal,Middle East North Africa,1.87920368115556
+118,4,pitchclass11,South Arabia/Song About the Paying of Taxes ,Vocal,Middle East North Africa,26.9166234736822
+119,0,pitchclass1,South Arabia/Wedding Song FW04421_203,Vocal,Middle East North Africa,36.7410372641498
+120,1,pitchclass3,South Arabia/Wedding Song FW04421_203,Vocal,Middle East North Africa,36.7874289308165
+121,2,pitchclass5,South Arabia/Wedding Song FW04421_203,Vocal,Middle East North Africa,45.4910567834668
+122,3,pitchclass6,South Arabia/Wedding Song FW04421_203,Vocal,Middle East North Africa,29.3950747641538
+123,4,pitchclass7,South Arabia/Wedding Song FW04421_203,Vocal,Middle East North Africa,0.938873584904286
+124,5,pitchclass8,South Arabia/Wedding Song FW04421_203,Vocal,Middle East North Africa,28.1159479784364
+125,6,pitchclass9,South Arabia/Wedding Song FW04421_203,Vocal,Middle East North Africa,37.6305935141499
+126,7,pitchclass11,South Arabia/Wedding Song FW04421_203,Vocal,Middle East North Africa,23.2186080061219
+127,8,pitchclass12,South Arabia/Wedding Song FW04421_203,Vocal,Middle East North Africa,31.8617719415688
+128,0,pitchclass2,South Arabia/Wedding Song FW04421_204,Vocal,Middle East North Africa,23.982152916833
+129,1,pitchclass3,South Arabia/Wedding Song FW04421_204,Vocal,Middle East North Africa,0.613039036019472
+130,2,pitchclass4,South Arabia/Wedding Song FW04421_204,Vocal,Middle East North Africa,0.28447966101885
+131,3,pitchclass5,South Arabia/Wedding Song FW04421_204,Vocal,Middle East North Africa,36.3050036723162
+132,4,pitchclass7,South Arabia/Wedding Song FW04421_204,Vocal,Middle East North Africa,31.6846796610189
+133,0,pitchclass2,Sudan/Arumjok Pied Ibis,Vocal,Middle East North Africa,40.2913119211007
+134,1,pitchclass3,Sudan/Arumjok Pied Ibis,Vocal,Middle East North Africa,48.3321118756958
+135,2,pitchclass4,Sudan/Arumjok Pied Ibis,Vocal,Middle East North Africa,40.9804590745716
+136,3,pitchclass5,Sudan/Arumjok Pied Ibis,Vocal,Middle East North Africa,24.1770202467324
+137,4,pitchclass6,Sudan/Arumjok Pied Ibis,Vocal,Middle East North Africa,34.7448052111413
+138,5,pitchclass8,Sudan/Arumjok Pied Ibis,Vocal,Middle East North Africa,7.17692658157284
+139,6,pitchclass9,Sudan/Arumjok Pied Ibis,Vocal,Middle East North Africa,49.5813400269544
+140,0,pitchclass2,Sudan/Combination of War Songs,Vocal,Middle East North Africa,37.6197817942957
+141,1,pitchclass4,Sudan/Combination of War Songs,Vocal,Middle East North Africa,13.410621527777
+142,2,pitchclass5,Sudan/Combination of War Songs,Vocal,Middle East North Africa,36.8300335317472
+143,3,pitchclass6,Sudan/Combination of War Songs,Vocal,Middle East North Africa,11.7778087962961
+144,4,pitchclass7,Sudan/Combination of War Songs,Vocal,Middle East North Africa,29.7550763888903
+145,5,pitchclass9,Sudan/Combination of War Songs,Vocal,Middle East North Africa,29.2207642361118
+146,6,pitchclass10,Sudan/Combination of War Songs,Vocal,Middle East North Africa,7.43213472222305
+147,7,pitchclass11,Sudan/Combination of War Songs,Vocal,Middle East North Africa,48.4896636111098
+148,0,pitchclass1,Sudan/I Ran after the Dance,Vocal,Middle East North Africa,16.0476212608983
+149,1,pitchclass2,Sudan/I Ran after the Dance,Vocal,Middle East North Africa,30.3793400704199
+150,2,pitchclass3,Sudan/I Ran after the Dance,Vocal,Middle East North Africa,29.5938558812304
+151,3,pitchclass5,Sudan/I Ran after the Dance,Vocal,Middle East North Africa,35.8409640204882
+152,4,pitchclass8,Sudan/I Ran after the Dance,Vocal,Middle East North Africa,39.737055415244
+153,5,pitchclass10,Sudan/I Ran after the Dance,Vocal,Middle East North Africa,28.2244450704202
+154,0,pitchclass1,Sudan/Manyang Buried Himself Alive,Vocal,Middle East North Africa,47.9678284829734
+155,1,pitchclass3,Sudan/Manyang Buried Himself Alive,Vocal,Middle East North Africa,24.5609105882331
+156,2,pitchclass6,Sudan/Manyang Buried Himself Alive,Vocal,Middle East North Africa,9.30130507099057
+157,3,pitchclass7,Sudan/Manyang Buried Himself Alive,Vocal,Middle East North Africa,30.2989978609567
+158,4,pitchclass8,Sudan/Manyang Buried Himself Alive,Vocal,Middle East North Africa,15.9687165085415
+159,5,pitchclass9,Sudan/Manyang Buried Himself Alive,Vocal,Middle East North Africa,26.196453921566
+160,6,pitchclass10,Sudan/Manyang Buried Himself Alive,Vocal,Middle East North Africa,49.355393665157
+161,0,pitchclass1,Sudan/Manyang Wet Himself,Vocal,Middle East North Africa,49.4733277777777
+162,1,pitchclass2,Sudan/Manyang Wet Himself,Vocal,Middle East North Africa,18.6077210970488
+163,2,pitchclass4,Sudan/Manyang Wet Himself,Vocal,Middle East North Africa,31.8063587570614
+164,3,pitchclass5,Sudan/Manyang Wet Himself,Vocal,Middle East North Africa,13.3022976190478
+165,4,pitchclass6,Sudan/Manyang Wet Himself,Vocal,Middle East North Africa,5.87786616915582
+166,5,pitchclass7,Sudan/Manyang Wet Himself,Vocal,Middle East North Africa,5.82690555555564
+167,0,pitchclass1,Sudan/The Age-Set,Vocal,Middle East North Africa,38.6315217356369
+168,1,pitchclass2,Sudan/The Age-Set,Vocal,Middle East North Africa,32.5430490245981
+169,2,pitchclass4,Sudan/The Age-Set,Vocal,Middle East North Africa,27.4563898642918
+170,3,pitchclass6,Sudan/The Age-Set,Vocal,Middle East North Africa,8.86927134577309
+171,4,pitchclass8,Sudan/The Age-Set,Vocal,Middle East North Africa,43.8666877275391
+172,5,pitchclass9,Sudan/The Age-Set,Vocal,Middle East North Africa,21.7903545801528
+173,0,pitchclass1,Syria/Syria- Lasbet Ma Yeoud Ezzamane (Vocal) ,Vocal,Middle East North Africa,32.9340341470906
+174,1,pitchclass3,Syria/Syria- Lasbet Ma Yeoud Ezzamane (Vocal) ,Vocal,Middle East North Africa,46.4522279566136
+175,2,pitchclass4,Syria/Syria- Lasbet Ma Yeoud Ezzamane (Vocal) ,Vocal,Middle East North Africa,40.1098758137541
+176,3,pitchclass5,Syria/Syria- Lasbet Ma Yeoud Ezzamane (Vocal) ,Vocal,Middle East North Africa,30.4203390490493
+177,4,pitchclass6,Syria/Syria- Lasbet Ma Yeoud Ezzamane (Vocal) ,Vocal,Middle East North Africa,38.082441722845
+178,5,pitchclass7,Syria/Syria- Lasbet Ma Yeoud Ezzamane (Vocal) ,Vocal,Middle East North Africa,27.5451484328023
+179,6,pitchclass8,Syria/Syria- Lasbet Ma Yeoud Ezzamane (Vocal) ,Vocal,Middle East North Africa,9.69925607691402
+180,7,pitchclass10,Syria/Syria- Lasbet Ma Yeoud Ezzamane (Vocal) ,Vocal,Middle East North Africa,17.1802619248665
+181,0,pitchclass1,Yemen/Dan jammala (Dan of the camel drivers) ,Vocal,Middle East North Africa,19.9818211428592
+182,1,pitchclass3,Yemen/Dan jammala (Dan of the camel drivers) ,Vocal,Middle East North Africa,38.0568284230794
+183,2,pitchclass4,Yemen/Dan jammala (Dan of the camel drivers) ,Vocal,Middle East North Africa,4.89030246154289
+184,3,pitchclass6,Yemen/Dan jammala (Dan of the camel drivers) ,Vocal,Middle East North Africa,35.8583529908265
+185,4,pitchclass7,Yemen/Dan jammala (Dan of the camel drivers) ,Vocal,Middle East North Africa,1.28094126315409
+186,5,pitchclass8,Yemen/Dan jammala (Dan of the camel drivers) ,Vocal,Middle East North Africa,30.652954789477
+187,6,pitchclass11,Yemen/Dan jammala (Dan of the camel drivers) ,Vocal,Middle East North Africa,40.4135140000017
+188,0,pitchclass1,Yemen/Dan jammalla (Dan of the camel drivers) ,Vocal,Middle East North Africa,7.20186530612591
+189,1,pitchclass4,Yemen/Dan jammalla (Dan of the camel drivers) ,Vocal,Middle East North Africa,8.58103382464469
+190,2,pitchclass5,Yemen/Dan jammalla (Dan of the camel drivers) ,Vocal,Middle East North Africa,44.4294739095603
+191,3,pitchclass7,Yemen/Dan jammalla (Dan of the camel drivers) ,Vocal,Middle East North Africa,33.2325214036846
+192,4,pitchclass9,Yemen/Dan jammalla (Dan of the camel drivers) ,Vocal,Middle East North Africa,24.5091037676666
+193,0,pitchclass1,Yemen/Dan tarab - Hayya layali jamila ,Vocal,Middle East North Africa,11.6058878006461
+194,1,pitchclass2,Yemen/Dan tarab - Hayya layali jamila ,Vocal,Middle East North Africa,30.8873571859895
+195,2,pitchclass4,Yemen/Dan tarab - Hayya layali jamila ,Vocal,Middle East North Africa,15.8212354066036
+196,3,pitchclass7,Yemen/Dan tarab - Hayya layali jamila ,Vocal,Middle East North Africa,26.5660691304365
+197,4,pitchclass8,Yemen/Dan tarab - Hayya layali jamila ,Vocal,Middle East North Africa,39.5364911041161
+198,5,pitchclass10,Yemen/Dan tarab - Hayya layali jamila ,Vocal,Middle East North Africa,1.01882855351323
+199,0,pitchclass1,Yemen/Ghazal ,Vocal,Middle East North Africa,15.7469250210252
+200,1,pitchclass4,Yemen/Ghazal ,Vocal,Middle East North Africa,17.7298396551705
+201,2,pitchclass5,Yemen/Ghazal ,Vocal,Middle East North Africa,13.4850881226048
+202,3,pitchclass7,Yemen/Ghazal ,Vocal,Middle East North Africa,2.37703347915158
+203,4,pitchclass8,Yemen/Ghazal ,Vocal,Middle East North Africa,7.71284701149307
+204,5,pitchclass9,Yemen/Ghazal ,Vocal,Middle East North Africa,38.0704567283428
+205,0,pitchclass1,Yemen/Ghinâ' Banî Maghra (Song of Banî Maghra),Vocal,Middle East North Africa,37.2167785714282
+206,1,pitchclass4,Yemen/Ghinâ' Banî Maghra (Song of Banî Maghra),Vocal,Middle East North Africa,36.8736373015872
+207,2,pitchclass5,Yemen/Ghinâ' Banî Maghra (Song of Banî Maghra),Vocal,Middle East North Africa,12.3549964935064
+208,3,pitchclass6,Yemen/Ghinâ' Banî Maghra (Song of Banî Maghra),Vocal,Middle East North Africa,8.59256785714206
+209,4,pitchclass8,Yemen/Ghinâ' Banî Maghra (Song of Banî Maghra),Vocal,Middle East North Africa,48.3690680803593
+210,5,pitchclass9,Yemen/Ghinâ' Banî Maghra (Song of Banî Maghra),Vocal,Middle East North Africa,17.3309435064948
+211,6,pitchclass10,Yemen/Ghinâ' Banî Maghra (Song of Banî Maghra),Vocal,Middle East North Africa,23.6445723602501
+212,0,pitchclass1,Yemen/Rahil ,Vocal,Middle East North Africa,25.3124866931503
+213,1,pitchclass4,Yemen/Rahil ,Vocal,Middle East North Africa,45.4064352748119
+214,2,pitchclass6,Yemen/Rahil ,Vocal,Middle East North Africa,16.9661132075416
+215,3,pitchclass7,Yemen/Rahil ,Vocal,Middle East North Africa,38.0711166273632
+216,4,pitchclass9,Yemen/Rahil ,Vocal,Middle East North Africa,37.2252495077973
+0,0,pitchclass2,Algonkians/Bear Hunting Song,Vocal,North America,10.2301527322434
+1,1,pitchclass3,Algonkians/Bear Hunting Song,Vocal,North America,2.12523408946254
+2,0,pitchclass2,Algonkians/Hunting Song (0_33 duration),Vocal,North America,28.0285720375105
+3,1,pitchclass3,Algonkians/Hunting Song (0_33 duration),Vocal,North America,47.3498109391112
+4,2,pitchclass5,Algonkians/Hunting Song (0_33 duration),Vocal,North America,23.1366346749237
+5,0,pitchclass2,Algonkians/I Hunt with My Sons,Vocal,North America,43.9211239864835
+6,1,pitchclass3,Algonkians/I Hunt with My Sons,Vocal,North America,5.86557494802219
+7,2,pitchclass5,Algonkians/I Hunt with My Sons,Vocal,North America,41.1733749480263
+8,3,pitchclass6,Algonkians/I Hunt with My Sons,Vocal,North America,48.6482751414205
+9,0,pitchclass2,Algonkians/I Shot a Caribou,Vocal,North America,32.8613554527565
+10,1,pitchclass3,Algonkians/I Shot a Caribou,Vocal,North America,9.82216724138016
+11,2,pitchclass4,Algonkians/I Shot a Caribou,Vocal,North America,40.5568018062422
+12,0,pitchclass1,Algonkians/In the Winter I Hunt All the Time,Vocal,North America,20.298209697934
+13,1,pitchclass4,Algonkians/In the Winter I Hunt All the Time,Vocal,North America,15.2281628482979
+14,2,pitchclass5,Algonkians/In the Winter I Hunt All the Time,Vocal,North America,34.9532203921572
+15,0,pitchclass1,American Indians/A Buffalo Said to Me,Vocal,North America,16.1745284838689
+16,1,pitchclass4,American Indians/A Buffalo Said to Me,Vocal,North America,26.462069516132
+17,2,pitchclass6,American Indians/A Buffalo Said to Me,Vocal,North America,47.3520408494642
+18,3,pitchclass7,American Indians/A Buffalo Said to Me,Vocal,North America,8.95577951612904
+19,0,pitchclass1,American Indians/A Path on the Mountain Peaks,Vocal,North America,21.8335156793873
+20,1,pitchclass4,American Indians/A Path on the Mountain Peaks,Vocal,North America,39.8526637769555
+21,0,pitchclass1,American Indians/Going Around the World,Vocal,North America,34.3151893946724
+22,1,pitchclass3,American Indians/Going Around the World,Vocal,North America,41.1995479913476
+23,2,pitchclass4,American Indians/Going Around the World,Vocal,North America,45.8017832722235
+24,3,pitchclass6,American Indians/Going Around the World,Vocal,North America,1.05413917675651
+25,4,pitchclass9,American Indians/Going Around the World,Vocal,North America,10.9145979660989
+26,5,pitchclass10,American Indians/Going Around the World,Vocal,North America,34.3549313394578
+27,6,pitchclass11,American Indians/Going Around the World,Vocal,North America,16.3400420339003
+28,0,pitchclass3,American Indians/Healing Song of the Eagle Spirit,Vocal,North America,32.7698596632108
+29,1,pitchclass5,American Indians/Healing Song of the Eagle Spirit,Vocal,North America,6.47178432298279
+30,2,pitchclass7,American Indians/Healing Song of the Eagle Spirit,Vocal,North America,47.8333027975023
+31,0,pitchclass3,American Indians/Healing Song of the Little Green Man,Vocal,North America,6.05006007625707
+32,1,pitchclass5,American Indians/Healing Song of the Little Green Man,Vocal,North America,47.7584044573632
+33,2,pitchclass7,American Indians/Healing Song of the Little Green Man,Vocal,North America,20.5230897869678
+34,3,pitchclass8,American Indians/Healing Song of the Little Green Man,Vocal,North America,33.8456602564111
+35,0,pitchclass1,American Indians/I Am Rewarding You,Vocal,North America,25.0852107070732
+36,1,pitchclass2,American Indians/I Am Rewarding You,Vocal,North America,41.96592913526
+37,2,pitchclass5,American Indians/I Am Rewarding You,Vocal,North America,41.1330599999947
+38,3,pitchclass6,American Indians/I Am Rewarding You,Vocal,North America,9.77192645767537
+39,4,pitchclass7,American Indians/I Am Rewarding You,Vocal,North America,14.7829620527846
+40,5,pitchclass8,American Indians/I Am Rewarding You,Vocal,North America,29.438732398683
+41,0,pitchclass3,American Indians/Song of the Bear,Vocal,North America,21.600475909092
+42,1,pitchclass4,American Indians/Song of the Bear,Vocal,North America,0.413752979797209
+43,2,pitchclass5,American Indians/Song of the Bear,Vocal,North America,37.4755617853771
+44,3,pitchclass7,American Indians/Song of the Bear,Vocal,North America,0.297984736071157
+45,4,pitchclass8,American Indians/Song of the Bear,Vocal,North America,48.0325040909083
+46,0,pitchclass1,American Indians/Song of the Dawn,Vocal,North America,28.8683611111173
+47,1,pitchclass4,American Indians/Song of the Dawn,Vocal,North America,45.6030007936461
+48,2,pitchclass6,American Indians/Song of the Dawn,Vocal,North America,29.4395607142942
+49,3,pitchclass8,American Indians/Song of the Dawn,Vocal,North America,14.2425914634077
+50,4,pitchclass9,American Indians/Song of the Dawn,Vocal,North America,35.4005514814853
+51,0,pitchclass3,American Indians/Song of the Juggler,Vocal,North America,18.4942645134161
+52,1,pitchclass5,American Indians/Song of the Juggler,Vocal,North America,30.6068315346656
+53,2,pitchclass6,American Indians/Song of the Juggler,Vocal,North America,36.1356211133643
+54,0,pitchclass1,American Indians/Song to a Little Yellow Wasp,Vocal,North America,40.3316896650776
+55,1,pitchclass2,American Indians/Song to a Little Yellow Wasp,Vocal,North America,22.3499195454478
+56,2,pitchclass3,American Indians/Song to a Little Yellow Wasp,Vocal,North America,11.3963429545511
+57,3,pitchclass5,American Indians/Song to a Little Yellow Wasp,Vocal,North America,16.3182820454458
+58,4,pitchclass7,American Indians/Song to a Little Yellow Wasp,Vocal,North America,23.6038509970604
+59,0,pitchclass3,Great Lakes/03 Medley_ Deer Song _ Jesus Wegwissian,Vocal,North America,43.8780847222242
+60,1,pitchclass4,Great Lakes/03 Medley_ Deer Song _ Jesus Wegwissian,Vocal,North America,38.6461773550727
+61,2,pitchclass5,Great Lakes/03 Medley_ Deer Song _ Jesus Wegwissian,Vocal,North America,34.7034141666645
+62,3,pitchclass7,Great Lakes/03 Medley_ Deer Song _ Jesus Wegwissian,Vocal,North America,39.6328860507256
+63,4,pitchclass8,Great Lakes/03 Medley_ Deer Song _ Jesus Wegwissian,Vocal,North America,40.9369998983693
+64,0,pitchclass2,Great Lakes/07 Bear Dance,Vocal,North America,24.9542937499973
+65,1,pitchclass4,Great Lakes/07 Bear Dance,Vocal,North America,6.22697200000039
+66,2,pitchclass5,Great Lakes/07 Bear Dance,Vocal,North America,33.8466538461507
+67,0,pitchclass1,Great Lakes/08 Eagle Dance,Vocal,North America,3.18730000000323
+68,1,pitchclass4,Great Lakes/08 Eagle Dance,Vocal,North America,49.6019000000033
+69,2,pitchclass5,Great Lakes/08 Eagle Dance,Vocal,North America,38.9793774193549
+70,3,pitchclass6,Great Lakes/08 Eagle Dance,Vocal,North America,21.3441747311754
+71,0,pitchclass2,Great Lakes/10 Scalp Dance,Vocal,North America,4.17392510344689
+72,1,pitchclass4,Great Lakes/10 Scalp Dance,Vocal,North America,4.6537270909048
+73,2,pitchclass5,Great Lakes/10 Scalp Dance,Vocal,North America,16.1898221666652
+74,3,pitchclass6,Great Lakes/10 Scalp Dance,Vocal,North America,48.0132986666686
+75,4,pitchclass7,Great Lakes/10 Scalp Dance,Vocal,North America,28.3000415238093
+76,5,pitchclass8,Great Lakes/10 Scalp Dance,Vocal,North America,33.9632490344848
+77,6,pitchclass9,Great Lakes/10 Scalp Dance,Vocal,North America,37.7112059130432
+78,0,pitchclass2,Great Lakes/11 Corn Dance,Vocal,North America,31.3140927329205
+79,1,pitchclass3,Great Lakes/11 Corn Dance,Vocal,North America,43.2746039337471
+80,2,pitchclass4,Great Lakes/11 Corn Dance,Vocal,North America,2.96042615596707
+81,3,pitchclass6,Great Lakes/11 Corn Dance,Vocal,North America,32.2880015527935
+82,4,pitchclass8,Great Lakes/11 Corn Dance,Vocal,North America,48.6885206004081
+83,5,pitchclass9,Great Lakes/11 Corn Dance,Vocal,North America,31.3338372670769
+84,0,pitchclass1,Great Lakes/15 Two Future Projects_ Gordie and Morris Buck _ Wesleyan Hymn,Vocal,North America,14.9753335677706
+85,1,pitchclass2,Great Lakes/15 Two Future Projects_ Gordie and Morris Buck _ Wesleyan Hymn,Vocal,North America,28.9655771764701
+86,2,pitchclass3,Great Lakes/15 Two Future Projects_ Gordie and Morris Buck _ Wesleyan Hymn,Vocal,North America,42.3468604072386
+87,3,pitchclass5,Great Lakes/15 Two Future Projects_ Gordie and Morris Buck _ Wesleyan Hymn,Vocal,North America,8.2468287797783
+88,4,pitchclass6,Great Lakes/15 Two Future Projects_ Gordie and Morris Buck _ Wesleyan Hymn,Vocal,North America,37.7956182431371
+89,5,pitchclass7,Great Lakes/15 Two Future Projects_ Gordie and Morris Buck _ Wesleyan Hymn,Vocal,North America,35.6945767929064
+90,6,pitchclass8,Great Lakes/15 Two Future Projects_ Gordie and Morris Buck _ Wesleyan Hymn,Vocal,North America,33.3814323852621
+91,0,pitchclass1,Kiowa-Apache/Buffalo Dance Song,Vocal,North America,1.8513869264043
+92,1,pitchclass5,Kiowa-Apache/Buffalo Dance Song,Vocal,North America,22.1913177402657
+93,2,pitchclass6,Kiowa-Apache/Buffalo Dance Song,Vocal,North America,27.4457002597374
+94,3,pitchclass8,Kiowa-Apache/Buffalo Dance Song,Vocal,North America,7.86493359306951
+95,4,pitchclass10,Kiowa-Apache/Buffalo Dance Song,Vocal,North America,47.537492259733
+96,5,pitchclass12,Kiowa-Apache/Buffalo Dance Song,Vocal,North America,49.990259740267
+97,6,pitchclass13,Kiowa-Apache/Buffalo Dance Song,Vocal,North America,39.0904589263992
+98,0,pitchclass3,"Kiowa-Apache/Go to Sleep, Baby Boy",Vocal,North America,14.2038725214188
+99,1,pitchclass4,"Kiowa-Apache/Go to Sleep, Baby Boy",Vocal,North America,33.938826417987
+100,2,pitchclass6,"Kiowa-Apache/Go to Sleep, Baby Boy",Vocal,North America,31.2056031035099
+101,3,pitchclass8,"Kiowa-Apache/Go to Sleep, Baby Boy",Vocal,North America,5.8077697444769
+102,0,pitchclass3,Kiowa-Apache/Puppy Song,Vocal,North America,0.505989249830236
+103,1,pitchclass5,Kiowa-Apache/Puppy Song,Vocal,North America,34.0790229190534
+104,2,pitchclass7,Kiowa-Apache/Puppy Song,Vocal,North America,39.201296794874
+105,0,pitchclass1,Kiowa-Apache/Turkey Song,Vocal,North America,26.3974486772495
+106,1,pitchclass5,Kiowa-Apache/Turkey Song,Vocal,North America,45.3572748423976
+107,0,pitchclass1,Kiowa-Apache/Turtle Song,Vocal,North America,27.1541598461463
+108,1,pitchclass5,Kiowa-Apache/Turtle Song,Vocal,North America,2.26190217948351
+109,0,pitchclass1,Kiowa-Apache/Wolf Song (0_31 duration),Vocal,North America,9.84434587251235
+110,1,pitchclass5,Kiowa-Apache/Wolf Song (0_31 duration),Vocal,North America,21.0074004733015
+111,2,pitchclass6,Kiowa-Apache/Wolf Song (0_31 duration),Vocal,North America,20.6321392183963
+112,0,pitchclass1,Kwakiutl/2 A7_ Raven Song,Vocal,North America,44.3029827870687
+113,1,pitchclass2,Kwakiutl/2 A7_ Raven Song,Vocal,North America,5.61137092048375
+114,2,pitchclass4,Kwakiutl/2 A7_ Raven Song,Vocal,North America,18.3956874879223
+115,0,pitchclass3,Kwakiutl/2-01 TW36_ Bukwas Songs,Vocal,North America,45.5700099999976
+116,0,pitchclass1,"Kwakiutl/2-02 TW40_ Thunderbird Song, Hiligyala Song",Vocal,North America,1.91848695887074
+117,1,pitchclass2,"Kwakiutl/2-02 TW40_ Thunderbird Song, Hiligyala Song",Vocal,North America,19.6537431972793
+118,2,pitchclass3,"Kwakiutl/2-02 TW40_ Thunderbird Song, Hiligyala Song",Vocal,North America,36.7671034798495
+119,3,pitchclass6,"Kwakiutl/2-02 TW40_ Thunderbird Song, Hiligyala Song",Vocal,North America,44.444498391249
+120,4,pitchclass7,"Kwakiutl/2-02 TW40_ Thunderbird Song, Hiligyala Song",Vocal,North America,3.03820272602206
+121,5,pitchclass8,"Kwakiutl/2-02 TW40_ Thunderbird Song, Hiligyala Song",Vocal,North America,37.5494509523796
+122,0,pitchclass1,Kwakiutl/2-04 The MM68_ Stonebody,Vocal,North America,24.0972722222214
+123,1,pitchclass5,Kwakiutl/2-04 The MM68_ Stonebody,Vocal,North America,32.4471308390021
+124,2,pitchclass7,Kwakiutl/2-04 The MM68_ Stonebody,Vocal,North America,0.83222222222139
+125,0,pitchclass1,Kwakiutl/2-08 A8_ Whale Song,Vocal,North America,37.75939732394
+126,1,pitchclass2,Kwakiutl/2-08 A8_ Whale Song,Vocal,North America,17.5763468865825
+127,2,pitchclass5,Kwakiutl/2-08 A8_ Whale Song,Vocal,North America,13.145291869394
+128,0,pitchclass1,Kwakiutl/2-09 MM28_ Old Potlatch Song,Vocal,North America,11.3239123366984
+129,1,pitchclass4,Kwakiutl/2-09 MM28_ Old Potlatch Song,Vocal,North America,14.6404495772349
+130,0,pitchclass3,"Kwakiutl/2-12 N38_ Nimkish Dance, Wind Song",Vocal,North America,15.7366262213345
+131,1,pitchclass4,"Kwakiutl/2-12 N38_ Nimkish Dance, Wind Song",Vocal,North America,40.0608783389798
+132,2,pitchclass5,"Kwakiutl/2-12 N38_ Nimkish Dance, Wind Song",Vocal,North America,49.1412506011875
+133,3,pitchclass7,"Kwakiutl/2-12 N38_ Nimkish Dance, Wind Song",Vocal,North America,47.3974685499088
+134,0,pitchclass1,"Kwakiutl/3 TW19_ Hagok Song, Huk Huk Song",Vocal,North America,34.4029148830286
+135,1,pitchclass2,"Kwakiutl/3 TW19_ Hagok Song, Huk Huk Song",Vocal,North America,8.02274306122126
+136,2,pitchclass5,"Kwakiutl/3 TW19_ Hagok Song, Huk Huk Song",Vocal,North America,40.2128791864634
+137,3,pitchclass6,"Kwakiutl/3 TW19_ Hagok Song, Huk Huk Song",Vocal,North America,37.7710535321803
+138,0,pitchclass1,"Kwakiutl/4 N35_ Hagok Song, Huk Huk Song",Vocal,North America,19.6125854166658
+139,1,pitchclass2,"Kwakiutl/4 N35_ Hagok Song, Huk Huk Song",Vocal,North America,38.4027637896834
+140,2,pitchclass6,"Kwakiutl/4 N35_ Hagok Song, Huk Huk Song",Vocal,North America,45.9753520833328
+141,0,pitchclass2,Kwakiutl/5 MM59_ Hunting for Mountain Goat,Vocal,North America,25.1504592592573
+142,1,pitchclass3,Kwakiutl/5 MM59_ Hunting for Mountain Goat,Vocal,North America,30.9231062893123
+143,2,pitchclass5,Kwakiutl/5 MM59_ Hunting for Mountain Goat,Vocal,North America,39.6176262820554
+144,0,pitchclass2,Kwakiutl/6 TW21_ Mountain Goat Song,Vocal,North America,24.9504670947044
+145,1,pitchclass3,Kwakiutl/6 TW21_ Mountain Goat Song,Vocal,North America,37.5637490428671
+146,2,pitchclass5,Kwakiutl/6 TW21_ Mountain Goat Song,Vocal,North America,22.382842808991
+147,0,pitchclass1,Kwakiutl/7 H2_ Hamatsa Song,Vocal,North America,42.9710954954962
+148,1,pitchclass2,Kwakiutl/7 H2_ Hamatsa Song,Vocal,North America,43.8023288288296
+149,2,pitchclass5,Kwakiutl/7 H2_ Hamatsa Song,Vocal,North America,39.4801534628368
+150,3,pitchclass6,Kwakiutl/7 H2_ Hamatsa Song,Vocal,North America,36.5408014478817
+151,4,pitchclass7,Kwakiutl/7 H2_ Hamatsa Song,Vocal,North America,44.8025878378376
+152,0,pitchclass1,Kwakiutl/9 N41_ Hamatsa Song,Vocal,North America,30.8610616161677
+153,1,pitchclass2,Kwakiutl/9 N41_ Hamatsa Song,Vocal,North America,4.92043838383142
+154,2,pitchclass4,Kwakiutl/9 N41_ Hamatsa Song,Vocal,North America,16.2060738004966
+155,3,pitchclass5,Kwakiutl/9 N41_ Hamatsa Song,Vocal,North America,17.2540235209272
+156,4,pitchclass6,Kwakiutl/9 N41_ Hamatsa Song,Vocal,North America,7.55216479077171
+157,5,pitchclass8,Kwakiutl/9 N41_ Hamatsa Song,Vocal,North America,39.6923764309831
+158,6,pitchclass9,Kwakiutl/9 N41_ Hamatsa Song,Vocal,North America,41.9812324494997
+159,0,pitchclass1,Metis/Adéline,Vocal,North America,19.9223201477871
+160,1,pitchclass2,Metis/Adéline,Vocal,North America,23.2046541379277
+161,2,pitchclass4,Metis/Adéline,Vocal,North America,4.69055111467424
+162,3,pitchclass6,Metis/Adéline,Vocal,North America,42.5041607801013
+163,4,pitchclass7,Metis/Adéline,Vocal,North America,39.8064308620724
+164,5,pitchclass8,Metis/Adéline,Vocal,North America,27.7657431347961
+165,6,pitchclass9,Metis/Adéline,Vocal,North America,45.0402056763905
+166,7,pitchclass11,Metis/Adéline,Vocal,North America,28.0056251954011
+167,8,pitchclass13,Metis/Adéline,Vocal,North America,23.6508016954049
+168,0,pitchclass1,Metis/Chanson à Boire (Drinking Song),Vocal,North America,0.460181832297167
+169,1,pitchclass3,Metis/Chanson à Boire (Drinking Song),Vocal,North America,21.7483027443595
+170,2,pitchclass4,Metis/Chanson à Boire (Drinking Song),Vocal,North America,8.13453564425436
+171,3,pitchclass5,Metis/Chanson à Boire (Drinking Song),Vocal,North America,18.5146745391721
+172,4,pitchclass7,Metis/Chanson à Boire (Drinking Song),Vocal,North America,47.292087126245
+173,5,pitchclass8,Metis/Chanson à Boire (Drinking Song),Vocal,North America,30.7031329831953
+174,6,pitchclass10,Metis/Chanson à Boire (Drinking Song),Vocal,North America,22.1039464285695
+175,0,pitchclass2,Metis/Le Matelot de Montréal (The Sailor from Montreal),Vocal,North America,32.286152758621
+176,1,pitchclass3,Metis/Le Matelot de Montréal (The Sailor from Montreal),Vocal,North America,30.5282591222603
+177,2,pitchclass4,Metis/Le Matelot de Montréal (The Sailor from Montreal),Vocal,North America,36.9841522413772
+178,3,pitchclass5,Metis/Le Matelot de Montréal (The Sailor from Montreal),Vocal,North America,11.9154427175654
+179,4,pitchclass6,Metis/Le Matelot de Montréal (The Sailor from Montreal),Vocal,North America,9.95490581280683
+180,0,pitchclass1,New Mexico/Two-Step Dance Song (2),Vocal,North America,43.1501577083363
+181,1,pitchclass4,New Mexico/Two-Step Dance Song (2),Vocal,North America,38.5454910416684
+182,2,pitchclass5,New Mexico/Two-Step Dance Song (2),Vocal,North America,45.9571618750015
+183,3,pitchclass7,New Mexico/Two-Step Dance Song (2),Vocal,North America,19.8725345993553
+184,4,pitchclass8,New Mexico/Two-Step Dance Song (2),Vocal,North America,20.2977243429486
+185,0,pitchclass3,Piegan/02 Four Short Medicine Pipe Songs,Vocal,North America,6.56173340621535
+186,1,pitchclass4,Piegan/02 Four Short Medicine Pipe Songs,Vocal,North America,45.5916117559118
+187,2,pitchclass5,Piegan/02 Four Short Medicine Pipe Songs,Vocal,North America,32.6039352597418
+188,3,pitchclass6,Piegan/02 Four Short Medicine Pipe Songs,Vocal,North America,32.8138321064289
+189,4,pitchclass7,Piegan/02 Four Short Medicine Pipe Songs,Vocal,North America,21.1575381818202
+190,0,pitchclass1,Piegan/10 Lullaby (Baby Song),Vocal,North America,42.2743252272776
+191,1,pitchclass2,Piegan/10 Lullaby (Baby Song),Vocal,North America,21.01039349651
+192,2,pitchclass3,Piegan/10 Lullaby (Baby Song),Vocal,North America,22.1934293939448
+193,3,pitchclass5,Piegan/10 Lullaby (Baby Song),Vocal,North America,5.94401862865561
+194,4,pitchclass6,Piegan/10 Lullaby (Baby Song),Vocal,North America,23.8978650349745
+195,5,pitchclass8,Piegan/10 Lullaby (Baby Song),Vocal,North America,0.365796060612411
+196,0,pitchclass1,Piegan/19 Owl Dance Song (1-2),Vocal,North America,20.3453423723513
+197,1,pitchclass3,Piegan/19 Owl Dance Song (1-2),Vocal,North America,33.6517479508675
+198,2,pitchclass5,Piegan/19 Owl Dance Song (1-2),Vocal,North America,5.58050525114049
+199,3,pitchclass6,Piegan/19 Owl Dance Song (1-2),Vocal,North America,5.7083844178087
+200,0,pitchclass2,Siksika/04 Sun Dance Song (1-3),Vocal,North America,20.5960849999992
+201,1,pitchclass3,Siksika/04 Sun Dance Song (1-3),Vocal,North America,3.55371833333265
+202,2,pitchclass4,Siksika/04 Sun Dance Song (1-3),Vocal,North America,1.92014666666728
+203,3,pitchclass5,Siksika/04 Sun Dance Song (1-3),Vocal,North America,31.8696118181815
+204,4,pitchclass6,Siksika/04 Sun Dance Song (1-3),Vocal,North America,40.8346660000007
+205,0,pitchclass1,Siksika/11 Night Love Song,Vocal,North America,45.758098039214
+206,1,pitchclass3,Siksika/11 Night Love Song,Vocal,North America,4.28410976220403
+207,2,pitchclass4,Siksika/11 Night Love Song,Vocal,North America,2.4602830882377
+208,3,pitchclass7,Siksika/11 Night Love Song,Vocal,North America,40.0222708873371
+209,4,pitchclass9,Siksika/11 Night Love Song,Vocal,North America,44.8384906132687
+210,0,pitchclass3,Siksika/12 Gambling Song,Vocal,North America,30.5565444297081
+211,1,pitchclass4,Siksika/12 Gambling Song,Vocal,North America,17.3010699059541
+212,2,pitchclass5,Siksika/12 Gambling Song,Vocal,North America,30.1370938809978
+213,3,pitchclass7,Siksika/12 Gambling Song,Vocal,North America,45.6872122504556
+214,4,pitchclass8,Siksika/12 Gambling Song,Vocal,North America,31.0518413467798
+0,0,pitchclass1,Argentina/Chants (No. 46 and 47),Vocal,South America,39.1997188492023
+1,1,pitchclass3,Argentina/Chants (No. 46 and 47),Vocal,South America,31.0400426495089
+2,2,pitchclass5,Argentina/Chants (No. 46 and 47),Vocal,South America,8.48348273809279
+3,0,pitchclass1,Argentina/First Otrich K'meyu Chant,Vocal,South America,25.9474229166681
+4,1,pitchclass4,Argentina/First Otrich K'meyu Chant,Vocal,South America,38.297981333335
+5,0,pitchclass1,Argentina/Haichula_ Pre-Dawn Chant,Vocal,South America,22.4548156162455
+6,1,pitchclass4,Argentina/Haichula_ Pre-Dawn Chant,Vocal,South America,36.3873463813597
+7,0,pitchclass1,Argentina/Kachira K'meyu Chant,Vocal,South America,36.9124788541631
+8,1,pitchclass4,Argentina/Kachira K'meyu Chant,Vocal,South America,14.9088718518524
+9,0,pitchclass1,Argentina/Kulpush,Vocal,South America,17.2647222005962
+10,0,pitchclass1,"Argentina/Lament (No. 36), Lament (No. 37)",Vocal,South America,42.0997000000025
+11,1,pitchclass2,"Argentina/Lament (No. 36), Lament (No. 37)",Vocal,South America,29.7739536666641
+12,2,pitchclass3,"Argentina/Lament (No. 36), Lament (No. 37)",Vocal,South America,6.68742908805325
+13,3,pitchclass6,"Argentina/Lament (No. 36), Lament (No. 37)",Vocal,South America,44.3018226190452
+14,4,pitchclass7,"Argentina/Lament (No. 36), Lament (No. 37)",Vocal,South America,5.08945000000131
+15,5,pitchclass8,"Argentina/Lament (No. 36), Lament (No. 37)",Vocal,South America,46.7487002688195
+16,0,pitchclass3,Argentina/Lolo K'meyu Chant,Vocal,South America,13.0454353046352
+17,1,pitchclass4,Argentina/Lolo K'meyu Chant,Vocal,South America,20.200016294224
+18,2,pitchclass5,Argentina/Lolo K'meyu Chant,Vocal,South America,28.9221332155812
+19,0,pitchclass2,Argentina/Lullaby (No. 45),Vocal,South America,14.1401835518027
+20,1,pitchclass3,Argentina/Lullaby (No. 45),Vocal,South America,21.239658170969
+21,2,pitchclass4,Argentina/Lullaby (No. 45),Vocal,South America,23.3666977605535
+22,3,pitchclass5,Argentina/Lullaby (No. 45),Vocal,South America,36.3742050850415
+23,4,pitchclass6,Argentina/Lullaby (No. 45),Vocal,South America,11.1327769027448
+24,5,pitchclass8,Argentina/Lullaby (No. 45),Vocal,South America,37.2700703875926
+25,0,pitchclass1,Argentina/Maude-en - Matan,Vocal,South America,44.3461982456138
+26,1,pitchclass2,Argentina/Maude-en - Matan,Vocal,South America,49.1693297113761
+27,2,pitchclass5,Argentina/Maude-en - Matan,Vocal,South America,48.6855850036118
+28,3,pitchclass6,Argentina/Maude-en - Matan,Vocal,South America,48.7829190789526
+29,4,pitchclass7,Argentina/Maude-en - Matan,Vocal,South America,43.1998511796701
+30,0,pitchclass3,Argentina/Shaman Chant No. 1,Vocal,South America,48.829715834403
+31,1,pitchclass4,Argentina/Shaman Chant No. 1,Vocal,South America,15.7363531410647
+32,0,pitchclass1,Argentina/Shaman Chant No. 2,Vocal,South America,47.0899853510164
+33,1,pitchclass5,Argentina/Shaman Chant No. 2,Vocal,South America,22.1290595465252
+34,0,pitchclass2,"Argentina/Shaman Chant No. 21, Shaman Chant No. 22",Vocal,South America,47.4050037634406
+35,1,pitchclass3,"Argentina/Shaman Chant No. 21, Shaman Chant No. 22",Vocal,South America,16.6019810967755
+36,2,pitchclass4,"Argentina/Shaman Chant No. 21, Shaman Chant No. 22",Vocal,South America,42.9476533758461
+37,0,pitchclass1,Argentina/Shaman Chant No. 29,Vocal,South America,19.1414916252907
+38,1,pitchclass2,Argentina/Shaman Chant No. 29,Vocal,South America,45.7152773356775
+39,2,pitchclass4,Argentina/Shaman Chant No. 29,Vocal,South America,9.02077807945534
+40,0,pitchclass1,Argentina/Shaman Chant No. 7,Vocal,South America,24.2614284615374
+41,1,pitchclass2,Argentina/Shaman Chant No. 7,Vocal,South America,15.7224034615356
+42,2,pitchclass4,Argentina/Shaman Chant No. 7,Vocal,South America,24.3310230536117
+43,0,pitchclass3,Argentina/Yo te ko ho o ru,Vocal,South America,10.8261630181114
+44,1,pitchclass4,Argentina/Yo te ko ho o ru,Vocal,South America,42.8127105433323
+45,0,pitchclass1,Argentina/Yoimolka K'meyu Chant,Vocal,South America,10.3637025293356
+46,0,pitchclass3,Bolivia/10 Contrapunto,Vocal,South America,41.2938960526299
+47,1,pitchclass5,Bolivia/10 Contrapunto,Vocal,South America,27.9517663043498
+48,2,pitchclass6,Bolivia/10 Contrapunto,Vocal,South America,19.2841894444446
+49,3,pitchclass8,Bolivia/10 Contrapunto,Vocal,South America,40.8678277210966
+50,0,pitchclass1,Brazil/03 Ogum Beira-Mar,Vocal,South America,23.8159403620684
+51,1,pitchclass4,Brazil/03 Ogum Beira-Mar,Vocal,South America,47.8535165833346
+52,2,pitchclass5,Brazil/03 Ogum Beira-Mar,Vocal,South America,35.3823733378376
+53,3,pitchclass7,Brazil/03 Ogum Beira-Mar,Vocal,South America,11.7893332500025
+54,4,pitchclass8,Brazil/03 Ogum Beira-Mar,Vocal,South America,35.8894144999995
+55,0,pitchclass1,Brazil/06 Solo Masculino Cuorocangô,Vocal,South America,7.14154666666309
+56,1,pitchclass2,Brazil/06 Solo Masculino Cuorocangô,Vocal,South America,33.3115539215723
+57,2,pitchclass3,Brazil/06 Solo Masculino Cuorocangô,Vocal,South America,22.7140937810964
+58,3,pitchclass6,Brazil/06 Solo Masculino Cuorocangô,Vocal,South America,14.1799324039657
+59,4,pitchclass7,Brazil/06 Solo Masculino Cuorocangô,Vocal,South America,11.9560200980432
+60,5,pitchclass9,Brazil/06 Solo Masculino Cuorocangô,Vocal,South America,0.494574731181274
+61,0,pitchclass2,Brazil/07 Solo Feminino 3,Vocal,South America,46.2794299370617
+62,1,pitchclass3,Brazil/07 Solo Feminino 3,Vocal,South America,27.3160382806946
+63,2,pitchclass5,Brazil/07 Solo Feminino 3,Vocal,South America,28.034116150553
+64,0,pitchclass1,Brazil/08 Joao de Meta,Vocal,South America,17.0826875366602
+65,1,pitchclass3,Brazil/08 Joao de Meta,Vocal,South America,4.29445935483818
+66,2,pitchclass4,Brazil/08 Joao de Meta,Vocal,South America,11.9584781048416
+67,0,pitchclass1,Brazil/09 Solo Masculino Timbó 1,Vocal,South America,46.8595884615334
+68,1,pitchclass3,Brazil/09 Solo Masculino Timbó 1,Vocal,South America,23.5193722527547
+69,2,pitchclass5,Brazil/09 Solo Masculino Timbó 1,Vocal,South America,8.39197187180616
+70,3,pitchclass6,Brazil/09 Solo Masculino Timbó 1,Vocal,South America,8.64018098291126
+71,4,pitchclass7,Brazil/09 Solo Masculino Timbó 1,Vocal,South America,7.8866634615315
+72,5,pitchclass8,Brazil/09 Solo Masculino Timbó 1,Vocal,South America,48.5960912393111
+73,6,pitchclass9,Brazil/09 Solo Masculino Timbó 1,Vocal,South America,43.0173737179557
+74,0,pitchclass1,Brazil/19 Solo Masculino 5,Vocal,South America,26.2992313064415
+75,1,pitchclass2,Brazil/19 Solo Masculino 5,Vocal,South America,22.728555255233
+76,2,pitchclass3,Brazil/19 Solo Masculino 5,Vocal,South America,21.5603029845879
+77,3,pitchclass4,Brazil/19 Solo Masculino 5,Vocal,South America,44.4234974984738
+78,4,pitchclass6,Brazil/19 Solo Masculino 5,Vocal,South America,15.6742635810697
+79,5,pitchclass7,Brazil/19 Solo Masculino 5,Vocal,South America,35.2483772174328
+80,0,pitchclass1,Brazil/20 Solo Feminino 1,Vocal,South America,36.9603876929214
+81,1,pitchclass2,Brazil/20 Solo Feminino 1,Vocal,South America,2.64783373564933
+82,2,pitchclass4,Brazil/20 Solo Feminino 1,Vocal,South America,12.4908540121469
+83,3,pitchclass6,Brazil/20 Solo Feminino 1,Vocal,South America,1.92658822202247
+84,4,pitchclass7,Brazil/20 Solo Feminino 1,Vocal,South America,21.5965490828839
+85,0,pitchclass1,Brazil/21 Solo Masculino 2,Vocal,South America,31.6801085969018
+86,1,pitchclass4,Brazil/21 Solo Masculino 2,Vocal,South America,43.0790315969025
+87,2,pitchclass6,Brazil/21 Solo Masculino 2,Vocal,South America,4.10163659664613
+88,0,pitchclass2,Brazil/22 Mamainde Healing Song II,Vocal,South America,19.386317658993
+89,1,pitchclass4,Brazil/22 Mamainde Healing Song II,Vocal,South America,3.46510224670055
+90,0,pitchclass1,Brazil/31 Solo Feminino 2,Vocal,South America,3.09019988345608
+91,1,pitchclass2,Brazil/31 Solo Feminino 2,Vocal,South America,12.6898165648763
+92,2,pitchclass5,Brazil/31 Solo Feminino 2,Vocal,South America,38.1342793075764
+93,0,pitchclass1,Brazil/32 Solo Masculino 2,Vocal,South America,2.49383263679192
+94,1,pitchclass2,Brazil/32 Solo Masculino 2,Vocal,South America,5.6950601598146
+95,2,pitchclass3,Brazil/32 Solo Masculino 2,Vocal,South America,35.9331138197758
+96,3,pitchclass5,Brazil/32 Solo Masculino 2,Vocal,South America,45.6474907153734
+97,4,pitchclass6,Brazil/32 Solo Masculino 2,Vocal,South America,4.74975515981714
+98,0,pitchclass3,Brazil/34 Solo Masculino 3,Vocal,South America,48.3354349260571
+99,0,pitchclass1,Brazil/35 Solo Masculino Máscara,Vocal,South America,24.0139713989865
+100,1,pitchclass5,Brazil/35 Solo Masculino Máscara,Vocal,South America,7.73895133037695
+101,0,pitchclass1,Brazil/36 Solo Masculino 4,Vocal,South America,15.7860119230791
+102,1,pitchclass4,Brazil/36 Solo Masculino 4,Vocal,South America,13.4178371367507
+103,2,pitchclass5,Brazil/36 Solo Masculino 4,Vocal,South America,36.7343034444439
+104,0,pitchclass1,Brazil/Karaja solo song man,Vocal,South America,33.3221578386592
+105,1,pitchclass3,Brazil/Karaja solo song man,Vocal,South America,41.1617959220239
+106,2,pitchclass4,Brazil/Karaja solo song man,Vocal,South America,23.0143711736873
+107,3,pitchclass7,Brazil/Karaja solo song man,Vocal,South America,12.8493674270412
+108,4,pitchclass8,Brazil/Karaja solo song man,Vocal,South America,48.2105394625887
+109,0,pitchclass1,Brazil/Shukarramae Solo song man (Juparana),Vocal,South America,15.6186765004513
+110,1,pitchclass2,Brazil/Shukarramae Solo song man (Juparana),Vocal,South America,6.51212286902955
+111,2,pitchclass5,Brazil/Shukarramae Solo song man (Juparana),Vocal,South America,37.0319653369715
+112,3,pitchclass6,Brazil/Shukarramae Solo song man (Juparana),Vocal,South America,47.2664067721635
+113,4,pitchclass7,Brazil/Shukarramae Solo song man (Juparana),Vocal,South America,7.32052328481768
+114,5,pitchclass9,Brazil/Shukarramae Solo song man (Juparana),Vocal,South America,14.349853036254
+115,6,pitchclass10,Brazil/Shukarramae Solo song man (Juparana),Vocal,South America,37.5748775393586
+116,0,pitchclass1,Chile/12 Aymara-Chile-El Floreo,Vocal,South America,28.6608046867514
+117,1,pitchclass4,Chile/12 Aymara-Chile-El Floreo,Vocal,South America,46.8930916048103
+118,2,pitchclass5,Chile/12 Aymara-Chile-El Floreo,Vocal,South America,26.7842951844887
+119,3,pitchclass7,Chile/12 Aymara-Chile-El Floreo,Vocal,South America,48.2785069327438
+120,0,pitchclass2,Ecuador/1-19 Curing Ritual,Vocal,South America,44.4671675657919
+121,1,pitchclass4,Ecuador/1-19 Curing Ritual,Vocal,South America,16.1615161035643
+122,2,pitchclass6,Ecuador/1-19 Curing Ritual,Vocal,South America,12.5528268917551
+123,3,pitchclass7,Ecuador/1-19 Curing Ritual,Vocal,South America,43.3835472779574
+124,0,pitchclass2,French Guiana/Awasa,Vocal,South America,3.75354772727133
+125,1,pitchclass4,French Guiana/Awasa,Vocal,South America,28.9358999999995
+126,2,pitchclass6,French Guiana/Awasa,Vocal,South America,28.3629390000015
+127,3,pitchclass7,French Guiana/Awasa,Vocal,South America,0.282561363636887
+128,4,pitchclass8,French Guiana/Awasa,Vocal,South America,41.4644483333332
+129,5,pitchclass9,French Guiana/Awasa,Vocal,South America,18.621046929823
+130,6,pitchclass10,French Guiana/Awasa,Vocal,South America,19.874603846155
+131,7,pitchclass11,French Guiana/Awasa,Vocal,South America,5.49804605263216
+132,0,pitchclass2,French Guiana/Kumanti,Vocal,South America,9.13179863829464
+133,1,pitchclass3,French Guiana/Kumanti,Vocal,South America,37.0265214491064
+134,2,pitchclass4,French Guiana/Kumanti,Vocal,South America,34.5504049240117
+135,3,pitchclass5,French Guiana/Kumanti,Vocal,South America,7.4985531914881
+136,4,pitchclass7,French Guiana/Kumanti,Vocal,South America,0.711296352581485
+137,5,pitchclass9,French Guiana/Kumanti,Vocal,South America,9.63367009775538
+138,6,pitchclass10,French Guiana/Kumanti,Vocal,South America,8.63822436170267
+139,7,pitchclass11,French Guiana/Kumanti,Vocal,South America,31.0565426950343
+140,0,pitchclass2,French Guiana/Lonsei,Vocal,South America,5.5433729433862
+141,1,pitchclass3,French Guiana/Lonsei,Vocal,South America,35.2906682769717
+142,2,pitchclass4,French Guiana/Lonsei,Vocal,South America,2.68674474052932
+143,3,pitchclass5,French Guiana/Lonsei,Vocal,South America,9.46185101162155
+144,4,pitchclass7,French Guiana/Lonsei,Vocal,South America,29.9281251304346
+145,5,pitchclass9,French Guiana/Lonsei,Vocal,South America,49.446760869565
+146,0,pitchclass3,French Guiana/Love song,Vocal,South America,15.785903507267
+147,1,pitchclass4,French Guiana/Love song,Vocal,South America,0.433972117400117
+148,2,pitchclass5,French Guiana/Love song,Vocal,South America,15.9101306603752
+149,3,pitchclass6,French Guiana/Love song,Vocal,South America,26.6043693445845
+150,4,pitchclass7,French Guiana/Love song,Vocal,South America,25.9498826374966
+151,0,pitchclass2,Peru/02 Song of Marriage,Vocal,South America,15.0235007894735
+152,1,pitchclass3,Peru/02 Song of Marriage,Vocal,South America,32.8637973057648
+153,2,pitchclass4,Peru/02 Song of Marriage,Vocal,South America,23.6784407894702
+154,3,pitchclass6,Peru/02 Song of Marriage,Vocal,South America,10.8492558795642
+155,4,pitchclass8,Peru/02 Song of Marriage,Vocal,South America,12.4951839712921
+156,5,pitchclass9,Peru/02 Song of Marriage,Vocal,South America,12.1338786549713
+157,0,pitchclass1,Peru/05 Funerary Response,Vocal,South America,20.4954126436805
+158,1,pitchclass4,Peru/05 Funerary Response,Vocal,South America,11.6051005747104
+159,2,pitchclass5,Peru/05 Funerary Response,Vocal,South America,10.2722525170993
+160,3,pitchclass6,Peru/05 Funerary Response,Vocal,South America,1.93580681239109
+161,0,pitchclass1,Peru/1-16 War Music,Vocal,South America,17.6862787481859
+162,1,pitchclass2,Peru/1-16 War Music,Vocal,South America,48.7824483560307
+163,2,pitchclass5,Peru/1-16 War Music,Vocal,South America,3.05192874818749
+164,3,pitchclass6,Peru/1-16 War Music,Vocal,South America,33.6459358351458
+165,4,pitchclass7,Peru/1-16 War Music,Vocal,South America,48.714377767792
+166,0,pitchclass3,Peru/15 Wallata,Vocal,South America,3.03319717741942
+167,1,pitchclass4,Peru/15 Wallata,Vocal,South America,46.0131196329257
+168,0,pitchclass1,Peru/25 Corresponding song for alpacas,Vocal,South America,26.78635418661
+169,1,pitchclass3,Peru/25 Corresponding song for alpacas,Vocal,South America,3.25765292398137
+170,2,pitchclass4,Peru/25 Corresponding song for alpacas,Vocal,South America,19.2282982304969
+171,3,pitchclass5,Peru/25 Corresponding song for alpacas,Vocal,South America,12.3689692982407
+172,4,pitchclass6,Peru/25 Corresponding song for alpacas,Vocal,South America,1.57042291787729
+173,5,pitchclass9,Peru/25 Corresponding song for alpacas,Vocal,South America,40.2998367224845
+174,0,pitchclass3,Peru/29 Song of Last Year's Carnaval (1963),Vocal,South America,7.90419409726565
+175,1,pitchclass5,Peru/29 Song of Last Year's Carnaval (1963),Vocal,South America,16.1777225474689
+176,0,pitchclass3,Peru/32 Lullaby,Vocal,South America,26.7437095946007
+177,1,pitchclass4,Peru/32 Lullaby,Vocal,South America,5.84617299999809
+178,2,pitchclass6,Peru/32 Lullaby,Vocal,South America,19.4715242857128
+179,3,pitchclass7,Peru/32 Lullaby,Vocal,South America,5.78128499999912
+180,0,pitchclass2,Peru/Shipibo song,Vocal,South America,15.0977079665645
+181,1,pitchclass3,Peru/Shipibo song,Vocal,South America,26.319880731
+182,2,pitchclass4,Peru/Shipibo song,Vocal,South America,21.326560111107
+183,3,pitchclass6,Peru/Shipibo song,Vocal,South America,32.2186643434434
+184,4,pitchclass7,Peru/Shipibo song,Vocal,South America,6.57378378406247
+185,5,pitchclass9,Peru/Shipibo song,Vocal,South America,25.1139265812017
+186,0,pitchclass1,Suriname/01 Tree-Felling Songs_ Matjáu Baai,Vocal,South America,11.320898809523
+187,1,pitchclass2,Suriname/01 Tree-Felling Songs_ Matjáu Baai,Vocal,South America,4.3918980654762
+188,2,pitchclass6,Suriname/01 Tree-Felling Songs_ Matjáu Baai,Vocal,South America,35.0755585434163
+189,3,pitchclass8,Suriname/01 Tree-Felling Songs_ Matjáu Baai,Vocal,South America,28.4290359842907
+190,4,pitchclass10,Suriname/01 Tree-Felling Songs_ Matjáu Baai,Vocal,South America,27.5411373230363
+191,5,pitchclass11,Suriname/01 Tree-Felling Songs_ Matjáu Baai,Vocal,South America,21.7381006802698
+192,0,pitchclass1,Suriname/02 Adunké,Vocal,South America,34.6016320675135
+193,1,pitchclass3,Suriname/02 Adunké,Vocal,South America,29.7967071481726
+194,2,pitchclass4,Suriname/02 Adunké,Vocal,South America,46.51107873418
+195,3,pitchclass5,Suriname/02 Adunké,Vocal,South America,40.8835737341797
+196,4,pitchclass6,Suriname/02 Adunké,Vocal,South America,2.13642700839046
+197,5,pitchclass8,Suriname/02 Adunké,Vocal,South America,12.0920679324863
+198,0,pitchclass1,Suriname/03 History In Song,Vocal,South America,7.02484662735515
+199,1,pitchclass4,Suriname/03 History In Song,Vocal,South America,22.2539862499962
+200,2,pitchclass5,Suriname/03 History In Song,Vocal,South America,13.5778640277749
+201,3,pitchclass6,Suriname/03 History In Song,Vocal,South America,43.6179237499946
+202,0,pitchclass1,Venezuela/1-22 Welcoming Music,Vocal,South America,41.1323118221499
+203,1,pitchclass5,Venezuela/1-22 Welcoming Music,Vocal,South America,22.0256303515634

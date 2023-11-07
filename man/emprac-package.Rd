@@ -8,9 +8,7 @@
 \description{
 A demo of how to make a simple R package.
 
-This package is an exercise in package creation using
-R studio. The package includes a sample function and
-a sample dataset with their respective documentation.
+This package is an exercise in package creation using R studio. The package includes two sample datasets with their respective documentation.
 }
 \references{
 \url{https://github.com/phille10/emprac}
