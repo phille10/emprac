@@ -1,0 +1,150 @@
+---
+title: "emprac-stats"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{emprac-stats}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+## Introduction
+
+This vignette illustrates the use of the dataset included in the package 'emprac'. I initially collected this dataset to analyze the average vocal pitch-class imprecision and inaccuracy in 10 global musical regions, so I will demonstrate how I statistically analyzed some of these data and plotted the results.
+
+## Preliminaries
+Load the packages used in this vignette:
+
+```{r setup, results='hide', warning=FALSE, message=FALSE}
+r = getOption("repos")
+r["CRAN"] = "http://cran.us.r-project.org"
+options(repos = r)
+install.packages("devtools")
+devtools::install_github("phille10/emprac")
+library(emprac)
+library(ggplot2)
+library(gridExtra)
+library(RColorBrewer)
+library(tidyverse)
+library(broom)
+library(AICcmodavg)
+library(pwr)
+library(sandwich)
+library(multcomp)
+#library(leveneTest)
+library(car)
+library(moments)
+options(contrast=c("contr.sum","contr.poly"))
+
+```
+
+## Loading the data
+To load the data, use the function 'data()': 
+
+```{r load-data}
+data("pitchclass_range", package="emprac")
+```
+
+To inspect the dataframe, use the function 'summary()':
+
+```{r summary-data}
+summary(pitchclass_range)
+```
+
+The data frame consists of 7 variables. The variable definitions can be consulted in the help file:
+
+```{r call-help}
+?pitchclass_range
+```
+
+## Examining pitch-class imprecision across regions
+The region labels  are currently just characters, and we'd like them to be categorical variables (in R, levels of a factor). Let's do that, and combine the region data with just the range data to create a cleaner dataframe for analysis:
+```{r range-cleanup}
+#Define region levels
+regionlevels <- c('Africa','Australia','Central Asia','Circumpolar','East Asia','Europe','Insular Pacific','Middle East North Africa','North America','South America')
+#Create abbreviated dataframe
+regions <- pitchclass_range$region.category
+ranges <- pitchclass_range$pitch.class.range
+rangedata <- data.frame(regions, ranges)
+#Make region a categorical variable
+rangedata$regions <- factor(rangedata$regions, levels=c('Africa','Australia','Central Asia','Circumpolar','East Asia','Europe','Insular Pacific','Middle East North Africa','North America','South America'))
+#get rid of computational outliers
+rangedata <- subset(rangedata, ranges < 400)
+#Re-examine the data
+summary(rangedata)
+```
+
+Now, let's run a simple linear regression on the data:
+```{r lm.01}
+lm.01 <- aov(ranges~1+regions, data=rangedata)
+anova(lm.01)
+```
+
+That looks good! But are the data suitable for an anova in the first place? Let's test some assumptions.
+```{r assumptions-test}
+#Test some basic properties of the data
+skewness(rangedata$ranges)
+sd(rangedata$ranges)
+mean(rangedata$ranges)
+
+#Test the data to see if they fit the assumptions of an anova
+shapiro.test(residuals(lm.01))
+#leveneTest(rangedata$ranges~rangedata$regions,kruskal.test=TRUE)
+fligner.test(rangedata$ranges~rangedata$regions)
+bartlett.test(rangedata$ranges~rangedata$regions)
+oneway.test(rangedata$ranges~1+rangedata$regions)
+kruskal.test(rangedata$ranges~1+rangedata$regions)
+```
+
+These tests indicate that there is a slight right skew to the data, that it is non-normally distributed (Shapiro-Wilk's test) and non-homogeneous (Levene's Test). So, we need a multiple-comparisons method that is more robust to non-heteroscedasticity (while controlling the family-wise error rate). Luckily, there's a package for that:
+```{r glht, warning=FALSE}
+multicomp <- glht(lm.01, linfct = mcp(regions = "Tukey"), vcov = vcovHC)
+summary(multicomp)
+```
+
+What do we find? Pitch-class imprecision was (a) lower in the Middle East-North Africa region than all other regions (p < 0.001), except Central Asia; (b) lower in Central Asia than the Circumpolar and Insular Pacific regions (p < 0.001), as well as East Asia and South America (p < 0.01); (c) higher in the Insular Pacific region than Europe (p < 0.01) and North America (p < 0.05); and (d) higher in the Circumpolar region than Europe (p < 0.05).  
+
+## Plotting the data
+To make a nice colourful figure, I want to plot the mean imprecision of each region with standard deviation error bars.
+
+```{r plotting, warning=FALSE, fig.height=5, fig.width=10, fig.align='center'}
+#Get the means 
+rangemeans <- aggregate(rangedata$ranges, list(rangedata$regions), FUN=mean)
+rangemeans$Group.1 <- factor(rangemeans$Group.1, levels = regionlevels)
+rangemeans <- rangemeans[order(rangemeans$Group.1), ]
+#Get the standard deviations
+rangesds <- aggregate(rangedata$ranges, list(rangedata$regions), FUN=sd)
+rangesds$Group.1 <- factor(rangesds$Group.1, levels = regionlevels)
+rangesds <- rangesds[order(rangesds$Group.1), ]
+#Make one dataframe
+rdf <- data.frame(rangemeans$Group.1, rangemeans$x, rangesds$x)
+names(rdf) <- c('regions','means','sds')
+#Assign some plot parameters
+cols <- c("#0C5BB0FF","#EE0011FF","#15983DFF","#149BEDFF","#FA6B09FF","#EC579AFF","#A1C720FF","#FEC10BFF","#9A703EFF","#16A08CFF")
+regionlevelsshort <- c('Africa','Australia','Central Asia','Circumpolar','East Asia','Europe','Insular Pacific','Middle East','North America','South America')
+
+#Make the plot
+plot1 <- ggplot(rdf, aes(x=regions, y=means, fill=regions)) + 
+  geom_bar(position=position_dodge(), stat="identity",
+           colour = "black", size=0.3)+
+  geom_errorbar(aes(ymin=means-sds, ymax=means+sds),
+                size=0.3,
+                width=0.2,
+                position=position_dodge(0.9))+
+  scale_fill_manual(values=cols)+
+  scale_y_continuous(breaks=seq(0,350,50))+
+  ylab("Pitch class imprecision (cents)")+
+  theme_bw()+
+  theme(text = element_text(size = 16), axis.text.y=element_text(size=14), axis.title.x = element_blank(),axis.text.x = element_blank(), axis.ticks.x = element_blank(), axis.line = element_blank(), axis.ticks.length.x = unit(0, "pt"), legend.position="top") 
+show(plot1)
+
+```
+
+## What next
+Now, can you try doing the same analysis with the other dataset in this package, pitchclass_inacc?
