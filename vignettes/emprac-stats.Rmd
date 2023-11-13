@@ -22,26 +22,9 @@ This vignette illustrates the use of the dataset included in the package 'emprac
 Load the packages used in this vignette:
 
 ```{r setup, results='hide', warning=FALSE, message=FALSE}
-#r = getOption("repos")
-#r["CRAN"] = "http://cran.us.r-project.org"
-#options(repos = r)
-#install.packages("devtools")
 devtools::install_github("phille10/emprac")
 library(emprac)
-#library(ggplot2)
-#library(gridExtra)
-#library(RColorBrewer)
-#library(multcomp)
-#library(moments)
-#library(tidyverse)
-#library(broom)
-#library(AICcmodavg)
-#library(pwr)
-#library(sandwich)
-#library(leveneTest)
-#library(car)
 options(contrast=c("contr.sum","contr.poly"))
-
 
 ```
 
