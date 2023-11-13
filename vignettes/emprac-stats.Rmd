@@ -22,25 +22,26 @@ This vignette illustrates the use of the dataset included in the package 'emprac
 Load the packages used in this vignette:
 
 ```{r setup, results='hide', warning=FALSE, message=FALSE}
-r = getOption("repos")
-r["CRAN"] = "http://cran.us.r-project.org"
-options(repos = r)
-install.packages("devtools")
+#r = getOption("repos")
+#r["CRAN"] = "http://cran.us.r-project.org"
+#options(repos = r)
+#install.packages("devtools")
 devtools::install_github("phille10/emprac")
 library(emprac)
-library(ggplot2)
-library(gridExtra)
-library(RColorBrewer)
-library(tidyverse)
-library(broom)
-library(AICcmodavg)
-library(pwr)
-library(sandwich)
-library(multcomp)
+#library(ggplot2)
+#library(gridExtra)
+#library(RColorBrewer)
+#library(multcomp)
+#library(moments)
+#library(tidyverse)
+#library(broom)
+#library(AICcmodavg)
+#library(pwr)
+#library(sandwich)
 #library(leveneTest)
-library(car)
-library(moments)
+#library(car)
 options(contrast=c("contr.sum","contr.poly"))
+
 
 ```
 
@@ -89,7 +90,7 @@ anova(lm.01)
 That looks good! But are the data suitable for an anova in the first place? Let's test some assumptions.
 ```{r assumptions-test}
 #Test some basic properties of the data
-skewness(rangedata$ranges)
+moments::skewness(rangedata$ranges)
 sd(rangedata$ranges)
 mean(rangedata$ranges)
 
@@ -104,6 +105,8 @@ kruskal.test(rangedata$ranges~1+rangedata$regions)
 
 These tests indicate that there is a slight right skew to the data, that it is non-normally distributed (Shapiro-Wilk's test) and non-homogeneous (Levene's Test). So, we need a multiple-comparisons method that is more robust to non-heteroscedasticity (while controlling the family-wise error rate). Luckily, there's a package for that:
 ```{r glht, warning=FALSE}
+library(multcomp)
+library(sandwich)
 multicomp <- glht(lm.01, linfct = mcp(regions = "Tukey"), vcov = vcovHC)
 summary(multicomp)
 ```
@@ -130,6 +133,7 @@ cols <- c("#0C5BB0FF","#EE0011FF","#15983DFF","#149BEDFF","#FA6B09FF","#EC579AFF
 regionlevelsshort <- c('Africa','Australia','Central Asia','Circumpolar','East Asia','Europe','Insular Pacific','Middle East','North America','South America')
 
 #Make the plot
+library(ggplot2)
 plot1 <- ggplot(rdf, aes(x=regions, y=means, fill=regions)) + 
   geom_bar(position=position_dodge(), stat="identity",
            colour = "black", size=0.3)+
