@@ -6,7 +6,8 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of emprac is to practice building a package in R.
+The goal of emprac is to practice building a package in R. It contains
+two datasets from my first major doctoral publication.
 
 ## Installation
 
@@ -16,6 +17,10 @@ You can install the development version of emprac from
 ``` r
 # install.packages("devtools")
 devtools::install_github("phille10/emprac")
-#> Skipping install of 'emprac' from a github remote, the SHA1 (dad11e12) has not changed since last install.
-#>   Use `force = TRUE` to force installation
 ```
+
+## Vignette
+
+This package contains a vignette, which demonstrates how I analyzed
+these datasets and created some plots. This vignette is in the
+‘vignettes’ folder, in the file ‘emprac-stats.Rmd’.
